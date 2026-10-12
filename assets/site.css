@@ -128,3 +128,10 @@ dt{font:700 10px var(--b);letter-spacing:2px;text-transform:uppercase;color:#888
 @media(max-width:600px){.cover{min-height:min(100svh,860px)}.pricebub{bottom:auto;top:46%}.cvimg img{object-position:45% 50%}}
 .bhero>*,.bgrid>*{min-width:0}body{overflow-x:hidden}
 @media(max-width:600px){.snum.sm{font-size:34px;padding:4px 8px 0}.bike .shead{flex-direction:column;align-items:flex-start;gap:6px}.bike .shead h2{font-size:34px}.gmain{margin:0 -20px}.bprice .sticker{font-size:32px}}
+.pv{position:absolute;left:0;bottom:14px;background:#0b0b0b;color:var(--y);font:800 11px var(--b);letter-spacing:1px;text-transform:uppercase;padding:6px 10px}
+.pvb{display:inline-block;vertical-align:middle;background:var(--y);color:#000;font:800 12px var(--b);letter-spacing:1px;padding:5px 9px;margin-left:8px}
+.hist{margin-bottom:46px}.hgrid{display:grid;grid-template-columns:1fr 1fr;gap:30px}.hist h3{font-family:var(--d);font-weight:400;text-transform:uppercase;font-size:22px;margin:0 0 8px}
+.mots{list-style:none;padding:0;margin:0 0 16px}.mots li{border-left:4px solid var(--y);padding:8px 12px;margin-bottom:6px;background:#f6f6f2;font:14px/1.45 var(--b)}
+.flag{background:#fff6cc;border:2px solid #000;padding:12px 14px;margin:14px 0}.flag b{font-family:var(--d);font-weight:400;text-transform:uppercase;letter-spacing:1px;font-size:18px}.flag p{margin:4px 0 0;font:14px/1.5 var(--b)}
+.hstat{font:600 15px/1.5 var(--b)}.hist .src{color:#666}.hist .src a,.hist .muted a{color:#000}
+@media(max-width:900px){.hgrid{grid-template-columns:1fr}}
