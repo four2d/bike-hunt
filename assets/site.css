@@ -188,3 +188,9 @@ body.sheet::after{content:"";position:fixed;inset:0;background:rgba(0,0,0,.55);z
 .fsh-in{grid-template-columns:auto 1.7fr 1fr 1fr auto;align-items:start}.fsh-bot{grid-column:auto;border:0;padding:0;margin:0;align-self:end}
 @media(max-width:1100px){.fsh-in{grid-template-columns:1fr 1fr}.fsh-bot{grid-column:1/-1}}
 @media(max-width:760px){.fbar{margin:0 -20px}.fsh-in{grid-template-columns:1fr}.fsh-bot{grid-column:auto;align-self:stretch}}
+
+/* Sold overlay */
+.soldtag{position:absolute;left:14px;bottom:14px;background:#111;color:#fff;font:800 12px var(--b);letter-spacing:2px;padding:6px 10px;z-index:2}
+.sticker.soldst,.ast.soldst{background:#111;color:#fff}
+.card.sold .cimg img,.ac.sold .aci img{filter:grayscale(.55) brightness(.9)}
+.card.sold{opacity:.92}
