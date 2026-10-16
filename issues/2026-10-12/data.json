@@ -1,0 +1,294 @@
+{
+ "date": "2026-10-12",
+ "issue": 1,
+ "source": "rebuilt from site commit a06fdd1 (last publish of 2026-10-12)",
+ "top_pick": {
+  "slug": "2023-rs-yellow-shorrock-preston",
+  "name": "Cosmic Yellow RS",
+  "detail": "1,421 miles · £8,495"
+ },
+ "cover_img": "2023-rs-yellow-shorrock-preston-1",
+ "bike_count": 23,
+ "new_bikes": [
+  {
+   "slug": "2020-rs-ebay",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2020-rs-edinburgh-triumph",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2020-rs-ringwood",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2021-r-tewkesbury",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2021-rs-moto-gb",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2023-moto2-ashford",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2023-moto2-blade-triumph-stratford",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2023-moto2-ebay",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2023-moto2-edition-wimborne",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2023-moto2-triumph-newcastle",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2023-r-destination-triumph-fareham",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2023-rs-cosmic-yellow-norwich",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2023-rs-verwood",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2023-rs-yellow-bolton-motorcycles",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2023-rs-yellow-shorrock-preston",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2024-rs-ebay-collection-only",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2025-rs-cosmic-yellow-total-triumph-taunton",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2026-moto2-carl-rosner-croydon",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2026-rs-exdemo-a1-moto-york",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2026-rs-phantom-black-destination-triumph-christchurch",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2026-rs-pre-reg-carl-rosner-croydon",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2026-rx-destination-triumph-christchurch",
+   "note": "not in previous issue"
+  },
+  {
+   "slug": "2026-rx-triumph-world-chesterfield",
+   "note": "not in previous issue"
+  }
+ ],
+ "price_drops": [],
+ "newly_sold": [],
+ "bikes": [
+  {
+   "slug": "2020-rs-ebay",
+   "title": "2020 RS",
+   "location": "eBay",
+   "price": "£6,900 ono",
+   "status": "live",
+   "live_page": "bikes/2020-rs-ebay.html"
+  },
+  {
+   "slug": "2020-rs-edinburgh-triumph",
+   "title": "2020 RS",
+   "location": "Edinburgh Triumph",
+   "price": "£6,895",
+   "status": "live",
+   "live_page": "bikes/2020-rs-edinburgh-triumph.html"
+  },
+  {
+   "slug": "2020-rs-ringwood",
+   "title": "2020 RS",
+   "location": "Ringwood",
+   "price": "£6,988",
+   "status": "live",
+   "live_page": "bikes/2020-rs-ringwood.html"
+  },
+  {
+   "slug": "2021-r-tewkesbury",
+   "title": "2021 R",
+   "location": "Tewkesbury",
+   "price": "£6,490",
+   "status": "live",
+   "live_page": "bikes/2021-r-tewkesbury.html"
+  },
+  {
+   "slug": "2021-rs-moto-gb",
+   "title": "2021 RS",
+   "location": "Moto GB",
+   "price": "£7,499",
+   "status": "live",
+   "live_page": "bikes/2021-rs-moto-gb.html"
+  },
+  {
+   "slug": "2023-moto2-ashford",
+   "title": "2023 Moto2",
+   "location": "Ashford",
+   "price": "£10,093",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-ashford.html"
+  },
+  {
+   "slug": "2023-moto2-blade-triumph-stratford",
+   "title": "2023 Moto2",
+   "location": "Blade Triumph, Stratford",
+   "price": "£10,999",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-blade-triumph-stratford.html"
+  },
+  {
+   "slug": "2023-moto2-ebay",
+   "title": "2023 Moto2",
+   "location": "eBay",
+   "price": "£11,995",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-ebay.html"
+  },
+  {
+   "slug": "2023-moto2-edition-wimborne",
+   "title": "2023 Moto2 Edition",
+   "location": "Wimborne",
+   "price": "£12,995",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-edition-wimborne.html"
+  },
+  {
+   "slug": "2023-moto2-triumph-newcastle",
+   "title": "2023 Moto2",
+   "location": "Triumph Newcastle",
+   "price": "£11,800",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-triumph-newcastle.html"
+  },
+  {
+   "slug": "2023-r-destination-triumph-fareham",
+   "title": "2024 R",
+   "location": "Destination Triumph, Fareham",
+   "price": "£7,695",
+   "status": "live",
+   "live_page": "bikes/2023-r-destination-triumph-fareham.html"
+  },
+  {
+   "slug": "2023-rs-cosmic-yellow-norwich",
+   "title": "2023 RS - Cosmic Yellow",
+   "location": "Norwich",
+   "price": "£7,750",
+   "status": "live",
+   "live_page": "bikes/2023-rs-cosmic-yellow-norwich.html"
+  },
+  {
+   "slug": "2023-rs-verwood",
+   "title": "2023 RS",
+   "location": "Verwood",
+   "price": "£8,495",
+   "status": "live",
+   "live_page": "bikes/2023-rs-verwood.html"
+  },
+  {
+   "slug": "2023-rs-yellow-bolton-motorcycles",
+   "title": "2023 RS - Yellow",
+   "location": "Bolton Motorcycles",
+   "price": "£8,999",
+   "status": "live",
+   "live_page": "bikes/2023-rs-yellow-bolton-motorcycles.html"
+  },
+  {
+   "slug": "2023-rs-yellow-shorrock-preston",
+   "title": "2023 RS - Yellow",
+   "location": "Shorrock, Preston",
+   "price": "£8,495",
+   "status": "live",
+   "live_page": "bikes/2023-rs-yellow-shorrock-preston.html"
+  },
+  {
+   "slug": "2024-rs-ebay-collection-only",
+   "title": "2024 RS",
+   "location": "eBay (collection only)",
+   "price": "£7,250",
+   "status": "live",
+   "live_page": "bikes/2024-rs-ebay-collection-only.html"
+  },
+  {
+   "slug": "2025-rs-cosmic-yellow-total-triumph-taunton",
+   "title": "2025 RS - Cosmic Yellow",
+   "location": "Total Triumph, Taunton",
+   "price": "£10,000",
+   "status": "live",
+   "live_page": "bikes/2025-rs-cosmic-yellow-total-triumph-taunton.html"
+  },
+  {
+   "slug": "2026-moto2-carl-rosner-croydon",
+   "title": "2026 Moto2",
+   "location": "Carl Rosner, Croydon",
+   "price": "£13,995",
+   "status": "live",
+   "live_page": "bikes/2026-moto2-carl-rosner-croydon.html"
+  },
+  {
+   "slug": "2026-rs-exdemo-a1-moto-york",
+   "title": "2026 RS - ex-demo",
+   "location": "A1 Moto, York",
+   "price": "£10,195",
+   "status": "live",
+   "live_page": "bikes/2026-rs-exdemo-a1-moto-york.html"
+  },
+  {
+   "slug": "2026-rs-phantom-black-destination-triumph-christchurch",
+   "title": "2026 RS - Phantom Black",
+   "location": "Destination Triumph, Christchurch",
+   "price": "£10,795",
+   "status": "live",
+   "live_page": "bikes/2026-rs-phantom-black-destination-triumph-christchurch.html"
+  },
+  {
+   "slug": "2026-rs-pre-reg-carl-rosner-croydon",
+   "title": "2026 RS - pre-reg",
+   "location": "Carl Rosner, Croydon",
+   "price": "£10,495",
+   "status": "live",
+   "live_page": "bikes/2026-rs-pre-reg-carl-rosner-croydon.html"
+  },
+  {
+   "slug": "2026-rx-destination-triumph-christchurch",
+   "title": "2026 RX",
+   "location": "Destination Triumph, Christchurch",
+   "price": "£10,995",
+   "status": "live",
+   "live_page": "bikes/2026-rx-destination-triumph-christchurch.html"
+  },
+  {
+   "slug": "2026-rx-triumph-world-chesterfield",
+   "title": "2026 RX",
+   "location": "Triumph World, Chesterfield",
+   "price": "£10,495",
+   "status": "live",
+   "live_page": "bikes/2026-rx-triumph-world-chesterfield.html"
+  }
+ ]
+}
