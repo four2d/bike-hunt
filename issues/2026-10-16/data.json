@@ -8,12 +8,32 @@
   "detail": "1,421 miles · £8,495"
  },
  "cover_img": "2023-rs-yellow-shorrock-preston-1",
- "bike_count": 306,
+ "bike_count": 310,
  "new_bikes": [
   {
    "slug": "2025-rs-cherry-red-wheels-peterborough-202610157029034",
    "title": "2025 RS - Cherry Red",
    "price": "£9,295"
+  },
+  {
+   "slug": "2019-r-white-wheels-peterborough-202610167049611",
+   "title": "2019 R - White",
+   "price": "£5,995"
+  },
+  {
+   "slug": "2017-rs-black-team-roberts-conisbrough-202610167049724",
+   "title": "2017 RS - Black",
+   "price": "£6,295"
+  },
+  {
+   "slug": "2022-rs-black-moore-motorcycles-bury-202610076772302",
+   "title": "2022 RS - Black",
+   "price": "£7,495"
+  },
+  {
+   "slug": "2024-r-silver-motorcycles-uk-swindon-ltd-202610167045013",
+   "title": "2024 R - Silver",
+   "price": "£7,495"
   }
  ],
  "price_drops": [
@@ -70,6 +90,24 @@
    "title": "2022 RS - Black",
    "old": 5789,
    "new": 5689
+  },
+  {
+   "slug": "2018-r-silver-private-seller-southampton-202610046654871",
+   "title": "2018 R - Silver",
+   "old": 3850,
+   "new": 3750
+  },
+  {
+   "slug": "2018-s-black-private-seller-bedford-202610086812475",
+   "title": "2018 S - Black",
+   "old": 4444,
+   "new": 4050
+  },
+  {
+   "slug": "2017-rs-silver-private-seller-st-john-s-wood-202610016570380",
+   "title": "2017 RS - Silver",
+   "old": 4999,
+   "new": 4699
   }
  ],
  "newly_sold": [
@@ -160,6 +198,14 @@
    "live_page": "bikes/2017-rs-black-private-seller-york-202610116883699.html"
   },
   {
+   "slug": "2017-rs-black-team-roberts-conisbrough-202610167049724",
+   "title": "2017 RS - Black",
+   "location": "Team Roberts, Conisbrough",
+   "price": "£6,295",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-team-roberts-conisbrough-202610167049724.html"
+  },
+  {
    "slug": "2017-rs-black-york-north-yorkshire-1803764293",
    "title": "2017 RS - Black",
    "location": "York, North Yorkshire",
@@ -227,7 +273,7 @@
    "slug": "2017-rs-silver-private-seller-st-john-s-wood-202610016570380",
    "title": "2017 RS - Silver",
    "location": "Private seller, St John's Wood",
-   "price": "£4,999",
+   "price": "£4,699",
    "status": "live",
    "live_page": "bikes/2017-rs-silver-private-seller-st-john-s-wood-202610016570380.html"
   },
@@ -283,7 +329,7 @@
    "slug": "2018-r-silver-private-seller-southampton-202610046654871",
    "title": "2018 R - Silver",
    "location": "Private seller, Southampton",
-   "price": "£3,850",
+   "price": "£3,750",
    "status": "live",
    "live_page": "bikes/2018-r-silver-private-seller-southampton-202610046654871.html"
   },
@@ -387,7 +433,7 @@
    "slug": "2018-s-black-private-seller-bedford-202610086812475",
    "title": "2018 S - Black",
    "location": "Private seller, Bedford",
-   "price": "£4,444",
+   "price": "£4,050",
    "status": "live",
    "live_page": "bikes/2018-s-black-private-seller-bedford-202610086812475.html"
   },
@@ -454,6 +500,14 @@
    "price": "£6,295",
    "status": "live",
    "live_page": "bikes/2019-r-silver-ducati-cambridge-huntingdon-202608114985111.html"
+  },
+  {
+   "slug": "2019-r-white-wheels-peterborough-202610167049611",
+   "title": "2019 R - White",
+   "location": "Wheels, Peterborough",
+   "price": "£5,995",
+   "status": "live",
+   "live_page": "bikes/2019-r-white-wheels-peterborough-202610167049611.html"
   },
   {
    "slug": "2019-rs-black-moore-motorcycles-bury-202608195231958",
@@ -958,6 +1012,14 @@
    "price": "£5,689",
    "status": "live",
    "live_page": "bikes/2022-rs-black-dudley-west-midlands-1801945741.html"
+  },
+  {
+   "slug": "2022-rs-black-moore-motorcycles-bury-202610076772302",
+   "title": "2022 RS - Black",
+   "location": "Moore Motorcycles, Bury",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2022-rs-black-moore-motorcycles-bury-202610076772302.html"
   },
   {
    "slug": "2022-rs-black-peterborough-cambridgeshire-1800680195",
@@ -1710,6 +1772,14 @@
    "price": "£7,995",
    "status": "live",
    "live_page": "bikes/2024-r-silver-lings-triumph-essex-great-dunmow-ek74dyt.html"
+  },
+  {
+   "slug": "2024-r-silver-motorcycles-uk-swindon-ltd-202610167045013",
+   "title": "2024 R - Silver",
+   "location": "Motorcycles UK (Swindon) Ltd",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2024-r-silver-motorcycles-uk-swindon-ltd-202610167045013.html"
   },
   {
    "slug": "2024-r-silver-preston-superbikes-kw24ubk",
