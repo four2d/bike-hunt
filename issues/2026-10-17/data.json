@@ -8,8 +8,14 @@
   "detail": "1,421 miles · £8,495"
  },
  "cover_img": "2023-rs-yellow-shorrock-preston-1",
- "bike_count": 310,
- "new_bikes": [],
+ "bike_count": 311,
+ "new_bikes": [
+  {
+   "slug": "2019-765-black-fowlers-of-bristol-limited-202610177073990",
+   "title": "2019 765 - Black",
+   "price": "£6,994"
+  }
+ ],
  "price_drops": [
   {
    "slug": "2023-moto2-edition-wimborne",
@@ -40,6 +46,18 @@
    "title": "2021 RS - Silver",
    "old": 7998,
    "new": 7298
+  },
+  {
+   "slug": "2024-rs-silver-lings-suffolk-triumph-ipswich-202608155128327",
+   "title": "2024 RS - Silver",
+   "old": 8595,
+   "new": 8295
+  },
+  {
+   "slug": "2025-rs-silver-blade-triumph-cheltenham-gloucester-202605082223825",
+   "title": "2025 RS - Silver",
+   "old": 8789,
+   "new": 8445
   }
  ],
  "newly_sold": [
@@ -380,6 +398,14 @@
    "price": "£4,899",
    "status": "live",
    "live_page": "bikes/2018-s-red-york-north-yorkshire-1803766401.html"
+  },
+  {
+   "slug": "2019-765-black-fowlers-of-bristol-limited-202610177073990",
+   "title": "2019 765 - Black",
+   "location": "Fowlers Of Bristol Limited",
+   "price": "£6,994",
+   "status": "live",
+   "live_page": "bikes/2019-765-black-fowlers-of-bristol-limited-202610177073990.html"
   },
   {
    "slug": "2019-765-black-kh-motorcycles-ltd-market-harborough-202609125982961",
@@ -1897,7 +1923,7 @@
    "slug": "2024-rs-silver-lings-suffolk-triumph-ipswich-202608155128327",
    "title": "2024 RS - Silver",
    "location": "Lings Suffolk Triumph, Ipswich",
-   "price": "£8,595",
+   "price": "£8,295",
    "status": "live",
    "live_page": "bikes/2024-rs-silver-lings-suffolk-triumph-ipswich-202608155128327.html"
   },
@@ -2065,7 +2091,7 @@
    "slug": "2025-rs-silver-blade-triumph-cheltenham-gloucester-202605082223825",
    "title": "2025 RS - Silver",
    "location": "Blade Triumph Cheltenham, Gloucester",
-   "price": "£8,789",
+   "price": "£8,445",
    "status": "live",
    "live_page": "bikes/2025-rs-silver-blade-triumph-cheltenham-gloucester-202605082223825.html"
   },
