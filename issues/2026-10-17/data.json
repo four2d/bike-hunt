@@ -22,6 +22,18 @@
    "title": "2018 R - Silver",
    "old": 6300,
    "new": 5900
+  },
+  {
+   "slug": "2021-rs-silver-on-the-wheel-brighton-202606223514992",
+   "title": "2021 RS - Silver",
+   "old": 7898,
+   "new": 7298
+  },
+  {
+   "slug": "2021-rs-silver-on-the-wheel-brighton-202606193450118",
+   "title": "2021 RS - Silver",
+   "old": 7998,
+   "new": 7298
   }
  ],
  "newly_sold": [],
@@ -862,7 +874,7 @@
    "slug": "2021-rs-silver-on-the-wheel-brighton-202606193450118",
    "title": "2021 RS - Silver",
    "location": "On The Wheel, Brighton",
-   "price": "£7,998",
+   "price": "£7,298",
    "status": "live",
    "live_page": "bikes/2021-rs-silver-on-the-wheel-brighton-202606193450118.html"
   },
@@ -870,7 +882,7 @@
    "slug": "2021-rs-silver-on-the-wheel-brighton-202606223514992",
    "title": "2021 RS - Silver",
    "location": "On The Wheel, Brighton",
-   "price": "£7,898",
+   "price": "£7,298",
    "status": "live",
    "live_page": "bikes/2021-rs-silver-on-the-wheel-brighton-202606223514992.html"
   },
