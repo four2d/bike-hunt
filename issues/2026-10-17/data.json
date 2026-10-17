@@ -12,6 +12,12 @@
  "new_bikes": [],
  "price_drops": [
   {
+   "slug": "2023-moto2-edition-wimborne",
+   "title": "2023 Moto2 Edition",
+   "old": 12995,
+   "new": 12795
+  },
+  {
    "slug": "2019-r-silver-ashford-triumph-202608295548809",
    "title": "2019 R - Silver",
    "old": 6093,
@@ -36,7 +42,16 @@
    "new": 7298
   }
  ],
- "newly_sold": [],
+ "newly_sold": [
+  {
+   "slug": "2025-rs-cosmic-yellow-total-triumph-taunton",
+   "title": "2025 RS - Cosmic Yellow"
+  },
+  {
+   "slug": "2023-rs-verwood",
+   "title": "2023 RS"
+  }
+ ],
  "bikes": [
   {
    "slug": "2017-r-black-ap-motorcycles-farnborough-202610056674152",
@@ -1098,7 +1113,7 @@
    "slug": "2023-moto2-edition-wimborne",
    "title": "2023 Moto2 Edition",
    "location": "Wimborne",
-   "price": "£12,995",
+   "price": "£12,795",
    "status": "live",
    "live_page": "bikes/2023-moto2-edition-wimborne.html"
   },
@@ -1418,8 +1433,8 @@
    "slug": "2023-rs-cosmic-yellow-norwich",
    "title": "2023 RS - Cosmic Yellow",
    "location": "Norwich",
-   "price": "£7,750",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2023-rs-cosmic-yellow-norwich.html"
   },
   {
@@ -1594,8 +1609,8 @@
    "slug": "2023-rs-verwood",
    "title": "2023 RS",
    "location": "Verwood",
-   "price": "£8,495",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2023-rs-verwood.html"
   },
   {
@@ -2042,8 +2057,8 @@
    "slug": "2025-rs-cosmic-yellow-total-triumph-taunton",
    "title": "2025 RS - Cosmic Yellow",
    "location": "Total Triumph, Taunton",
-   "price": "£10,000",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2025-rs-cosmic-yellow-total-triumph-taunton.html"
   },
   {
