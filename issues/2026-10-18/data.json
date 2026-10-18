@@ -8,7 +8,7 @@
   "detail": "1,421 miles · £8,495"
  },
  "cover_img": "2023-rs-yellow-shorrock-preston-1",
- "bike_count": 320,
+ "bike_count": 321,
  "new_bikes": [
   {
    "slug": "2017-rs-black-hythe-hill-motorcycles-colchester-202610177075776",
@@ -54,9 +54,32 @@
    "slug": "2023-rs-red-tamworth-staffordshire-1803952141",
    "title": "2023 RS - Red",
    "price": "£8,995"
+  },
+  {
+   "slug": "2025-rs-cosmic-yellow-lings-triumph-essex-great-dunm-lings11128",
+   "title": "2025 RS - Cosmic Yellow",
+   "price": "£9,595"
   }
  ],
  "price_drops": [
+  {
+   "slug": "2026-rx-silver-triumph-east-london-romford-ey76vcj",
+   "title": "2026 RX - Silver",
+   "old": 11270,
+   "new": 10995
+  },
+  {
+   "slug": "2026-rs-silver-ice-lings-suffolk-triumph-ipswich-au76mww",
+   "title": "2026 RS - Silver Ice",
+   "old": 10799,
+   "new": 10299
+  },
+  {
+   "slug": "2026-rs-grey-lind-triumph-west-london-byfleet-lc76oea",
+   "title": "2026 RS - Grey",
+   "old": 10370,
+   "new": 9995
+  },
   {
    "slug": "2026-rx-matt-aluminium-west-coast-triumph-glasgow-202610026608871",
    "title": "2026 RX - Matt Aluminium",
@@ -70,7 +93,12 @@
    "new": 5889
   }
  ],
- "newly_sold": [],
+ "newly_sold": [
+  {
+   "slug": "2024-rs-green-triumph-east-london-romford-custom-gre-ex74bup",
+   "title": "2024 RS - Green"
+  }
+ ],
  "bikes": [
   {
    "slug": "2017-r-black-ap-motorcycles-farnborough-202610056674152",
@@ -1908,8 +1936,8 @@
    "slug": "2024-rs-green-triumph-east-london-romford-custom-gre-ex74bup",
    "title": "2024 RS - Green",
    "location": "Triumph East London, Romford (custom green)",
-   "price": "£8,995",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2024-rs-green-triumph-east-london-romford-custom-gre-ex74bup.html"
   },
   {
@@ -2135,6 +2163,14 @@
    "price": "£9,295",
    "status": "live",
    "live_page": "bikes/2025-rs-cherry-red-wheels-peterborough-202610157029034.html"
+  },
+  {
+   "slug": "2025-rs-cosmic-yellow-lings-triumph-essex-great-dunm-lings11128",
+   "title": "2025 RS - Cosmic Yellow",
+   "location": "Lings Triumph Essex, Great Dunmow",
+   "price": "£9,595",
+   "status": "live",
+   "live_page": "bikes/2025-rs-cosmic-yellow-lings-triumph-essex-great-dunm-lings11128.html"
   },
   {
    "slug": "2025-rs-cosmic-yellow-total-triumph-taunton",
@@ -2396,7 +2432,7 @@
    "slug": "2026-rs-grey-lind-triumph-west-london-byfleet-lc76oea",
    "title": "2026 RS - Grey",
    "location": "Lind Triumph West London, Byfleet",
-   "price": "£10,370",
+   "price": "£9,995",
    "status": "live",
    "live_page": "bikes/2026-rs-grey-lind-triumph-west-london-byfleet-lc76oea.html"
   },
@@ -2468,7 +2504,7 @@
    "slug": "2026-rs-silver-ice-lings-suffolk-triumph-ipswich-au76mww",
    "title": "2026 RS - Silver Ice",
    "location": "Lings Suffolk Triumph, Ipswich",
-   "price": "£10,799",
+   "price": "£10,299",
    "status": "live",
    "live_page": "bikes/2026-rs-silver-ice-lings-suffolk-triumph-ipswich-au76mww.html"
   },
@@ -2612,7 +2648,7 @@
    "slug": "2026-rx-silver-triumph-east-london-romford-ey76vcj",
    "title": "2026 RX - Silver",
    "location": "Triumph East London, Romford",
-   "price": "£11,270",
+   "price": "£10,995",
    "status": "live",
    "live_page": "bikes/2026-rx-silver-triumph-east-london-romford-ey76vcj.html"
   },
