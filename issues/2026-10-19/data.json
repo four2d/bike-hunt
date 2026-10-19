@@ -28,9 +28,19 @@
    "title": "2026 RX - Silver",
    "old": 10789,
    "new": 10589
+  },
+  {
+   "slug": "2018-rs-silver-dudley-west-midlands-1803284945",
+   "title": "2018 RS - Silver",
+   "old": 6589,
+   "new": 6489
   }
  ],
  "newly_sold": [
+  {
+   "slug": "2024-rs-yellow-stoke-on-trent-staffordshire-1803650182",
+   "title": "2024 RS - Yellow"
+  },
   {
    "slug": "2023-rs-yellow-private-seller-greenwich-202609075779062",
    "title": "2023 RS - Yellow"
@@ -337,7 +347,7 @@
    "slug": "2018-rs-silver-dudley-west-midlands-1803284945",
    "title": "2018 RS - Silver",
    "location": "Dudley, West Midlands",
-   "price": "£6,589",
+   "price": "£6,489",
    "status": "live",
    "live_page": "bikes/2018-rs-silver-dudley-west-midlands-1803284945.html"
   },
@@ -1993,8 +2003,8 @@
    "slug": "2024-rs-yellow-stoke-on-trent-staffordshire-1803650182",
    "title": "2024 RS - Yellow",
    "location": "Stoke-on-Trent, Staffordshire",
-   "price": "£8,499",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2024-rs-yellow-stoke-on-trent-staffordshire-1803650182.html"
   },
   {
