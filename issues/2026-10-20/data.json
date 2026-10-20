@@ -8,8 +8,14 @@
   "detail": "1,421 miles · £8,495"
  },
  "cover_img": "2023-rs-yellow-shorrock-preston-1",
- "bike_count": 322,
- "new_bikes": [],
+ "bike_count": 323,
+ "new_bikes": [
+  {
+   "slug": "2017-rs-black-macclesfield-cheshire-1804052557",
+   "title": "2017 RS - Black",
+   "price": "£5,689"
+  }
+ ],
  "price_drops": [
   {
    "slug": "2022-rs-black-private-seller-banbury-202609125985116",
@@ -22,6 +28,12 @@
    "title": "2023 R - White",
    "old": 7000,
    "new": 6990
+  },
+  {
+   "slug": "2024-rs-silver-lings-suffolk-triumph-ipswich-202608155128327",
+   "title": "2024 RS - Silver",
+   "old": 8295,
+   "new": 8195
   }
  ],
  "newly_sold": [
@@ -74,6 +86,14 @@
    "price": "£5,495",
    "status": "live",
    "live_page": "bikes/2017-rs-black-hythe-hill-motorcycles-colchester-202610177075776.html"
+  },
+  {
+   "slug": "2017-rs-black-macclesfield-cheshire-1804052557",
+   "title": "2017 RS - Black",
+   "location": "Macclesfield, Cheshire",
+   "price": "£5,689",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-macclesfield-cheshire-1804052557.html"
   },
   {
    "slug": "2017-rs-black-maidstone-kent-1802023577",
@@ -1943,7 +1963,7 @@
    "slug": "2024-rs-silver-lings-suffolk-triumph-ipswich-202608155128327",
    "title": "2024 RS - Silver",
    "location": "Lings Suffolk Triumph, Ipswich",
-   "price": "£8,295",
+   "price": "£8,195",
    "status": "live",
    "live_page": "bikes/2024-rs-silver-lings-suffolk-triumph-ipswich-202608155128327.html"
   },
