@@ -8,12 +8,17 @@
   "detail": "1,421 miles · £8,495"
  },
  "cover_img": "2023-rs-yellow-shorrock-preston-1",
- "bike_count": 323,
+ "bike_count": 324,
  "new_bikes": [
   {
    "slug": "2017-rs-black-macclesfield-cheshire-1804052557",
    "title": "2017 RS - Black",
    "price": "£5,689"
+  },
+  {
+   "slug": "2024-rs-yellow-kjm-superbike-ltd-wigan-202610207154680",
+   "title": "2024 RS - Yellow",
+   "price": "£8,995"
   }
  ],
  "price_drops": [
@@ -34,6 +39,18 @@
    "title": "2024 RS - Silver",
    "old": 8295,
    "new": 8195
+  },
+  {
+   "slug": "2024-rs-silver-private-seller-weymouth-202609115948226",
+   "title": "2024 RS - Silver",
+   "old": 9495,
+   "new": 8995
+  },
+  {
+   "slug": "2024-rs-red-private-seller-bishop-s-stortford-202610187093807",
+   "title": "2024 RS - Red",
+   "old": 7995,
+   "new": 7495
   }
  ],
  "newly_sold": [
@@ -52,6 +69,10 @@
   {
    "slug": "2023-rs-red-long-eaton-nottinghamshire-1803173193",
    "title": "2023 RS - Red"
+  },
+  {
+   "slug": "2025-rs-yellow-cradley-kawasaki-cradley-heath-202610177083076",
+   "title": "2025 RS - Yellow"
   }
  ],
  "bikes": [
@@ -1923,7 +1944,7 @@
    "slug": "2024-rs-red-private-seller-bishop-s-stortford-202610187093807",
    "title": "2024 RS - Red",
    "location": "Private seller, Bishop's Stortford",
-   "price": "£7,995",
+   "price": "£7,495",
    "status": "live",
    "live_page": "bikes/2024-rs-red-private-seller-bishop-s-stortford-202610187093807.html"
   },
@@ -1971,7 +1992,7 @@
    "slug": "2024-rs-silver-private-seller-weymouth-202609115948226",
    "title": "2024 RS - Silver",
    "location": "Private seller, Weymouth",
-   "price": "£9,495",
+   "price": "£8,995",
    "status": "live",
    "live_page": "bikes/2024-rs-silver-private-seller-weymouth-202609115948226.html"
   },
@@ -2022,6 +2043,14 @@
    "price": "£8,389",
    "status": "live",
    "live_page": "bikes/2024-rs-yellow-dudley-west-midlands-1802097877.html"
+  },
+  {
+   "slug": "2024-rs-yellow-kjm-superbike-ltd-wigan-202610207154680",
+   "title": "2024 RS - Yellow",
+   "location": "Kjm Superbike Ltd, Wigan",
+   "price": "£8,995",
+   "status": "live",
+   "live_page": "bikes/2024-rs-yellow-kjm-superbike-ltd-wigan-202610207154680.html"
   },
   {
    "slug": "2024-rs-yellow-stoke-on-trent-staffordshire-1803650182",
@@ -2187,8 +2216,8 @@
    "slug": "2025-rs-yellow-cradley-kawasaki-cradley-heath-202610177083076",
    "title": "2025 RS - Yellow",
    "location": "Cradley Kawasaki, Cradley Heath",
-   "price": "£9,395",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2025-rs-yellow-cradley-kawasaki-cradley-heath-202610177083076.html"
   },
   {
