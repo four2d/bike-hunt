@@ -8,7 +8,7 @@
   "detail": "1,421 miles · £8,495"
  },
  "cover_img": "2023-rs-yellow-shorrock-preston-1",
- "bike_count": 324,
+ "bike_count": 325,
  "new_bikes": [
   {
    "slug": "2017-rs-black-macclesfield-cheshire-1804052557",
@@ -19,9 +19,26 @@
    "slug": "2024-rs-yellow-kjm-superbike-ltd-wigan-202610207154680",
    "title": "2024 RS - Yellow",
    "price": "£8,995"
+  },
+  {
+   "slug": "2024-rs-red-cardiff-motorcycle-centre-202610207158015",
+   "title": "2024 RS - Red",
+   "price": "£7,995"
   }
  ],
  "price_drops": [
+  {
+   "slug": "2024-rs-ebay-collection-only",
+   "title": "2024 RS",
+   "old": 7250,
+   "new": 6995
+  },
+  {
+   "slug": "2019-rs-white-blade-triumph-stratford-stratford-upon-202609115935725",
+   "title": "2019 RS - White",
+   "old": 6989,
+   "new": 6689
+  },
   {
    "slug": "2022-rs-black-private-seller-banbury-202609125985116",
    "title": "2022 RS - Black",
@@ -41,10 +58,22 @@
    "new": 8195
   },
   {
+   "slug": "2023-rs-multicolour-hastings-motorcycle-centre-ltd-202609105903284",
+   "title": "2023 RS - Multicolour",
+   "old": 9088,
+   "new": 8988
+  },
+  {
    "slug": "2024-rs-silver-private-seller-weymouth-202609115948226",
    "title": "2024 RS - Silver",
    "old": 9495,
    "new": 8995
+  },
+  {
+   "slug": "2026-moto2-edition-grey-ashford-triumph-202610016572677",
+   "title": "2026 Moto2 Edition - Grey",
+   "old": 13495,
+   "new": 13295
   },
   {
    "slug": "2024-rs-red-private-seller-bishop-s-stortford-202610187093807",
@@ -69,6 +98,10 @@
   {
    "slug": "2023-rs-red-long-eaton-nottinghamshire-1803173193",
    "title": "2023 RS - Red"
+  },
+  {
+   "slug": "2024-rs-yellow-batley-west-yorkshire-1801822409",
+   "title": "2024 RS - Yellow"
   },
   {
    "slug": "2025-rs-yellow-cradley-kawasaki-cradley-heath-202610177083076",
@@ -576,7 +609,7 @@
    "slug": "2019-rs-white-blade-triumph-stratford-stratford-upon-202609115935725",
    "title": "2019 RS - White",
    "location": "Blade Triumph Stratford, Stratford-upon-avon",
-   "price": "£6,989",
+   "price": "£6,689",
    "status": "live",
    "live_page": "bikes/2019-rs-white-blade-triumph-stratford-stratford-upon-202609115935725.html"
   },
@@ -1504,7 +1537,7 @@
    "slug": "2023-rs-multicolour-hastings-motorcycle-centre-ltd-202609105903284",
    "title": "2023 RS - Multicolour",
    "location": "HASTINGS MOTORCYCLE CENTRE LTD",
-   "price": "£9,088",
+   "price": "£8,988",
    "status": "live",
    "live_page": "bikes/2023-rs-multicolour-hastings-motorcycle-centre-ltd-202609105903284.html"
   },
@@ -1920,7 +1953,7 @@
    "slug": "2024-rs-ebay-collection-only",
    "title": "2024 RS",
    "location": "eBay (collection only)",
-   "price": "£7,250",
+   "price": "£6,995",
    "status": "live",
    "live_page": "bikes/2024-rs-ebay-collection-only.html"
   },
@@ -1931,6 +1964,14 @@
    "price": "SOLD",
    "status": "sold",
    "live_page": "bikes/2024-rs-green-triumph-east-london-romford-custom-gre-ex74bup.html"
+  },
+  {
+   "slug": "2024-rs-red-cardiff-motorcycle-centre-202610207158015",
+   "title": "2024 RS - Red",
+   "location": "Cardiff Motorcycle Centre",
+   "price": "£7,995",
+   "status": "live",
+   "live_page": "bikes/2024-rs-red-cardiff-motorcycle-centre-202610207158015.html"
   },
   {
    "slug": "2024-rs-red-newport-hw24lvy",
@@ -2032,8 +2073,8 @@
    "slug": "2024-rs-yellow-batley-west-yorkshire-1801822409",
    "title": "2024 RS - Yellow",
    "location": "Batley, West Yorkshire",
-   "price": "£9,895",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2024-rs-yellow-batley-west-yorkshire-1801822409.html"
   },
   {
@@ -2280,7 +2321,7 @@
    "slug": "2026-moto2-edition-grey-ashford-triumph-202610016572677",
    "title": "2026 Moto2 Edition - Grey",
    "location": "Ashford Triumph",
-   "price": "£13,495",
+   "price": "£13,295",
    "status": "live",
    "live_page": "bikes/2026-moto2-edition-grey-ashford-triumph-202610016572677.html"
   },
