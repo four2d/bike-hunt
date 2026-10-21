@@ -8,7 +8,7 @@
   "detail": "5,100 miles · £6,995 · was £7,250"
  },
  "cover_img": "2024-rs-ebay-collection-only-1",
- "bike_count": 328,
+ "bike_count": 331,
  "new_bikes": [
   {
    "slug": "2025-r-white-private-seller-nantwich-202610207177070",
@@ -24,6 +24,21 @@
    "slug": "2026-rx-matt-aluminium-kc-superbikes-carlisle-cumbri-kc305086",
    "title": "2026 RX - Matt Aluminium",
    "price": "£10,995"
+  },
+  {
+   "slug": "2020-rs-silver-private-seller-chelmsford-202610217189190",
+   "title": "2020 RS - Silver",
+   "price": "£6,200"
+  },
+  {
+   "slug": "2024-rs-yellow-carl-rosner-ltd-croydon-202610217190085",
+   "title": "2024 RS - Yellow",
+   "price": "£8,495"
+  },
+  {
+   "slug": "2023-rs-red-carl-rosner-ltd-croydon-202610217190073",
+   "title": "2023 RS - Red",
+   "price": "£8,495"
   }
  ],
  "price_drops": [
@@ -34,16 +49,32 @@
    "new": 10495
   },
   {
+   "slug": "2021-r-black-big-moto-cheshire-macclesfield-sa21xym",
+   "title": "2021 R - Black",
+   "old": 6789,
+   "new": 6689
+  },
+  {
    "slug": "2022-rs-black-peterborough-cambridgeshire-1800680195",
    "title": "2022 RS - Black",
    "old": 7995,
    "new": 7895
+  },
+  {
+   "slug": "2019-rs-grey-bigmoto-west-midlands-dudley-202607174262348",
+   "title": "2019 RS - Grey",
+   "old": 5889,
+   "new": 5689
   }
  ],
  "newly_sold": [
   {
    "slug": "2026-rx-silver-bulldog-triumph-wokingham-rk76okv",
    "title": "2026 RX - Silver"
+  },
+  {
+   "slug": "2023-rs-red-ashton-on-ribble-lancashire-1803465673",
+   "title": "2023 RS - Red"
   },
   {
    "slug": "2026-rx-silver-carl-rosner-motorcycles-south-croydon-3897418415",
@@ -511,7 +542,7 @@
    "slug": "2019-rs-grey-bigmoto-west-midlands-dudley-202607174262348",
    "title": "2019 RS - Grey",
    "location": "Bigmoto West Midlands, Dudley",
-   "price": "£5,889",
+   "price": "£5,689",
    "status": "live",
    "live_page": "bikes/2019-rs-grey-bigmoto-west-midlands-dudley-202607174262348.html"
   },
@@ -780,6 +811,14 @@
    "live_page": "bikes/2020-rs-silver-premier-bikes-doncaster-202607254510810.html"
   },
   {
+   "slug": "2020-rs-silver-private-seller-chelmsford-202610217189190",
+   "title": "2020 RS - Silver",
+   "location": "Private seller, Chelmsford",
+   "price": "£6,200",
+   "status": "live",
+   "live_page": "bikes/2020-rs-silver-private-seller-chelmsford-202610217189190.html"
+  },
+  {
    "slug": "2020-rs-silver-private-seller-leamington-spa-202610076771048",
    "title": "2020 RS - Silver",
    "location": "Private seller, Leamington Spa",
@@ -799,7 +838,7 @@
    "slug": "2021-r-black-big-moto-cheshire-macclesfield-sa21xym",
    "title": "2021 R - Black",
    "location": "Big Moto Cheshire, Macclesfield",
-   "price": "£6,789",
+   "price": "£6,689",
    "status": "live",
    "live_page": "bikes/2021-r-black-big-moto-cheshire-macclesfield-sa21xym.html"
   },
@@ -1495,8 +1534,8 @@
    "slug": "2023-rs-red-ashton-on-ribble-lancashire-1803465673",
    "title": "2023 RS - Red",
    "location": "Ashton-on-Ribble, Lancashire",
-   "price": "£8,995",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2023-rs-red-ashton-on-ribble-lancashire-1803465673.html"
   },
   {
@@ -1522,6 +1561,14 @@
    "price": "£7,950",
    "status": "live",
    "live_page": "bikes/2023-rs-red-ca-motorcycles-scotland-ltd-clydebank-202609146034556.html"
+  },
+  {
+   "slug": "2023-rs-red-carl-rosner-ltd-croydon-202610217190073",
+   "title": "2023 RS - Red",
+   "location": "Carl Rosner Ltd, Croydon",
+   "price": "£8,495",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-carl-rosner-ltd-croydon-202610217190073.html"
   },
   {
    "slug": "2023-rs-red-derby-derbyshire-1802678190",
@@ -2026,6 +2073,14 @@
    "price": "SOLD",
    "status": "sold",
    "live_page": "bikes/2024-rs-yellow-batley-west-yorkshire-1801822409.html"
+  },
+  {
+   "slug": "2024-rs-yellow-carl-rosner-ltd-croydon-202610217190085",
+   "title": "2024 RS - Yellow",
+   "location": "Carl Rosner Ltd, Croydon",
+   "price": "£8,495",
+   "status": "live",
+   "live_page": "bikes/2024-rs-yellow-carl-rosner-ltd-croydon-202610217190085.html"
   },
   {
    "slug": "2024-rs-yellow-dudley-west-midlands-1802097877",
