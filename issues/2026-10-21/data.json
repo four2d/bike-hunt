@@ -3,12 +3,12 @@
  "issue": 9,
  "source": "build",
  "top_pick": {
-  "slug": "2023-rs-yellow-shorrock-preston",
-  "name": "Cosmic Yellow RS",
-  "detail": "1,421 miles · £8,495"
+  "slug": "2024-rs-ebay-collection-only",
+  "name": "2024 765 RS",
+  "detail": "5,100 miles · £6,995 · was £7,250"
  },
- "cover_img": "2023-rs-yellow-shorrock-preston-1",
- "bike_count": 327,
+ "cover_img": "2024-rs-ebay-collection-only-1",
+ "bike_count": 328,
  "new_bikes": [
   {
    "slug": "2025-r-white-private-seller-nantwich-202610207177070",
@@ -19,9 +19,20 @@
    "slug": "2023-rs-red-motorcycle-centre-orrell-wigan-202610207176810",
    "title": "2023 RS - Red",
    "price": "£8,999"
+  },
+  {
+   "slug": "2026-rx-matt-aluminium-kc-superbikes-carlisle-cumbri-kc305086",
+   "title": "2026 RX - Matt Aluminium",
+   "price": "£10,995"
   }
  ],
  "price_drops": [
+  {
+   "slug": "2026-rx-silver-romford-ea26kco",
+   "title": "2026 RX - Silver",
+   "old": 10849,
+   "new": 10495
+  },
   {
    "slug": "2022-rs-black-peterborough-cambridgeshire-1800680195",
    "title": "2022 RS - Black",
@@ -29,7 +40,16 @@
    "new": 7895
   }
  ],
- "newly_sold": [],
+ "newly_sold": [
+  {
+   "slug": "2026-rx-silver-bulldog-triumph-wokingham-rk76okv",
+   "title": "2026 RX - Silver"
+  },
+  {
+   "slug": "2026-rx-silver-carl-rosner-motorcycles-south-croydon-3897418415",
+   "title": "2026 RX - Silver"
+  }
+ ],
  "bikes": [
   {
    "slug": "2017-r-black-ap-motorcycles-farnborough-202610056674152",
@@ -1882,7 +1902,7 @@
   {
    "slug": "2024-rs-ebay-collection-only",
    "title": "2024 RS",
-   "location": "eBay (collection only)",
+   "location": "Southcoast Superbike Sales, Waterlooville",
    "price": "£6,995",
    "status": "live",
    "live_page": "bikes/2024-rs-ebay-collection-only.html"
@@ -2544,6 +2564,14 @@
    "live_page": "bikes/2026-rx-matt-alum-silver-shirlaws-limited-aberdeen-sv26jgx.html"
   },
   {
+   "slug": "2026-rx-matt-aluminium-kc-superbikes-carlisle-cumbri-kc305086",
+   "title": "2026 RX - Matt Aluminium",
+   "location": "KC Superbikes, Carlisle, Cumbria",
+   "price": "£10,995",
+   "status": "live",
+   "live_page": "bikes/2026-rx-matt-aluminium-kc-superbikes-carlisle-cumbri-kc305086.html"
+  },
+  {
    "slug": "2026-rx-matt-aluminium-silve-lings-suffolk-triumph-i-au76mwv",
    "title": "2026 RX - Matt Aluminium Silve",
    "location": "Lings Suffolk Triumph, Ipswich",
@@ -2571,16 +2599,16 @@
    "slug": "2026-rx-silver-bulldog-triumph-wokingham-rk76okv",
    "title": "2026 RX - Silver",
    "location": "Bulldog Triumph, WOKINGHAM",
-   "price": "£11,895",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2026-rx-silver-bulldog-triumph-wokingham-rk76okv.html"
   },
   {
    "slug": "2026-rx-silver-carl-rosner-motorcycles-south-croydon-3897418415",
    "title": "2026 RX - Silver",
    "location": "Carl Rosner Motorcycles, South Croydon",
-   "price": "£10,995",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2026-rx-silver-carl-rosner-motorcycles-south-croydon-3897418415.html"
   },
   {
@@ -2611,7 +2639,7 @@
    "slug": "2026-rx-silver-romford-ea26kco",
    "title": "2026 RX - Silver",
    "location": "Romford",
-   "price": "£10,849",
+   "price": "£10,495",
    "status": "live",
    "live_page": "bikes/2026-rx-silver-romford-ea26kco.html"
   },

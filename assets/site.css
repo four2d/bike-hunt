@@ -246,3 +246,5 @@ body.sheet::after{content:"";position:fixed;inset:0;background:rgba(0,0,0,.55);z
 .lastask{display:block;font:700 12.5px/1.3 var(--b,Arial);color:#8a1c1c;background:#fbeaea;border-left:3px solid #c8102e;padding:5px 8px;margin-top:6px}
 .ntc .lastask{background:#2a1414;color:#ffb3b3}.lastask.big{font-size:15px;margin-top:10px;width:100%}
 .ntdrop i.la{color:#ffb3b3}
+.s-rx{background:linear-gradient(180deg,#e4e6e9,#f4f5f6)}.s-rx::before{content:'';position:absolute;top:50px;left:0;right:0;height:8px;background:repeating-linear-gradient(90deg,#c8102e 0 40px,#000 40px 80px)}
+.s-rx .kicker{color:#c8102e}.s-rx .card{border-top:4px solid #c8102e}.s-rx .drop::first-letter{color:#c8102e}.s-rx blockquote{border-color:#c8102e}
