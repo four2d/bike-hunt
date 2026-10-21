@@ -21,7 +21,14 @@
    "price": "£8,999"
   }
  ],
- "price_drops": [],
+ "price_drops": [
+  {
+   "slug": "2022-rs-black-peterborough-cambridgeshire-1800680195",
+   "title": "2022 RS - Black",
+   "old": 7995,
+   "new": 7895
+  }
+ ],
  "newly_sold": [],
  "bikes": [
   {
@@ -132,8 +139,8 @@
    "slug": "2017-rs-black-york-north-yorkshire-1803764293",
    "title": "2017 RS - Black",
    "location": "York, North Yorkshire",
-   "price": "£4,999",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2017-rs-black-york-north-yorkshire-1803764293.html"
   },
   {
@@ -364,8 +371,8 @@
    "slug": "2018-s-red-york-north-yorkshire-1803766401",
    "title": "2018 S - Red",
    "location": "York, North Yorkshire",
-   "price": "£4,899",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2018-s-red-york-north-yorkshire-1803766401.html"
   },
   {
@@ -476,8 +483,8 @@
    "slug": "2019-rs-black-york-north-yorkshire-1803766288",
    "title": "2019 RS - Black",
    "location": "York, North Yorkshire",
-   "price": "£5,999",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2019-rs-black-york-north-yorkshire-1803766288.html"
   },
   {
@@ -964,7 +971,7 @@
    "slug": "2022-rs-black-peterborough-cambridgeshire-1800680195",
    "title": "2022 RS - Black",
    "location": "Peterborough, Cambridgeshire",
-   "price": "£7,995",
+   "price": "£7,895",
    "status": "live",
    "live_page": "bikes/2022-rs-black-peterborough-cambridgeshire-1800680195.html"
   },
@@ -1396,8 +1403,8 @@
    "slug": "2023-r-white-reading-berkshire-1803581851",
    "title": "2023 R - White",
    "location": "Reading, Berkshire",
-   "price": "£7,295",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2023-r-white-reading-berkshire-1803581851.html"
   },
   {
