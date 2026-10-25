@@ -1,0 +1,2686 @@
+{
+ "date": "2026-10-25",
+ "issue": 13,
+ "source": "build",
+ "top_pick": {
+  "slug": "2024-rs-ebay-collection-only",
+  "name": "2024 765 RS",
+  "detail": "5,100 miles · £6,995 · was £7,250"
+ },
+ "cover_img": "2024-rs-ebay-collection-only-1",
+ "bike_count": 332,
+ "new_bikes": [
+  {
+   "slug": "2017-s-red-jap-motorcycles-milton-keynes-202610247297973",
+   "title": "2017 S - Red",
+   "price": "£4,400"
+  }
+ ],
+ "price_drops": [
+  {
+   "slug": "2023-rs-red-worcester-worcestershire-1801692943",
+   "title": "2023 RS - Red",
+   "old": 7999,
+   "new": 7499
+  }
+ ],
+ "newly_sold": [],
+ "bikes": [
+  {
+   "slug": "2017-r-black-ap-motorcycles-farnborough-202610056674152",
+   "title": "2017 R - Black",
+   "location": "Ap Motorcycles, Farnborough",
+   "price": "£4,995",
+   "status": "live",
+   "live_page": "bikes/2017-r-black-ap-motorcycles-farnborough-202610056674152.html"
+  },
+  {
+   "slug": "2017-r-black-frasers-of-gloucester-202610096834148",
+   "title": "2017 R - Black",
+   "location": "Frasers Of Gloucester",
+   "price": "£4,999",
+   "status": "live",
+   "live_page": "bikes/2017-r-black-frasers-of-gloucester-202610096834148.html"
+  },
+  {
+   "slug": "2017-r-silver-on-the-wheel-brighton-202607104075353",
+   "title": "2017 R - Silver",
+   "location": "On The Wheel, Brighton",
+   "price": "£5,698",
+   "status": "live",
+   "live_page": "bikes/2017-r-silver-on-the-wheel-brighton-202607104075353.html"
+  },
+  {
+   "slug": "2017-rs-black-hythe-hill-motorcycles-colchester-202610177075776",
+   "title": "2017 RS - Black",
+   "location": "Hythe Hill Motorcycles, Colchester",
+   "price": "£5,495",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-hythe-hill-motorcycles-colchester-202610177075776.html"
+  },
+  {
+   "slug": "2017-rs-black-macclesfield-cheshire-1804052557",
+   "title": "2017 RS - Black",
+   "location": "Macclesfield, Cheshire",
+   "price": "£5,689",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-macclesfield-cheshire-1804052557.html"
+  },
+  {
+   "slug": "2017-rs-black-maidstone-kent-1802023577",
+   "title": "2017 RS - Black",
+   "location": "Maidstone, Kent",
+   "price": "£5,999",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-maidstone-kent-1802023577.html"
+  },
+  {
+   "slug": "2017-rs-black-motobox-uk-tunbridge-wells-202609276431210",
+   "title": "2017 RS - Black",
+   "location": "Motobox UK, Tunbridge Wells",
+   "price": "£5,190",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-motobox-uk-tunbridge-wells-202609276431210.html"
+  },
+  {
+   "slug": "2017-rs-black-newent-gloucestershire-1801107724",
+   "title": "2017 RS - Black",
+   "location": "Newent, Gloucestershire",
+   "price": "£6,190",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-newent-gloucestershire-1801107724.html"
+  },
+  {
+   "slug": "2017-rs-black-premier-bikes-doncaster-202610116884888",
+   "title": "2017 RS - Black",
+   "location": "Premier Bikes, Doncaster",
+   "price": "£3,999",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-premier-bikes-doncaster-202610116884888.html"
+  },
+  {
+   "slug": "2017-rs-black-private-seller-erskine-202609135999475",
+   "title": "2017 RS - Black",
+   "location": "Private seller, Erskine",
+   "price": "£5,995",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-private-seller-erskine-202609135999475.html"
+  },
+  {
+   "slug": "2017-rs-black-private-seller-scunthorpe-202610116889043",
+   "title": "2017 RS - Black",
+   "location": "Private seller, Scunthorpe",
+   "price": "£4,800",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-private-seller-scunthorpe-202610116889043.html"
+  },
+  {
+   "slug": "2017-rs-black-private-seller-york-202610116883699",
+   "title": "2017 RS - Black",
+   "location": "Private seller, York",
+   "price": "£4,450",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-private-seller-york-202610116883699.html"
+  },
+  {
+   "slug": "2017-rs-black-team-roberts-conisbrough-202610167049724",
+   "title": "2017 RS - Black",
+   "location": "Team Roberts, Conisbrough",
+   "price": "£6,295",
+   "status": "live",
+   "live_page": "bikes/2017-rs-black-team-roberts-conisbrough-202610167049724.html"
+  },
+  {
+   "slug": "2017-rs-black-york-north-yorkshire-1803764293",
+   "title": "2017 RS - Black",
+   "location": "York, North Yorkshire",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2017-rs-black-york-north-yorkshire-1803764293.html"
+  },
+  {
+   "slug": "2017-rs-red-brandon-car-u0026-motorcycle-centre-202605272748508",
+   "title": "2017 RS - Red",
+   "location": "Brandon Car \\u0026 Motorcycle Centre",
+   "price": "£5,895",
+   "status": "live",
+   "live_page": "bikes/2017-rs-red-brandon-car-u0026-motorcycle-centre-202605272748508.html"
+  },
+  {
+   "slug": "2017-rs-silver-circuit-78-motorcycles-newark-202608115008683",
+   "title": "2017 RS - Silver",
+   "location": "Circuit 78 Motorcycles, Newark",
+   "price": "£5,499",
+   "status": "live",
+   "live_page": "bikes/2017-rs-silver-circuit-78-motorcycles-newark-202608115008683.html"
+  },
+  {
+   "slug": "2017-rs-silver-peterborough-cambridgeshire-1803054759",
+   "title": "2017 RS - Silver",
+   "location": "Peterborough, Cambridgeshire",
+   "price": "£5,695",
+   "status": "live",
+   "live_page": "bikes/2017-rs-silver-peterborough-cambridgeshire-1803054759.html"
+  },
+  {
+   "slug": "2017-rs-silver-private-seller-bournemouth-202610106866070",
+   "title": "2017 RS - Silver",
+   "location": "Private seller, Bournemouth",
+   "price": "£4,195",
+   "status": "live",
+   "live_page": "bikes/2017-rs-silver-private-seller-bournemouth-202610106866070.html"
+  },
+  {
+   "slug": "2017-rs-silver-private-seller-gloucester-202610046663394",
+   "title": "2017 RS - Silver",
+   "location": "Private seller, Gloucester",
+   "price": "£5,250",
+   "status": "live",
+   "live_page": "bikes/2017-rs-silver-private-seller-gloucester-202610046663394.html"
+  },
+  {
+   "slug": "2017-rs-silver-private-seller-northampton-202610076759914",
+   "title": "2017 RS - Silver",
+   "location": "Private seller, Northampton",
+   "price": "£4,495",
+   "status": "live",
+   "live_page": "bikes/2017-rs-silver-private-seller-northampton-202610076759914.html"
+  },
+  {
+   "slug": "2017-rs-silver-private-seller-st-john-s-wood-202610016570380",
+   "title": "2017 RS - Silver",
+   "location": "Private seller, St John's Wood",
+   "price": "£4,699",
+   "status": "live",
+   "live_page": "bikes/2017-rs-silver-private-seller-st-john-s-wood-202610016570380.html"
+  },
+  {
+   "slug": "2017-s-red-jap-motorcycles-milton-keynes-202610247297973",
+   "title": "2017 S - Red",
+   "location": "Jap Motorcycles, Milton Keynes",
+   "price": "£4,400",
+   "status": "live",
+   "live_page": "bikes/2017-s-red-jap-motorcycles-milton-keynes-202610247297973.html"
+  },
+  {
+   "slug": "2018-765-black-robspeed-motorcycles-limited-grimsby-202608255424249",
+   "title": "2018 765 - Black",
+   "location": "Robspeed Motorcycles Limited, Grimsby",
+   "price": "£5,598",
+   "status": "live",
+   "live_page": "bikes/2018-765-black-robspeed-motorcycles-limited-grimsby-202608255424249.html"
+  },
+  {
+   "slug": "2018-r-black-ian-bell-motorcycles-ltd-bedlington-nd18uje",
+   "title": "2018 R - Black",
+   "location": "Ian Bell Motorcycles Ltd, Bedlington",
+   "price": "£7,000",
+   "status": "live",
+   "live_page": "bikes/2018-r-black-ian-bell-motorcycles-ltd-bedlington-nd18uje.html"
+  },
+  {
+   "slug": "2018-r-black-wigan-manchester-1803173665",
+   "title": "2018 R - Black",
+   "location": "Wigan, Manchester",
+   "price": "£5,249",
+   "status": "live",
+   "live_page": "bikes/2018-r-black-wigan-manchester-1803173665.html"
+  },
+  {
+   "slug": "2018-r-silver-burnage-manchester-1507834330",
+   "title": "2018 R - Silver",
+   "location": "Burnage, Manchester",
+   "price": "£6,495",
+   "status": "live",
+   "live_page": "bikes/2018-r-silver-burnage-manchester-1507834330.html"
+  },
+  {
+   "slug": "2018-r-silver-john-banks-honda-cambridge-cambridge-aca9a59b-afd",
+   "title": "2018 R - Silver",
+   "location": "John Banks Honda Cambridge, Cambridge",
+   "price": "£5,290",
+   "status": "live",
+   "live_page": "bikes/2018-r-silver-john-banks-honda-cambridge-cambridge-aca9a59b-afd.html"
+  },
+  {
+   "slug": "2018-r-silver-new-city-motorcycles-ltd-rayleigh-202609035678139",
+   "title": "2018 R - Silver",
+   "location": "New City Motorcycles Ltd, Rayleigh",
+   "price": "£5,900",
+   "status": "live",
+   "live_page": "bikes/2018-r-silver-new-city-motorcycles-ltd-rayleigh-202609035678139.html"
+  },
+  {
+   "slug": "2018-r-silver-private-seller-southampton-202610046654871",
+   "title": "2018 R - Silver",
+   "location": "Private seller, Southampton",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2018-r-silver-private-seller-southampton-202610046654871.html"
+  },
+  {
+   "slug": "2018-r-white-billy-s-motorcycles-ltd-pulborough-202610066722633",
+   "title": "2018 R - White",
+   "location": "Billy's Motorcycles Ltd, Pulborough",
+   "price": "£5,299",
+   "status": "live",
+   "live_page": "bikes/2018-r-white-billy-s-motorcycles-ltd-pulborough-202610066722633.html"
+  },
+  {
+   "slug": "2018-rs-black-bikers-nottingham-202605252688772",
+   "title": "2018 RS - Black",
+   "location": "Bikers Nottingham",
+   "price": "£6,599",
+   "status": "live",
+   "live_page": "bikes/2018-rs-black-bikers-nottingham-202605252688772.html"
+  },
+  {
+   "slug": "2018-rs-black-circuit-78-motorcycles-newark-202606083106032",
+   "title": "2018 RS - Black",
+   "location": "Circuit 78 Motorcycles, Newark",
+   "price": "£5,999",
+   "status": "live",
+   "live_page": "bikes/2018-rs-black-circuit-78-motorcycles-newark-202606083106032.html"
+  },
+  {
+   "slug": "2018-rs-black-dmc-birmingham-202609045720236",
+   "title": "2018 RS - Black",
+   "location": "DMC BIRMINGHAM",
+   "price": "£5,995",
+   "status": "live",
+   "live_page": "bikes/2018-rs-black-dmc-birmingham-202609045720236.html"
+  },
+  {
+   "slug": "2018-rs-black-fleetwood-lancashire-1802763980",
+   "title": "2018 RS - Black",
+   "location": "Fleetwood, Lancashire",
+   "price": "£5,995",
+   "status": "live",
+   "live_page": "bikes/2018-rs-black-fleetwood-lancashire-1802763980.html"
+  },
+  {
+   "slug": "2018-rs-black-great-yarmouth-norfolk-1802489213",
+   "title": "2018 RS - Black",
+   "location": "Great Yarmouth, Norfolk",
+   "price": "£5,689",
+   "status": "live",
+   "live_page": "bikes/2018-rs-black-great-yarmouth-norfolk-1802489213.html"
+  },
+  {
+   "slug": "2018-rs-black-h-g-b-motorcycles-ruislip-202606203477805",
+   "title": "2018 RS - Black",
+   "location": "H G B Motorcycles (Ruislip)",
+   "price": "£4,799",
+   "status": "live",
+   "live_page": "bikes/2018-rs-black-h-g-b-motorcycles-ruislip-202606203477805.html"
+  },
+  {
+   "slug": "2018-rs-black-warwick-warwickshire-1803901484",
+   "title": "2018 RS - Black",
+   "location": "Warwick, Warwickshire",
+   "price": "£5,750",
+   "status": "live",
+   "live_page": "bikes/2018-rs-black-warwick-warwickshire-1803901484.html"
+  },
+  {
+   "slug": "2018-rs-silver-circuit-78-motorcycles-newark-202609266414565",
+   "title": "2018 RS - Silver",
+   "location": "Circuit 78 Motorcycles, Newark",
+   "price": "£6,399",
+   "status": "live",
+   "live_page": "bikes/2018-rs-silver-circuit-78-motorcycles-newark-202609266414565.html"
+  },
+  {
+   "slug": "2018-rs-silver-dudley-west-midlands-1803284945",
+   "title": "2018 RS - Silver",
+   "location": "Dudley, West Midlands",
+   "price": "£6,489",
+   "status": "live",
+   "live_page": "bikes/2018-rs-silver-dudley-west-midlands-1803284945.html"
+  },
+  {
+   "slug": "2018-rs-silver-preston-motorcycles-202609246364948",
+   "title": "2018 RS - Silver",
+   "location": "Preston Motorcycles",
+   "price": "£6,795",
+   "status": "live",
+   "live_page": "bikes/2018-rs-silver-preston-motorcycles-202609246364948.html"
+  },
+  {
+   "slug": "2018-s-black-grimsby-lincolnshire-1801971069",
+   "title": "2018 S - Black",
+   "location": "Grimsby, Lincolnshire",
+   "price": "£5,499",
+   "status": "live",
+   "live_page": "bikes/2018-s-black-grimsby-lincolnshire-1801971069.html"
+  },
+  {
+   "slug": "2018-s-black-private-seller-bedford-202610086812475",
+   "title": "2018 S - Black",
+   "location": "Private seller, Bedford",
+   "price": "£4,050",
+   "status": "live",
+   "live_page": "bikes/2018-s-black-private-seller-bedford-202610086812475.html"
+  },
+  {
+   "slug": "2018-s-red-private-seller-southampton-202610247283690",
+   "title": "2018 S - Red",
+   "location": "Private seller, Southampton",
+   "price": "£3,750",
+   "status": "live",
+   "live_page": "bikes/2018-s-red-private-seller-southampton-202610247283690.html"
+  },
+  {
+   "slug": "2018-s-red-york-north-yorkshire-1803766401",
+   "title": "2018 S - Red",
+   "location": "York, North Yorkshire",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2018-s-red-york-north-yorkshire-1803766401.html"
+  },
+  {
+   "slug": "2019-765-black-fowlers-of-bristol-limited-202610177073990",
+   "title": "2019 765 - Black",
+   "location": "Fowlers Of Bristol Limited",
+   "price": "£6,994",
+   "status": "live",
+   "live_page": "bikes/2019-765-black-fowlers-of-bristol-limited-202610177073990.html"
+  },
+  {
+   "slug": "2019-765-black-kh-motorcycles-ltd-market-harborough-202609125982961",
+   "title": "2019 765 - Black",
+   "location": "KH Motorcycles Ltd, Market Harborough",
+   "price": "£5,999",
+   "status": "live",
+   "live_page": "bikes/2019-765-black-kh-motorcycles-ltd-market-harborough-202609125982961.html"
+  },
+  {
+   "slug": "2019-765-black-whitby-north-yorkshire-1802844623",
+   "title": "2019 765 - Black",
+   "location": "Whitby, North Yorkshire",
+   "price": "£5,200",
+   "status": "live",
+   "live_page": "bikes/2019-765-black-whitby-north-yorkshire-1802844623.html"
+  },
+  {
+   "slug": "2019-r-black-cornwall-kawasaki-centre-redruth-202609135990928",
+   "title": "2019 R - Black",
+   "location": "Cornwall Kawasaki Centre, Redruth",
+   "price": "£5,995",
+   "status": "live",
+   "live_page": "bikes/2019-r-black-cornwall-kawasaki-centre-redruth-202609135990928.html"
+  },
+  {
+   "slug": "2019-r-black-east-midland-superbike-derby-202610096837329",
+   "title": "2019 R - Black",
+   "location": "EAST MIDLAND SUPERBIKE, Derby",
+   "price": "£5,994",
+   "status": "live",
+   "live_page": "bikes/2019-r-black-east-midland-superbike-derby-202610096837329.html"
+  },
+  {
+   "slug": "2019-r-silver-ashford-triumph-202608295548809",
+   "title": "2019 R - Silver",
+   "location": "Ashford Triumph",
+   "price": "£5,995",
+   "status": "live",
+   "live_page": "bikes/2019-r-silver-ashford-triumph-202608295548809.html"
+  },
+  {
+   "slug": "2019-r-silver-djk-motorcycles-ltd-chichester-202609095888541",
+   "title": "2019 R - Silver",
+   "location": "DJK Motorcycles Ltd, Chichester",
+   "price": "£5,500",
+   "status": "live",
+   "live_page": "bikes/2019-r-silver-djk-motorcycles-ltd-chichester-202609095888541.html"
+  },
+  {
+   "slug": "2019-r-silver-ducati-cambridge-huntingdon-202608114985111",
+   "title": "2019 R - Silver",
+   "location": "Ducati Cambridge, Huntingdon",
+   "price": "£6,295",
+   "status": "live",
+   "live_page": "bikes/2019-r-silver-ducati-cambridge-huntingdon-202608114985111.html"
+  },
+  {
+   "slug": "2019-r-white-wheels-peterborough-202610167049611",
+   "title": "2019 R - White",
+   "location": "Wheels, Peterborough",
+   "price": "£5,995",
+   "status": "live",
+   "live_page": "bikes/2019-r-white-wheels-peterborough-202610167049611.html"
+  },
+  {
+   "slug": "2019-rs-black-moore-motorcycles-bury-202608195231958",
+   "title": "2019 RS - Black",
+   "location": "Moore Motorcycles, Bury",
+   "price": "£6,495",
+   "status": "live",
+   "live_page": "bikes/2019-rs-black-moore-motorcycles-bury-202608195231958.html"
+  },
+  {
+   "slug": "2019-rs-black-swansea-1803569993",
+   "title": "2019 RS - Black",
+   "location": "Swansea",
+   "price": "£4,995",
+   "status": "live",
+   "live_page": "bikes/2019-rs-black-swansea-1803569993.html"
+  },
+  {
+   "slug": "2019-rs-black-the-potteries-motorcycles-u0026-scoote-202605152438793",
+   "title": "2019 RS - Black",
+   "location": "The Potteries Motorcycles \\u0026 Scooters, Stoke-on-trent",
+   "price": "£5,499",
+   "status": "live",
+   "live_page": "bikes/2019-rs-black-the-potteries-motorcycles-u0026-scoote-202605152438793.html"
+  },
+  {
+   "slug": "2019-rs-black-york-north-yorkshire-1803766288",
+   "title": "2019 RS - Black",
+   "location": "York, North Yorkshire",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2019-rs-black-york-north-yorkshire-1803766288.html"
+  },
+  {
+   "slug": "2019-rs-grey-bigmoto-west-midlands-dudley-202607174262348",
+   "title": "2019 RS - Grey",
+   "location": "Bigmoto West Midlands, Dudley",
+   "price": "£5,689",
+   "status": "live",
+   "live_page": "bikes/2019-rs-grey-bigmoto-west-midlands-dudley-202607174262348.html"
+  },
+  {
+   "slug": "2019-rs-grey-bromley-moto-202610126894794",
+   "title": "2019 RS - Grey",
+   "location": "Bromley Moto",
+   "price": "£5,395",
+   "status": "live",
+   "live_page": "bikes/2019-rs-grey-bromley-moto-202610126894794.html"
+  },
+  {
+   "slug": "2019-rs-grey-circuit-78-motorcycles-newark-202607244472146",
+   "title": "2019 RS - Grey",
+   "location": "Circuit 78 Motorcycles, Newark",
+   "price": "£6,799",
+   "status": "live",
+   "live_page": "bikes/2019-rs-grey-circuit-78-motorcycles-newark-202607244472146.html"
+  },
+  {
+   "slug": "2019-rs-grey-penrith-motorcycles-202608125037494",
+   "title": "2019 RS - Grey",
+   "location": "Penrith Motorcycles",
+   "price": "£6,695",
+   "status": "live",
+   "live_page": "bikes/2019-rs-grey-penrith-motorcycles-202608125037494.html"
+  },
+  {
+   "slug": "2019-rs-white-blade-triumph-stratford-stratford-upon-202609115935725",
+   "title": "2019 RS - White",
+   "location": "Blade Triumph Stratford, Stratford-upon-avon",
+   "price": "£6,689",
+   "status": "live",
+   "live_page": "bikes/2019-rs-white-blade-triumph-stratford-stratford-upon-202609115935725.html"
+  },
+  {
+   "slug": "2019-rs-white-prg-performance-huddersfield-202610026608144",
+   "title": "2019 RS - White",
+   "location": "PRG Performance, Huddersfield",
+   "price": "£6,499",
+   "status": "live",
+   "live_page": "bikes/2019-rs-white-prg-performance-huddersfield-202610026608144.html"
+  },
+  {
+   "slug": "2019-rs-white-private-seller-witney-202610036636822",
+   "title": "2019 RS - White",
+   "location": "Private seller, Witney",
+   "price": "£6,850",
+   "status": "live",
+   "live_page": "bikes/2019-rs-white-private-seller-witney-202610036636822.html"
+  },
+  {
+   "slug": "2019-rs-white-sheldon-motorcycles-birmingham-202609055746721",
+   "title": "2019 RS - White",
+   "location": "Sheldon Motorcycles, Birmingham",
+   "price": "£6,495",
+   "status": "live",
+   "live_page": "bikes/2019-rs-white-sheldon-motorcycles-birmingham-202609055746721.html"
+  },
+  {
+   "slug": "2019-rs-white-shipley-west-yorkshire-1803813476",
+   "title": "2019 RS - White",
+   "location": "Shipley, West Yorkshire",
+   "price": "£5,249",
+   "status": "live",
+   "live_page": "bikes/2019-rs-white-shipley-west-yorkshire-1803813476.html"
+  },
+  {
+   "slug": "2019-rs-white-shipley-west-yorkshire-1804182904",
+   "title": "2019 RS - White",
+   "location": "Shipley, West Yorkshire",
+   "price": "£6,250",
+   "status": "live",
+   "live_page": "bikes/2019-rs-white-shipley-west-yorkshire-1804182904.html"
+  },
+  {
+   "slug": "2019-s-red-break-away-motorcycles-tunbridge-wells-202509306756583",
+   "title": "2019 S - Red",
+   "location": "Break Away Motorcycles, Tunbridge Wells",
+   "price": "£4,999",
+   "status": "live",
+   "live_page": "bikes/2019-s-red-break-away-motorcycles-tunbridge-wells-202509306756583.html"
+  },
+  {
+   "slug": "2020-765-silver-kh-motorcycles-ltd-market-harborough-202609166103947",
+   "title": "2020 765 - Silver",
+   "location": "KH Motorcycles Ltd, Market Harborough",
+   "price": "£6,999",
+   "status": "live",
+   "live_page": "bikes/2020-765-silver-kh-motorcycles-ltd-market-harborough-202609166103947.html"
+  },
+  {
+   "slug": "2020-r-black-motorbikes-1980-ltd-congleton-202604302021957",
+   "title": "2020 R - Black",
+   "location": "Motorbikes 1980 Ltd, Congleton",
+   "price": "£5,250",
+   "status": "live",
+   "live_page": "bikes/2020-r-black-motorbikes-1980-ltd-congleton-202604302021957.html"
+  },
+  {
+   "slug": "2020-r-black-wallington-london-1802613209",
+   "title": "2020 R - Black",
+   "location": "Wallington, London",
+   "price": "£6,699",
+   "status": "live",
+   "live_page": "bikes/2020-r-black-wallington-london-1802613209.html"
+  },
+  {
+   "slug": "2020-r-black-wheels-peterborough-202608195257533",
+   "title": "2020 R - Black",
+   "location": "Wheels, Peterborough",
+   "price": "£6,295",
+   "status": "live",
+   "live_page": "bikes/2020-r-black-wheels-peterborough-202608195257533.html"
+  },
+  {
+   "slug": "2020-r-red-private-seller-bury-st-edmunds-202610126919092",
+   "title": "2020 R - Red",
+   "location": "Private seller, Bury St. Edmunds",
+   "price": "£6,500",
+   "status": "live",
+   "live_page": "bikes/2020-r-red-private-seller-bury-st-edmunds-202610126919092.html"
+  },
+  {
+   "slug": "2020-r-silver-bikers-nottingham-202607084017932",
+   "title": "2020 R - Silver",
+   "location": "Bikers Nottingham",
+   "price": "£6,599",
+   "status": "live",
+   "live_page": "bikes/2020-r-silver-bikers-nottingham-202607084017932.html"
+  },
+  {
+   "slug": "2020-rs-black-alan-duffus-motorcycles-kirkcaldy-202610146985154",
+   "title": "2020 RS - Black",
+   "location": "Alan Duffus Motorcycles, Kirkcaldy",
+   "price": "£6,995",
+   "status": "live",
+   "live_page": "bikes/2020-rs-black-alan-duffus-motorcycles-kirkcaldy-202610146985154.html"
+  },
+  {
+   "slug": "2020-rs-black-london-1803058384",
+   "title": "2020 RS - Black",
+   "location": "London",
+   "price": "£6,899",
+   "status": "live",
+   "live_page": "bikes/2020-rs-black-london-1803058384.html"
+  },
+  {
+   "slug": "2020-rs-black-private-seller-york-202609166107681",
+   "title": "2020 RS - Black",
+   "location": "Private seller, York",
+   "price": "£6,000",
+   "status": "live",
+   "live_page": "bikes/2020-rs-black-private-seller-york-202609166107681.html"
+  },
+  {
+   "slug": "2020-rs-black-sudbury-suffolk-1802196634",
+   "title": "2020 RS - Black",
+   "location": "Sudbury, Suffolk",
+   "price": "£5,295",
+   "status": "live",
+   "live_page": "bikes/2020-rs-black-sudbury-suffolk-1802196634.html"
+  },
+  {
+   "slug": "2020-rs-black-york-north-yorkshire-1804188315",
+   "title": "2020 RS - Black",
+   "location": "York, North Yorkshire",
+   "price": "£6,990",
+   "status": "live",
+   "live_page": "bikes/2020-rs-black-york-north-yorkshire-1804188315.html"
+  },
+  {
+   "slug": "2020-rs-ebay",
+   "title": "2020 RS",
+   "location": "eBay",
+   "price": "£6,900 ono",
+   "status": "live",
+   "live_page": "bikes/2020-rs-ebay.html"
+  },
+  {
+   "slug": "2020-rs-edinburgh-triumph",
+   "title": "2020 RS",
+   "location": "Edinburgh Triumph",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2020-rs-edinburgh-triumph.html"
+  },
+  {
+   "slug": "2020-rs-grey-lings-triumph-essex-dunmow-202608205290940",
+   "title": "2020 RS - Grey",
+   "location": "Lings Triumph Essex, Dunmow",
+   "price": "£7,049",
+   "status": "live",
+   "live_page": "bikes/2020-rs-grey-lings-triumph-essex-dunmow-202608205290940.html"
+  },
+  {
+   "slug": "2020-rs-ringwood",
+   "title": "2020 RS",
+   "location": "Ringwood",
+   "price": "£6,588",
+   "status": "live",
+   "live_page": "bikes/2020-rs-ringwood.html"
+  },
+  {
+   "slug": "2020-rs-silver-crescent-motorcycles-southampton-202610146983734",
+   "title": "2020 RS - Silver",
+   "location": "Crescent Motorcycles - Southampton",
+   "price": "£5,995",
+   "status": "live",
+   "live_page": "bikes/2020-rs-silver-crescent-motorcycles-southampton-202610146983734.html"
+  },
+  {
+   "slug": "2020-rs-silver-dave-death-motorcycles-iw-limited-new-202610136956032",
+   "title": "2020 RS - Silver",
+   "location": "DAVE DEATH MOTORCYCLES (IW) LIMITED, Newport",
+   "price": "£6,595",
+   "status": "live",
+   "live_page": "bikes/2020-rs-silver-dave-death-motorcycles-iw-limited-new-202610136956032.html"
+  },
+  {
+   "slug": "2020-rs-silver-ducati-cambridge-huntingdon-202608104959308",
+   "title": "2020 RS - Silver",
+   "location": "Ducati Cambridge, Huntingdon",
+   "price": "£6,295",
+   "status": "live",
+   "live_page": "bikes/2020-rs-silver-ducati-cambridge-huntingdon-202608104959308.html"
+  },
+  {
+   "slug": "2020-rs-silver-hatfields-of-crowthorne-limited-202608155125020",
+   "title": "2020 RS - Silver",
+   "location": "Hatfields Of Crowthorne Limited",
+   "price": "£6,499",
+   "status": "live",
+   "live_page": "bikes/2020-rs-silver-hatfields-of-crowthorne-limited-202608155125020.html"
+  },
+  {
+   "slug": "2020-rs-silver-lings-norfolk-triumph-thetford-202608215314014",
+   "title": "2020 RS - Silver",
+   "location": "Lings Norfolk Triumph, Thetford",
+   "price": "£6,295",
+   "status": "live",
+   "live_page": "bikes/2020-rs-silver-lings-norfolk-triumph-thetford-202608215314014.html"
+  },
+  {
+   "slug": "2020-rs-silver-nationwide-motorbikes-ltd-alderley-ed-202610146986405",
+   "title": "2020 RS - Silver",
+   "location": "Nationwide Motorbikes Ltd, Alderley Edge",
+   "price": "£6,495",
+   "status": "live",
+   "live_page": "bikes/2020-rs-silver-nationwide-motorbikes-ltd-alderley-ed-202610146986405.html"
+  },
+  {
+   "slug": "2020-rs-silver-premier-bikes-doncaster-202607254510810",
+   "title": "2020 RS - Silver",
+   "location": "Premier Bikes, Doncaster",
+   "price": "£6,690",
+   "status": "live",
+   "live_page": "bikes/2020-rs-silver-premier-bikes-doncaster-202607254510810.html"
+  },
+  {
+   "slug": "2020-rs-silver-private-seller-chelmsford-202610217189190",
+   "title": "2020 RS - Silver",
+   "location": "Private seller, Chelmsford",
+   "price": "£6,200",
+   "status": "live",
+   "live_page": "bikes/2020-rs-silver-private-seller-chelmsford-202610217189190.html"
+  },
+  {
+   "slug": "2020-rs-silver-private-seller-leamington-spa-202610076771048",
+   "title": "2020 RS - Silver",
+   "location": "Private seller, Leamington Spa",
+   "price": "£7,490",
+   "status": "live",
+   "live_page": "bikes/2020-rs-silver-private-seller-leamington-spa-202610076771048.html"
+  },
+  {
+   "slug": "2020-rs-silver-sheldon-motorcycles-birmingham-202609035685598",
+   "title": "2020 RS - Silver",
+   "location": "Sheldon Motorcycles, Birmingham",
+   "price": "£6,995",
+   "status": "live",
+   "live_page": "bikes/2020-rs-silver-sheldon-motorcycles-birmingham-202609035685598.html"
+  },
+  {
+   "slug": "2021-r-black-big-moto-cheshire-macclesfield-sa21xym",
+   "title": "2021 R - Black",
+   "location": "Big Moto Cheshire, Macclesfield",
+   "price": "£6,789",
+   "status": "live",
+   "live_page": "bikes/2021-r-black-big-moto-cheshire-macclesfield-sa21xym.html"
+  },
+  {
+   "slug": "2021-r-black-cmc-motorcyles-chesterfield-fm21exp",
+   "title": "2021 R - Black",
+   "location": "CMC Motorcyles Chesterfield",
+   "price": "£7,199",
+   "status": "live",
+   "live_page": "bikes/2021-r-black-cmc-motorcyles-chesterfield-fm21exp.html"
+  },
+  {
+   "slug": "2021-r-black-dudley-west-midlands-1800451549",
+   "title": "2021 R - Black",
+   "location": "Dudley, West Midlands",
+   "price": "£6,289",
+   "status": "live",
+   "live_page": "bikes/2021-r-black-dudley-west-midlands-1800451549.html"
+  },
+  {
+   "slug": "2021-r-black-earnshaws-motorcycles-ltd-huddersfield-202608195236967",
+   "title": "2021 R - Black",
+   "location": "Earnshaws Motorcycles Ltd, Huddersfield",
+   "price": "£5,799",
+   "status": "live",
+   "live_page": "bikes/2021-r-black-earnshaws-motorcycles-ltd-huddersfield-202608195236967.html"
+  },
+  {
+   "slug": "2021-r-black-preston-motorcycles-202605132375715",
+   "title": "2021 R - Black",
+   "location": "Preston Motorcycles",
+   "price": "£6,795",
+   "status": "live",
+   "live_page": "bikes/2021-r-black-preston-motorcycles-202605132375715.html"
+  },
+  {
+   "slug": "2021-r-grey-private-seller-plymouth-202610036642457",
+   "title": "2021 R - Grey",
+   "location": "Private seller, Plymouth",
+   "price": "£5,850",
+   "status": "live",
+   "live_page": "bikes/2021-r-grey-private-seller-plymouth-202610036642457.html"
+  },
+  {
+   "slug": "2021-r-silver-new-city-motorcycles-ltd-rayleigh-fx21yxe",
+   "title": "2021 R - Silver",
+   "location": "New City Motorcycles Ltd, Rayleigh",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2021-r-silver-new-city-motorcycles-ltd-rayleigh-fx21yxe.html"
+  },
+  {
+   "slug": "2021-r-silver-vertu-honda-stockton-bikes-stockton-on-202607224410320",
+   "title": "2021 R - Silver",
+   "location": "Vertu Honda Stockton Bikes, Stockton-on-tees",
+   "price": "£6,699",
+   "status": "live",
+   "live_page": "bikes/2021-r-silver-vertu-honda-stockton-bikes-stockton-on-202607224410320.html"
+  },
+  {
+   "slug": "2021-r-tewkesbury",
+   "title": "2021 R",
+   "location": "Tewkesbury",
+   "price": "£6,490",
+   "status": "live",
+   "live_page": "bikes/2021-r-tewkesbury.html"
+  },
+  {
+   "slug": "2021-rs-black-speed-superbike-centre-exeter-202610146975651",
+   "title": "2021 RS - Black",
+   "location": "Speed Superbike Centre, Exeter",
+   "price": "£7,499",
+   "status": "live",
+   "live_page": "bikes/2021-rs-black-speed-superbike-centre-exeter-202610146975651.html"
+  },
+  {
+   "slug": "2021-rs-black-v-duo-motorcycles-lincoln-202608155134237",
+   "title": "2021 RS - Black",
+   "location": "V Duo Motorcycles, Lincoln",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2021-rs-black-v-duo-motorcycles-lincoln-202608155134237.html"
+  },
+  {
+   "slug": "2021-rs-moto-gb",
+   "title": "2021 RS",
+   "location": "Moto GB",
+   "price": "£7,499",
+   "status": "live",
+   "live_page": "bikes/2021-rs-moto-gb.html"
+  },
+  {
+   "slug": "2021-rs-silver-a1-moto-services-york-202610146982370",
+   "title": "2021 RS - Silver",
+   "location": "A1 Moto Services, York",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2021-rs-silver-a1-moto-services-york-202610146982370.html"
+  },
+  {
+   "slug": "2021-rs-silver-appleyard-motorcycles-keighley-202609186179253",
+   "title": "2021 RS - Silver",
+   "location": "Appleyard Motorcycles, Keighley",
+   "price": "£6,999",
+   "status": "live",
+   "live_page": "bikes/2021-rs-silver-appleyard-motorcycles-keighley-202609186179253.html"
+  },
+  {
+   "slug": "2021-rs-silver-bournemouth-dorset-1801324849",
+   "title": "2021 RS - Silver",
+   "location": "Bournemouth, Dorset",
+   "price": "£7,295",
+   "status": "live",
+   "live_page": "bikes/2021-rs-silver-bournemouth-dorset-1801324849.html"
+  },
+  {
+   "slug": "2021-rs-silver-on-the-wheel-brighton-202606193450118",
+   "title": "2021 RS - Silver",
+   "location": "On The Wheel, Brighton",
+   "price": "£7,298",
+   "status": "live",
+   "live_page": "bikes/2021-rs-silver-on-the-wheel-brighton-202606193450118.html"
+  },
+  {
+   "slug": "2021-rs-silver-on-the-wheel-brighton-202606223514992",
+   "title": "2021 RS - Silver",
+   "location": "On The Wheel, Brighton",
+   "price": "£7,298",
+   "status": "live",
+   "live_page": "bikes/2021-rs-silver-on-the-wheel-brighton-202606223514992.html"
+  },
+  {
+   "slug": "2021-rs-silver-powerbiking-ltd-high-wycombe-202604041291547",
+   "title": "2021 RS - Silver",
+   "location": "Powerbiking Ltd, High Wycombe",
+   "price": "£6,900",
+   "status": "live",
+   "live_page": "bikes/2021-rs-silver-powerbiking-ltd-high-wycombe-202604041291547.html"
+  },
+  {
+   "slug": "2021-rs-silver-preston-motorcycles-202609286473684",
+   "title": "2021 RS - Silver",
+   "location": "Preston Motorcycles",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2021-rs-silver-preston-motorcycles-202609286473684.html"
+  },
+  {
+   "slug": "2021-rs-silver-shipley-west-yorkshire-1803273359",
+   "title": "2021 RS - Silver",
+   "location": "Shipley, West Yorkshire",
+   "price": "£6,495",
+   "status": "live",
+   "live_page": "bikes/2021-rs-silver-shipley-west-yorkshire-1803273359.html"
+  },
+  {
+   "slug": "2021-rs-silver-worcester-worcestershire-1804179287",
+   "title": "2021 RS - Silver",
+   "location": "Worcester, Worcestershire",
+   "price": "£6,999",
+   "status": "live",
+   "live_page": "bikes/2021-rs-silver-worcester-worcestershire-1804179287.html"
+  },
+  {
+   "slug": "2022-765-black-youles-motorcycles-blackburn-202608265442471",
+   "title": "2022 765 - Black",
+   "location": "Youles Motorcycles Blackburn",
+   "price": "£7,599",
+   "status": "live",
+   "live_page": "bikes/2022-765-black-youles-motorcycles-blackburn-202608265442471.html"
+  },
+  {
+   "slug": "2022-765-red-youles-manchester-triumph-202609045709892",
+   "title": "2022 765 - Red",
+   "location": "Youles Manchester Triumph",
+   "price": "£8,399",
+   "status": "live",
+   "live_page": "bikes/2022-765-red-youles-manchester-triumph-202609045709892.html"
+  },
+  {
+   "slug": "2022-rs-black-dudley-west-midlands-1801945741",
+   "title": "2022 RS - Black",
+   "location": "Dudley, West Midlands",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2022-rs-black-dudley-west-midlands-1801945741.html"
+  },
+  {
+   "slug": "2022-rs-black-moore-motorcycles-bury-202610076772302",
+   "title": "2022 RS - Black",
+   "location": "Moore Motorcycles, Bury",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2022-rs-black-moore-motorcycles-bury-202610076772302.html"
+  },
+  {
+   "slug": "2022-rs-black-peterborough-cambridgeshire-1800680195",
+   "title": "2022 RS - Black",
+   "location": "Peterborough, Cambridgeshire",
+   "price": "£7,895",
+   "status": "live",
+   "live_page": "bikes/2022-rs-black-peterborough-cambridgeshire-1800680195.html"
+  },
+  {
+   "slug": "2022-rs-black-plymouth-wf22hfn",
+   "title": "2022 RS - Black",
+   "location": "Plymouth",
+   "price": "£7,995",
+   "status": "live",
+   "live_page": "bikes/2022-rs-black-plymouth-wf22hfn.html"
+  },
+  {
+   "slug": "2022-rs-black-private-seller-banbury-202609125985116",
+   "title": "2022 RS - Black",
+   "location": "Private seller, Banbury",
+   "price": "£6,500",
+   "status": "live",
+   "live_page": "bikes/2022-rs-black-private-seller-banbury-202609125985116.html"
+  },
+  {
+   "slug": "2022-rs-black-sudbury-suffolk-1802235533",
+   "title": "2022 RS - Black",
+   "location": "Sudbury, Suffolk",
+   "price": "£5,895",
+   "status": "live",
+   "live_page": "bikes/2022-rs-black-sudbury-suffolk-1802235533.html"
+  },
+  {
+   "slug": "2022-rs-black-vertu-honda-stockton-bikes-stockton-on-202609256397735",
+   "title": "2022 RS - Black",
+   "location": "Vertu Honda Stockton Bikes, Stockton-on-tees",
+   "price": "£7,999",
+   "status": "live",
+   "live_page": "bikes/2022-rs-black-vertu-honda-stockton-bikes-stockton-on-202609256397735.html"
+  },
+  {
+   "slug": "2022-rs-black-willand-devon-1800648812",
+   "title": "2022 RS - Black",
+   "location": "Willand, Devon",
+   "price": "£7,100",
+   "status": "live",
+   "live_page": "bikes/2022-rs-black-willand-devon-1800648812.html"
+  },
+  {
+   "slug": "2022-rs-grey-hull-east-yorkshire-1801690912",
+   "title": "2022 RS - Grey",
+   "location": "Hull, East Yorkshire",
+   "price": "£7,999",
+   "status": "live",
+   "live_page": "bikes/2022-rs-grey-hull-east-yorkshire-1801690912.html"
+  },
+  {
+   "slug": "2022-rs-silver-dmc-birmingham-202610096849396",
+   "title": "2022 RS - Silver",
+   "location": "DMC BIRMINGHAM",
+   "price": "£6,499",
+   "status": "live",
+   "live_page": "bikes/2022-rs-silver-dmc-birmingham-202610096849396.html"
+  },
+  {
+   "slug": "2022-rs-silver-durham-county-durham-1513926815",
+   "title": "2022 RS - Silver",
+   "location": "Durham, County Durham",
+   "price": "£6,295",
+   "status": "live",
+   "live_page": "bikes/2022-rs-silver-durham-county-durham-1513926815.html"
+  },
+  {
+   "slug": "2022-rs-silver-private-seller-coventry-202610026621911",
+   "title": "2022 RS - Silver",
+   "location": "Private seller, Coventry",
+   "price": "£7,000",
+   "status": "live",
+   "live_page": "bikes/2022-rs-silver-private-seller-coventry-202610026621911.html"
+  },
+  {
+   "slug": "2022-rs-silver-triumph-newcastle-gateshead-202609306537521",
+   "title": "2022 RS - Silver",
+   "location": "Triumph Newcastle, Gateshead",
+   "price": "£7,500",
+   "status": "live",
+   "live_page": "bikes/2022-rs-silver-triumph-newcastle-gateshead-202609306537521.html"
+  },
+  {
+   "slug": "2023-765-silver-robspeed-motorcycles-limited-grimsby-202609025660143",
+   "title": "2023 765 - Silver",
+   "location": "Robspeed Motorcycles Limited, Grimsby",
+   "price": "£7,098",
+   "status": "live",
+   "live_page": "bikes/2023-765-silver-robspeed-motorcycles-limited-grimsby-202609025660143.html"
+  },
+  {
+   "slug": "2023-765-white-blade-triumph-stratford-stratford-upo-202607254502851",
+   "title": "2023 765 - White",
+   "location": "Blade Triumph Stratford, Stratford-upon-avon",
+   "price": "£11,495",
+   "status": "live",
+   "live_page": "bikes/2023-765-white-blade-triumph-stratford-stratford-upo-202607254502851.html"
+  },
+  {
+   "slug": "2023-765-white-speed-superbike-centre-exeter-202609085819150",
+   "title": "2023 765 - White",
+   "location": "Speed Superbike Centre, Exeter",
+   "price": "£6,499",
+   "status": "live",
+   "live_page": "bikes/2023-765-white-speed-superbike-centre-exeter-202609085819150.html"
+  },
+  {
+   "slug": "2023-moto2-ashford",
+   "title": "2023 Moto2",
+   "location": "Ashford",
+   "price": "£10,093",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-ashford.html"
+  },
+  {
+   "slug": "2023-moto2-blade-triumph-stratford",
+   "title": "2023 Moto2",
+   "location": "Blade Triumph, Stratford",
+   "price": "£10,999",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-blade-triumph-stratford.html"
+  },
+  {
+   "slug": "2023-moto2-ebay",
+   "title": "2023 Moto2",
+   "location": "eBay",
+   "price": "£11,995",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-ebay.html"
+  },
+  {
+   "slug": "2023-moto2-edition-white-private-seller-peterborough-202610036646442",
+   "title": "2023 Moto2 Edition - White",
+   "location": "Private seller, Peterborough",
+   "price": "£10,295",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-edition-white-private-seller-peterborough-202610036646442.html"
+  },
+  {
+   "slug": "2023-moto2-edition-white-private-seller-redruth-202609135992731",
+   "title": "2023 Moto2 Edition - White",
+   "location": "Private seller, Redruth",
+   "price": "£11,300",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-edition-white-private-seller-redruth-202609135992731.html"
+  },
+  {
+   "slug": "2023-moto2-edition-wimborne",
+   "title": "2023 Moto2 Edition",
+   "location": "Wimborne",
+   "price": "£12,795",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-edition-wimborne.html"
+  },
+  {
+   "slug": "2023-moto2-edition-yellow-dmc-birmingham-202608195246858",
+   "title": "2023 Moto2 Edition - Yellow",
+   "location": "DMC BIRMINGHAM",
+   "price": "£11,495",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-edition-yellow-dmc-birmingham-202608195246858.html"
+  },
+  {
+   "slug": "2023-moto2-edition-yellow-j-l-motorcycles-carlisle-jlmoto2108",
+   "title": "2023 Moto2 Edition - Yellow",
+   "location": "J&L Motorcycles, Carlisle",
+   "price": "£11,795",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-edition-yellow-j-l-motorcycles-carlisle-jlmoto2108.html"
+  },
+  {
+   "slug": "2023-moto2-edition-yellow-private-seller-alcester-202610076766294",
+   "title": "2023 Moto2 Edition - Yellow",
+   "location": "Private seller, Alcester",
+   "price": "£9,500",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-edition-yellow-private-seller-alcester-202610076766294.html"
+  },
+  {
+   "slug": "2023-moto2-edition-yellow-shipley-west-yorkshire-1803161866",
+   "title": "2023 Moto2 Edition - Yellow",
+   "location": "Shipley, West Yorkshire",
+   "price": "£12,765",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-edition-yellow-shipley-west-yorkshire-1803161866.html"
+  },
+  {
+   "slug": "2023-moto2-edition-yellow-stoke-ao23xhv",
+   "title": "2023 Moto2 Edition - Yellow",
+   "location": "Stoke",
+   "price": "£9,995",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-edition-yellow-stoke-ao23xhv.html"
+  },
+  {
+   "slug": "2023-moto2-triumph-newcastle",
+   "title": "2023 Moto2",
+   "location": "Triumph Newcastle",
+   "price": "£11,800",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-triumph-newcastle.html"
+  },
+  {
+   "slug": "2023-r-black-bob-minion-limited-matlock-202606083106199",
+   "title": "2023 R - Black",
+   "location": "Bob Minion Limited, Matlock",
+   "price": "£7,299",
+   "status": "live",
+   "live_page": "bikes/2023-r-black-bob-minion-limited-matlock-202606083106199.html"
+  },
+  {
+   "slug": "2023-r-black-haslemere-motorcycles-bordon-202609186157343",
+   "title": "2023 R - Black",
+   "location": "Haslemere Motorcycles, Bordon",
+   "price": "£6,998",
+   "status": "live",
+   "live_page": "bikes/2023-r-black-haslemere-motorcycles-bordon-202609186157343.html"
+  },
+  {
+   "slug": "2023-r-destination-triumph-fareham",
+   "title": "2024 R",
+   "location": "Destination Triumph, Fareham",
+   "price": "£7,695",
+   "status": "live",
+   "live_page": "bikes/2023-r-destination-triumph-fareham.html"
+  },
+  {
+   "slug": "2023-r-grey-fleetwood-lancashire-1803008297",
+   "title": "2023 R - Grey",
+   "location": "Fleetwood, Lancashire",
+   "price": "£6,995",
+   "status": "live",
+   "live_page": "bikes/2023-r-grey-fleetwood-lancashire-1803008297.html"
+  },
+  {
+   "slug": "2023-r-grey-triumph-west-yorkshire-shipley-202608014711722",
+   "title": "2023 R - Grey",
+   "location": "Triumph West Yorkshire, Shipley",
+   "price": "£7,695",
+   "status": "live",
+   "live_page": "bikes/2023-r-grey-triumph-west-yorkshire-shipley-202608014711722.html"
+  },
+  {
+   "slug": "2023-r-silver-batley-west-yorkshire-1515132720",
+   "title": "2023 R - Silver",
+   "location": "Batley, West Yorkshire",
+   "price": "£6,995",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-batley-west-yorkshire-1515132720.html"
+  },
+  {
+   "slug": "2023-r-silver-big-moto-west-midlands-dudley-wf23ojw",
+   "title": "2023 R - Silver",
+   "location": "Big Moto West Midlands, Dudley",
+   "price": "£6,989",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-big-moto-west-midlands-dudley-wf23ojw.html"
+  },
+  {
+   "slug": "2023-r-silver-bikers-nottingham-hj23xyr",
+   "title": "2023 R - Silver",
+   "location": "Bikers Nottingham",
+   "price": "£7,399",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-bikers-nottingham-hj23xyr.html"
+  },
+  {
+   "slug": "2023-r-silver-bikers-nottingham-ht23txw",
+   "title": "2023 R - Silver",
+   "location": "Bikers Nottingham",
+   "price": "£6,999",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-bikers-nottingham-ht23txw.html"
+  },
+  {
+   "slug": "2023-r-silver-bikespeeduk-ltd-livingston-202608285528486",
+   "title": "2023 R - Silver",
+   "location": "BikespeedUK Ltd, Livingston",
+   "price": "£6,595",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-bikespeeduk-ltd-livingston-202608285528486.html"
+  },
+  {
+   "slug": "2023-r-silver-carl-rosner-croydon-lx73vlo",
+   "title": "2023 R - Silver",
+   "location": "Carl Rosner, Croydon",
+   "price": "£6,995",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-carl-rosner-croydon-lx73vlo.html"
+  },
+  {
+   "slug": "2023-r-silver-castle-motorcycles-castleford-202604271928780",
+   "title": "2023 R - Silver",
+   "location": "Castle Motorcycles, Castleford",
+   "price": "£7,695",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-castle-motorcycles-castleford-202604271928780.html"
+  },
+  {
+   "slug": "2023-r-silver-cubo-moto-limited-huddersfield-df23gxz",
+   "title": "2023 R - Silver",
+   "location": "Cubo Moto Limited, Huddersfield",
+   "price": "£6,990",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-cubo-moto-limited-huddersfield-df23gxz.html"
+  },
+  {
+   "slug": "2023-r-silver-fowlers-of-bristol-limited-lf23fvu",
+   "title": "2023 R - Silver",
+   "location": "Fowlers of Bristol Limited",
+   "price": "£7,494",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-fowlers-of-bristol-limited-lf23fvu.html"
+  },
+  {
+   "slug": "2023-r-silver-grimsby-lincolnshire-1802001508",
+   "title": "2023 R - Silver",
+   "location": "Grimsby, Lincolnshire",
+   "price": "£8,299",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-grimsby-lincolnshire-1802001508.html"
+  },
+  {
+   "slug": "2023-r-silver-grimsby-lincolnshire-1802285039",
+   "title": "2023 R - Silver",
+   "location": "Grimsby, Lincolnshire",
+   "price": "£6,999",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-grimsby-lincolnshire-1802285039.html"
+  },
+  {
+   "slug": "2023-r-silver-gt-superbikes-limited-pontyclun-kr72skd",
+   "title": "2023 R - Silver",
+   "location": "GT Superbikes Limited, Pontyclun",
+   "price": "£6,499",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-gt-superbikes-limited-pontyclun-kr72skd.html"
+  },
+  {
+   "slug": "2023-r-silver-lings-powersports-norwich-au23ndk",
+   "title": "2023 R - Silver",
+   "location": "LINGS POWERSPORTS (Norwich)",
+   "price": "£6,889",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-lings-powersports-norwich-au23ndk.html"
+  },
+  {
+   "slug": "2023-r-silver-lings-triumph-essex-great-dunmow-ay23xuj",
+   "title": "2023 R - Silver",
+   "location": "Lings Triumph Essex, Great Dunmow",
+   "price": "£7,299",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-lings-triumph-essex-great-dunmow-ay23xuj.html"
+  },
+  {
+   "slug": "2023-r-silver-retford-nottinghamshire-1800576994",
+   "title": "2023 R - Silver",
+   "location": "Retford, Nottinghamshire",
+   "price": "£7,998",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-retford-nottinghamshire-1800576994.html"
+  },
+  {
+   "slug": "2023-r-silver-the-potteries-motorcycles-scooters-sto-yy23vbm",
+   "title": "2023 R - Silver",
+   "location": "The Potteries Motorcycles & Scooters, Stoke on Trent",
+   "price": "£6,899",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-the-potteries-motorcycles-scooters-sto-yy23vbm.html"
+  },
+  {
+   "slug": "2023-r-silver-ultimate-moto-limited-boldon-colliery-202607023828887",
+   "title": "2023 R - Silver",
+   "location": "Ultimate Moto Limited, Boldon Colliery",
+   "price": "£6,990",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-ultimate-moto-limited-boldon-colliery-202607023828887.html"
+  },
+  {
+   "slug": "2023-r-silver-webbs-of-lincoln-ds23zde",
+   "title": "2023 R - Silver",
+   "location": "Webbs of Lincoln",
+   "price": "£7,499",
+   "status": "live",
+   "live_page": "bikes/2023-r-silver-webbs-of-lincoln-ds23zde.html"
+  },
+  {
+   "slug": "2023-r-white-bikers-nottingham-202605022074780",
+   "title": "2023 R - White",
+   "location": "Bikers Nottingham",
+   "price": "£6,599",
+   "status": "live",
+   "live_page": "bikes/2023-r-white-bikers-nottingham-202605022074780.html"
+  },
+  {
+   "slug": "2023-r-white-blade-triumph-cheltenham-gloucester-202610056685074",
+   "title": "2023 R - White",
+   "location": "Blade Triumph Cheltenham, Gloucester",
+   "price": "£6,989",
+   "status": "live",
+   "live_page": "bikes/2023-r-white-blade-triumph-cheltenham-gloucester-202610056685074.html"
+  },
+  {
+   "slug": "2023-r-white-ipswich-suffolk-1514282566",
+   "title": "2023 R - White",
+   "location": "Ipswich, Suffolk",
+   "price": "£7,100",
+   "status": "live",
+   "live_page": "bikes/2023-r-white-ipswich-suffolk-1514282566.html"
+  },
+  {
+   "slug": "2023-r-white-laguna-triumph-maidstone-aylesford-202609055750864",
+   "title": "2023 R - White",
+   "location": "Laguna Triumph Maidstone, Aylesford",
+   "price": "£6,800",
+   "status": "live",
+   "live_page": "bikes/2023-r-white-laguna-triumph-maidstone-aylesford-202609055750864.html"
+  },
+  {
+   "slug": "2023-r-white-private-seller-west-norwood-202610086803461",
+   "title": "2023 R - White",
+   "location": "Private seller, West Norwood",
+   "price": "£6,990",
+   "status": "live",
+   "live_page": "bikes/2023-r-white-private-seller-west-norwood-202610086803461.html"
+  },
+  {
+   "slug": "2023-r-white-reading-berkshire-1803581851",
+   "title": "2023 R - White",
+   "location": "Reading, Berkshire",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2023-r-white-reading-berkshire-1803581851.html"
+  },
+  {
+   "slug": "2023-r-white-sheldon-motorcycles-birmingham-202608064854769",
+   "title": "2023 R - White",
+   "location": "Sheldon Motorcycles, Birmingham",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2023-r-white-sheldon-motorcycles-birmingham-202608064854769.html"
+  },
+  {
+   "slug": "2023-r-white-tms-motorcycle-u0026-automotive-cotes-202609025642551",
+   "title": "2023 R - White",
+   "location": "TMS MOTORCYCLE \\u0026 AUTOMOTIVE, Cotes",
+   "price": "£7,695",
+   "status": "live",
+   "live_page": "bikes/2023-r-white-tms-motorcycle-u0026-automotive-cotes-202609025642551.html"
+  },
+  {
+   "slug": "2023-r-white-west-coast-triumph-glasgow-202610116883723",
+   "title": "2023 R - White",
+   "location": "West Coast Triumph Glasgow",
+   "price": "£6,994",
+   "status": "live",
+   "live_page": "bikes/2023-r-white-west-coast-triumph-glasgow-202610116883723.html"
+  },
+  {
+   "slug": "2023-r-white-wheels-motorcycles-peterborough-fx23xhg",
+   "title": "2023 R - White",
+   "location": "Wheels Motorcycles - Peterborough",
+   "price": "£6,995",
+   "status": "live",
+   "live_page": "bikes/2023-r-white-wheels-motorcycles-peterborough-fx23xhg.html"
+  },
+  {
+   "slug": "2023-rs-cosmic-yellow-norwich",
+   "title": "2023 RS - Cosmic Yellow",
+   "location": "Norwich",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2023-rs-cosmic-yellow-norwich.html"
+  },
+  {
+   "slug": "2023-rs-grey-newent-gloucestershire-1803518935",
+   "title": "2023 RS - Grey",
+   "location": "Newent, Gloucestershire",
+   "price": "£8,190",
+   "status": "live",
+   "live_page": "bikes/2023-rs-grey-newent-gloucestershire-1803518935.html"
+  },
+  {
+   "slug": "2023-rs-multicolour-hastings-motorcycle-centre-ltd-202609105903284",
+   "title": "2023 RS - Multicolour",
+   "location": "HASTINGS MOTORCYCLE CENTRE LTD",
+   "price": "£8,988",
+   "status": "live",
+   "live_page": "bikes/2023-rs-multicolour-hastings-motorcycle-centre-ltd-202609105903284.html"
+  },
+  {
+   "slug": "2023-rs-red-alpha-motorcycles-limited-leigh-on-sea-202606153309745",
+   "title": "2023 RS - Red",
+   "location": "Alpha Motorcycles Limited, Leigh On Sea",
+   "price": "£7,999",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-alpha-motorcycles-limited-leigh-on-sea-202606153309745.html"
+  },
+  {
+   "slug": "2023-rs-red-ashton-on-ribble-lancashire-1803465673",
+   "title": "2023 RS - Red",
+   "location": "Ashton-on-Ribble, Lancashire",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2023-rs-red-ashton-on-ribble-lancashire-1803465673.html"
+  },
+  {
+   "slug": "2023-rs-red-bikers-nottingham-202607184306042",
+   "title": "2023 RS - Red",
+   "location": "Bikers Nottingham",
+   "price": "£8,499",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-bikers-nottingham-202607184306042.html"
+  },
+  {
+   "slug": "2023-rs-red-billy-s-motorcycles-ltd-pulborough-202610146969585",
+   "title": "2023 RS - Red",
+   "location": "Billy's Motorcycles Ltd, Pulborough",
+   "price": "£8,499",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-billy-s-motorcycles-ltd-pulborough-202610146969585.html"
+  },
+  {
+   "slug": "2023-rs-red-ca-motorcycles-scotland-ltd-clydebank-202609146034556",
+   "title": "2023 RS - Red",
+   "location": "CA Motorcycles (Scotland) Ltd, Clydebank",
+   "price": "£7,950",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-ca-motorcycles-scotland-ltd-clydebank-202609146034556.html"
+  },
+  {
+   "slug": "2023-rs-red-carl-rosner-ltd-croydon-202610217190073",
+   "title": "2023 RS - Red",
+   "location": "Carl Rosner Ltd, Croydon",
+   "price": "£8,495",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-carl-rosner-ltd-croydon-202610217190073.html"
+  },
+  {
+   "slug": "2023-rs-red-derby-derbyshire-1802678190",
+   "title": "2023 RS - Red",
+   "location": "Derby, Derbyshire",
+   "price": "£8,999",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-derby-derbyshire-1802678190.html"
+  },
+  {
+   "slug": "2023-rs-red-dmc-birmingham-202609296495840",
+   "title": "2023 RS - Red",
+   "location": "DMC BIRMINGHAM",
+   "price": "£8,495",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-dmc-birmingham-202609296495840.html"
+  },
+  {
+   "slug": "2023-rs-red-dudley-west-midlands-1802238166",
+   "title": "2023 RS - Red",
+   "location": "Dudley, West Midlands",
+   "price": "£7,995",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-dudley-west-midlands-1802238166.html"
+  },
+  {
+   "slug": "2023-rs-red-ipswich-suffolk-1515079002",
+   "title": "2023 RS - Red",
+   "location": "Ipswich, Suffolk",
+   "price": "£8,800",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-ipswich-suffolk-1515079002.html"
+  },
+  {
+   "slug": "2023-rs-red-long-eaton-nottinghamshire-1803173193",
+   "title": "2023 RS - Red",
+   "location": "Long Eaton, Nottinghamshire",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2023-rs-red-long-eaton-nottinghamshire-1803173193.html"
+  },
+  {
+   "slug": "2023-rs-red-motorcycle-centre-orrell-wigan-202610207176810",
+   "title": "2023 RS - Red",
+   "location": "Motorcycle Centre Orrell, Wigan",
+   "price": "£8,999",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-motorcycle-centre-orrell-wigan-202610207176810.html"
+  },
+  {
+   "slug": "2023-rs-red-tamworth-staffordshire-1803952141",
+   "title": "2023 RS - Red",
+   "location": "Tamworth, Staffordshire",
+   "price": "£8,995",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-tamworth-staffordshire-1803952141.html"
+  },
+  {
+   "slug": "2023-rs-red-worcester-worcestershire-1801692943",
+   "title": "2023 RS - Red",
+   "location": "Worcester, Worcestershire",
+   "price": "£7,499",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-worcester-worcestershire-1801692943.html"
+  },
+  {
+   "slug": "2023-rs-silver-bolton-motorcycles-202608255431188",
+   "title": "2023 RS - Silver",
+   "location": "Bolton Motorcycles",
+   "price": "£8,499",
+   "status": "live",
+   "live_page": "bikes/2023-rs-silver-bolton-motorcycles-202608255431188.html"
+  },
+  {
+   "slug": "2023-rs-silver-bolton-motorcycles-202609075785120",
+   "title": "2023 RS - Silver",
+   "location": "Bolton Motorcycles",
+   "price": "£8,799",
+   "status": "live",
+   "live_page": "bikes/2023-rs-silver-bolton-motorcycles-202609075785120.html"
+  },
+  {
+   "slug": "2023-rs-silver-ducati-sunderland-east-boldon-202608215325283",
+   "title": "2023 RS - Silver",
+   "location": "Ducati Sunderland, East Boldon",
+   "price": "£8,499",
+   "status": "live",
+   "live_page": "bikes/2023-rs-silver-ducati-sunderland-east-boldon-202608215325283.html"
+  },
+  {
+   "slug": "2023-rs-silver-ducati-worcester-202610086803085",
+   "title": "2023 RS - Silver",
+   "location": "Ducati Worcester",
+   "price": "£8,195",
+   "status": "live",
+   "live_page": "bikes/2023-rs-silver-ducati-worcester-202610086803085.html"
+  },
+  {
+   "slug": "2023-rs-silver-fowlers-of-bristol-limited-202610177080197",
+   "title": "2023 RS - Silver",
+   "location": "Fowlers Of Bristol Limited",
+   "price": "£8,994",
+   "status": "live",
+   "live_page": "bikes/2023-rs-silver-fowlers-of-bristol-limited-202610177080197.html"
+  },
+  {
+   "slug": "2023-rs-silver-lings-triumph-essex-dunmow-202606233557449",
+   "title": "2023 RS - Silver",
+   "location": "Lings Triumph Essex, Dunmow",
+   "price": "£8,199",
+   "status": "live",
+   "live_page": "bikes/2023-rs-silver-lings-triumph-essex-dunmow-202606233557449.html"
+  },
+  {
+   "slug": "2023-rs-silver-pontyclun-rhondda-cynon-taf-1803403729",
+   "title": "2023 RS - Silver",
+   "location": "Pontyclun, Rhondda Cynon Taf",
+   "price": "£6,499",
+   "status": "live",
+   "live_page": "bikes/2023-rs-silver-pontyclun-rhondda-cynon-taf-1803403729.html"
+  },
+  {
+   "slug": "2023-rs-silver-private-seller-penrith-202610036644149",
+   "title": "2023 RS - Silver",
+   "location": "Private seller, Penrith",
+   "price": "£8,299",
+   "status": "live",
+   "live_page": "bikes/2023-rs-silver-private-seller-penrith-202610036644149.html"
+  },
+  {
+   "slug": "2023-rs-silver-v-duo-motorcycles-lincoln-202607154208369",
+   "title": "2023 RS - Silver",
+   "location": "V Duo Motorcycles, Lincoln",
+   "price": "£8,395",
+   "status": "live",
+   "live_page": "bikes/2023-rs-silver-v-duo-motorcycles-lincoln-202607154208369.html"
+  },
+  {
+   "slug": "2023-rs-verwood",
+   "title": "2023 RS",
+   "location": "Verwood",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2023-rs-verwood.html"
+  },
+  {
+   "slug": "2023-rs-yellow-bolton-motorcycles",
+   "title": "2023 RS - Yellow",
+   "location": "Bolton Motorcycles",
+   "price": "£8,999",
+   "status": "live",
+   "live_page": "bikes/2023-rs-yellow-bolton-motorcycles.html"
+  },
+  {
+   "slug": "2023-rs-yellow-colwyn-bay-motorcycles-202607164237477",
+   "title": "2023 RS - Yellow",
+   "location": "Colwyn Bay Motorcycles",
+   "price": "£9,995",
+   "status": "live",
+   "live_page": "bikes/2023-rs-yellow-colwyn-bay-motorcycles-202607164237477.html"
+  },
+  {
+   "slug": "2023-rs-yellow-long-eaton-nottinghamshire-1803649549",
+   "title": "2023 RS - Yellow",
+   "location": "Long Eaton, Nottinghamshire",
+   "price": "£8,999",
+   "status": "live",
+   "live_page": "bikes/2023-rs-yellow-long-eaton-nottinghamshire-1803649549.html"
+  },
+  {
+   "slug": "2023-rs-yellow-private-seller-greenwich-202609075779062",
+   "title": "2023 RS - Yellow",
+   "location": "Private seller, Greenwich",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2023-rs-yellow-private-seller-greenwich-202609075779062.html"
+  },
+  {
+   "slug": "2023-rs-yellow-ride-dmc-motorcycles-maidstone-202610217201682",
+   "title": "2023 RS - Yellow",
+   "location": "Ride Dmc Motorcycles, Maidstone",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2023-rs-yellow-ride-dmc-motorcycles-maidstone-202610217201682.html"
+  },
+  {
+   "slug": "2023-rs-yellow-shorrock-preston",
+   "title": "2023 RS - Yellow",
+   "location": "Shorrock, Preston",
+   "price": "£8,495",
+   "status": "live",
+   "live_page": "bikes/2023-rs-yellow-shorrock-preston.html"
+  },
+  {
+   "slug": "2024-765-white-blade-triumph-cheltenham-gloucester-202609075796439",
+   "title": "2024 765 - White",
+   "location": "Blade Triumph Cheltenham, Gloucester",
+   "price": "£7,289",
+   "status": "live",
+   "live_page": "bikes/2024-765-white-blade-triumph-cheltenham-gloucester-202609075796439.html"
+  },
+  {
+   "slug": "2024-moto2-edition-white-the-potteries-motorcycles-s-bn24ofx",
+   "title": "2024 Moto2 Edition - White",
+   "location": "The Potteries Motorcycles & Scooters, Stoke on Trent",
+   "price": "£12,399",
+   "status": "live",
+   "live_page": "bikes/2024-moto2-edition-white-the-potteries-motorcycles-s-bn24ofx.html"
+  },
+  {
+   "slug": "2024-moto2-edition-yellow-derby-derbyshire-1514517792",
+   "title": "2024 Moto2 Edition - Yellow",
+   "location": "Derby, Derbyshire",
+   "price": "£12,994",
+   "status": "live",
+   "live_page": "bikes/2024-moto2-edition-yellow-derby-derbyshire-1514517792.html"
+  },
+  {
+   "slug": "2024-r-orange-preston-superbikes-yx74pgv",
+   "title": "2024 R - Orange",
+   "location": "Preston Superbikes",
+   "price": "£7,995",
+   "status": "live",
+   "live_page": "bikes/2024-r-orange-preston-superbikes-yx74pgv.html"
+  },
+  {
+   "slug": "2024-r-orange-private-seller-bristol-202609206218060",
+   "title": "2024 R - Orange",
+   "location": "Private seller, Bristol",
+   "price": "£7,000",
+   "status": "live",
+   "live_page": "bikes/2024-r-orange-private-seller-bristol-202609206218060.html"
+  },
+  {
+   "slug": "2024-r-silver-big-moto-west-midlands-dudley-wg74hae",
+   "title": "2024 R - Silver",
+   "location": "Big Moto West Midlands, Dudley",
+   "price": "£7,589",
+   "status": "live",
+   "live_page": "bikes/2024-r-silver-big-moto-west-midlands-dudley-wg74hae.html"
+  },
+  {
+   "slug": "2024-r-silver-lings-triumph-essex-great-dunmow-ek74dyt",
+   "title": "2024 R - Silver",
+   "location": "Lings Triumph Essex, Great Dunmow",
+   "price": "£7,995",
+   "status": "live",
+   "live_page": "bikes/2024-r-silver-lings-triumph-essex-great-dunmow-ek74dyt.html"
+  },
+  {
+   "slug": "2024-r-silver-motorcycles-uk-swindon-ltd-202610167045013",
+   "title": "2024 R - Silver",
+   "location": "Motorcycles UK (Swindon) Ltd",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2024-r-silver-motorcycles-uk-swindon-ltd-202610167045013.html"
+  },
+  {
+   "slug": "2024-r-silver-preston-superbikes-kw24ubk",
+   "title": "2024 R - Silver",
+   "location": "Preston Superbikes",
+   "price": "£7,995",
+   "status": "live",
+   "live_page": "bikes/2024-r-silver-preston-superbikes-kw24ubk.html"
+  },
+  {
+   "slug": "2024-r-silver-shirlaws-motorcycles-aberdeen-202608034756883",
+   "title": "2024 R - Silver",
+   "location": "Shirlaws Motorcycles, Aberdeen",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2024-r-silver-shirlaws-motorcycles-aberdeen-202608034756883.html"
+  },
+  {
+   "slug": "2024-r-silver-tinklers-motor-cycles-limited-norwich-202606053022593",
+   "title": "2024 R - Silver",
+   "location": "Tinklers (Motor Cycles) Limited, Norwich",
+   "price": "£7,995",
+   "status": "live",
+   "live_page": "bikes/2024-r-silver-tinklers-motor-cycles-limited-norwich-202606053022593.html"
+  },
+  {
+   "slug": "2024-r-silver-webbs-of-peterborough-202609196194012",
+   "title": "2024 R - Silver",
+   "location": "Webbs of Peterborough",
+   "price": "£7,499",
+   "status": "live",
+   "live_page": "bikes/2024-r-silver-webbs-of-peterborough-202609196194012.html"
+  },
+  {
+   "slug": "2024-r-silver-york-yx24wpw",
+   "title": "2024 R - Silver",
+   "location": "York",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2024-r-silver-york-yx24wpw.html"
+  },
+  {
+   "slug": "2024-r-white-blade-triumph-stratford-stratford-upon-202606203478787",
+   "title": "2024 R - White",
+   "location": "Blade Triumph Stratford, Stratford-upon-avon",
+   "price": "£7,489",
+   "status": "live",
+   "live_page": "bikes/2024-r-white-blade-triumph-stratford-stratford-upon-202606203478787.html"
+  },
+  {
+   "slug": "2024-r-white-davant-bikes-limited-torquay-202606093135345",
+   "title": "2024 R - White",
+   "location": "DAVANT BIKES LIMITED, Torquay",
+   "price": "£8,000",
+   "status": "live",
+   "live_page": "bikes/2024-r-white-davant-bikes-limited-torquay-202606093135345.html"
+  },
+  {
+   "slug": "2024-r-white-melton-mowbray-leicestershire-1801682036",
+   "title": "2024 R - White",
+   "location": "Melton Mowbray, Leicestershire",
+   "price": "£7,990",
+   "status": "live",
+   "live_page": "bikes/2024-r-white-melton-mowbray-leicestershire-1801682036.html"
+  },
+  {
+   "slug": "2024-r-white-padiham-lancashire-1803173410",
+   "title": "2024 R - White",
+   "location": "Padiham, Lancashire",
+   "price": "£7,999",
+   "status": "live",
+   "live_page": "bikes/2024-r-white-padiham-lancashire-1803173410.html"
+  },
+  {
+   "slug": "2024-r-white-webbs-of-lincoln-202607013792594",
+   "title": "2024 R - White",
+   "location": "Webbs Of Lincoln",
+   "price": "£7,799",
+   "status": "live",
+   "live_page": "bikes/2024-r-white-webbs-of-lincoln-202607013792594.html"
+  },
+  {
+   "slug": "2024-rs-black-headcorn-kent-1800559258",
+   "title": "2024 RS - Black",
+   "location": "Headcorn, Kent",
+   "price": "£8,450",
+   "status": "live",
+   "live_page": "bikes/2024-rs-black-headcorn-kent-1800559258.html"
+  },
+  {
+   "slug": "2024-rs-black-shipley-west-yorkshire-1801849040",
+   "title": "2024 RS - Black",
+   "location": "Shipley, West Yorkshire",
+   "price": "£9,495",
+   "status": "live",
+   "live_page": "bikes/2024-rs-black-shipley-west-yorkshire-1801849040.html"
+  },
+  {
+   "slug": "2024-rs-black-triumph-newcastle-gateshead-202606032951094",
+   "title": "2024 RS - Black",
+   "location": "Triumph Newcastle, Gateshead",
+   "price": "£8,500",
+   "status": "live",
+   "live_page": "bikes/2024-rs-black-triumph-newcastle-gateshead-202606032951094.html"
+  },
+  {
+   "slug": "2024-rs-black-triumph-newcastle-gateshead-202610136953397",
+   "title": "2024 RS - Black",
+   "location": "Triumph Newcastle, Gateshead",
+   "price": "£8,500",
+   "status": "live",
+   "live_page": "bikes/2024-rs-black-triumph-newcastle-gateshead-202610136953397.html"
+  },
+  {
+   "slug": "2024-rs-blue-private-seller-walton-on-thames-202609176141245",
+   "title": "2024 RS - Blue",
+   "location": "Private seller, Walton-on-thames",
+   "price": "£9,695",
+   "status": "live",
+   "live_page": "bikes/2024-rs-blue-private-seller-walton-on-thames-202609176141245.html"
+  },
+  {
+   "slug": "2024-rs-cosmic-yellow-lings-triumph-essex-great-dunm-lings10965",
+   "title": "2024 RS - Cosmic Yellow",
+   "location": "Lings Triumph Essex, Great Dunmow",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2024-rs-cosmic-yellow-lings-triumph-essex-great-dunm-lings10965.html"
+  },
+  {
+   "slug": "2024-rs-ebay-collection-only",
+   "title": "2024 RS",
+   "location": "Southcoast Superbike Sales, Waterlooville",
+   "price": "£6,995",
+   "status": "live",
+   "live_page": "bikes/2024-rs-ebay-collection-only.html"
+  },
+  {
+   "slug": "2024-rs-green-triumph-east-london-romford-custom-gre-ex74bup",
+   "title": "2024 RS - Green",
+   "location": "Triumph East London, Romford (custom green)",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2024-rs-green-triumph-east-london-romford-custom-gre-ex74bup.html"
+  },
+  {
+   "slug": "2024-rs-red-cardiff-motorcycle-centre-202610207158015",
+   "title": "2024 RS - Red",
+   "location": "Cardiff Motorcycle Centre",
+   "price": "£7,995",
+   "status": "live",
+   "live_page": "bikes/2024-rs-red-cardiff-motorcycle-centre-202610207158015.html"
+  },
+  {
+   "slug": "2024-rs-red-newport-hw24lvy",
+   "title": "2024 RS - Red",
+   "location": "Newport",
+   "price": "£8,995",
+   "status": "live",
+   "live_page": "bikes/2024-rs-red-newport-hw24lvy.html"
+  },
+  {
+   "slug": "2024-rs-red-private-seller-bishop-s-stortford-202610187093807",
+   "title": "2024 RS - Red",
+   "location": "Private seller, Bishop's Stortford",
+   "price": "£6,995",
+   "status": "live",
+   "live_page": "bikes/2024-rs-red-private-seller-bishop-s-stortford-202610187093807.html"
+  },
+  {
+   "slug": "2024-rs-red-triumph-london-202608135057040",
+   "title": "2024 RS - Red",
+   "location": "Triumph London",
+   "price": "£9,495",
+   "status": "live",
+   "live_page": "bikes/2024-rs-red-triumph-london-202608135057040.html"
+  },
+  {
+   "slug": "2024-rs-silver-blade-triumph-cheltenham-gloucester-202610177082150",
+   "title": "2024 RS - Silver",
+   "location": "Blade Triumph Cheltenham, Gloucester",
+   "price": "£8,289",
+   "status": "live",
+   "live_page": "bikes/2024-rs-silver-blade-triumph-cheltenham-gloucester-202610177082150.html"
+  },
+  {
+   "slug": "2024-rs-silver-crescent-motorcycle-co-ltd-bournemout-202609085843947",
+   "title": "2024 RS - Silver",
+   "location": "Crescent Motorcycle Co Ltd Bournemouth, Bournemouth,",
+   "price": "£8,995",
+   "status": "live",
+   "live_page": "bikes/2024-rs-silver-crescent-motorcycle-co-ltd-bournemout-202609085843947.html"
+  },
+  {
+   "slug": "2024-rs-silver-lings-suffolk-triumph-ipswich-202608155128327",
+   "title": "2024 RS - Silver",
+   "location": "Lings Suffolk Triumph, Ipswich",
+   "price": "£8,195",
+   "status": "live",
+   "live_page": "bikes/2024-rs-silver-lings-suffolk-triumph-ipswich-202608155128327.html"
+  },
+  {
+   "slug": "2024-rs-silver-private-seller-weymouth-202609115948226",
+   "title": "2024 RS - Silver",
+   "location": "Private seller, Weymouth",
+   "price": "£8,995",
+   "status": "live",
+   "live_page": "bikes/2024-rs-silver-private-seller-weymouth-202609115948226.html"
+  },
+  {
+   "slug": "2024-rs-silver-vines-of-guildford-motorrad-202609186151621",
+   "title": "2024 RS - Silver",
+   "location": "Vines of Guildford Motorrad",
+   "price": "£8,290",
+   "status": "live",
+   "live_page": "bikes/2024-rs-silver-vines-of-guildford-motorrad-202609186151621.html"
+  },
+  {
+   "slug": "2024-rs-silver-york-py24ocl",
+   "title": "2024 RS - Silver",
+   "location": "York",
+   "price": "£8,999",
+   "status": "live",
+   "live_page": "bikes/2024-rs-silver-york-py24ocl.html"
+  },
+  {
+   "slug": "2024-rs-yellow-ams-motorcycles-tewkesbury-202609226267411",
+   "title": "2024 RS - Yellow",
+   "location": "Ams Motorcycles, Tewkesbury",
+   "price": "£8,490",
+   "status": "live",
+   "live_page": "bikes/2024-rs-yellow-ams-motorcycles-tewkesbury-202609226267411.html"
+  },
+  {
+   "slug": "2024-rs-yellow-b-s-bikes-limited-t-a-staffordshire-t-202610136948218",
+   "title": "2024 RS - Yellow",
+   "location": "B S Bikes Limited T/A Staffordshire Triumph, Stoke On Trent",
+   "price": "£9,295",
+   "status": "live",
+   "live_page": "bikes/2024-rs-yellow-b-s-bikes-limited-t-a-staffordshire-t-202610136948218.html"
+  },
+  {
+   "slug": "2024-rs-yellow-batley-west-yorkshire-1801822409",
+   "title": "2024 RS - Yellow",
+   "location": "Batley, West Yorkshire",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2024-rs-yellow-batley-west-yorkshire-1801822409.html"
+  },
+  {
+   "slug": "2024-rs-yellow-carl-rosner-ltd-croydon-202610217190085",
+   "title": "2024 RS - Yellow",
+   "location": "Carl Rosner Ltd, Croydon",
+   "price": "£8,495",
+   "status": "live",
+   "live_page": "bikes/2024-rs-yellow-carl-rosner-ltd-croydon-202610217190085.html"
+  },
+  {
+   "slug": "2024-rs-yellow-dudley-west-midlands-1802097877",
+   "title": "2024 RS - Yellow",
+   "location": "Dudley, West Midlands",
+   "price": "£8,389",
+   "status": "live",
+   "live_page": "bikes/2024-rs-yellow-dudley-west-midlands-1802097877.html"
+  },
+  {
+   "slug": "2024-rs-yellow-kjm-superbike-ltd-wigan-202610207154680",
+   "title": "2024 RS - Yellow",
+   "location": "Kjm Superbike Ltd, Wigan",
+   "price": "£8,995",
+   "status": "live",
+   "live_page": "bikes/2024-rs-yellow-kjm-superbike-ltd-wigan-202610207154680.html"
+  },
+  {
+   "slug": "2024-rs-yellow-stoke-on-trent-staffordshire-1803650182",
+   "title": "2024 RS - Yellow",
+   "location": "Stoke-on-Trent, Staffordshire",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2024-rs-yellow-stoke-on-trent-staffordshire-1803650182.html"
+  },
+  {
+   "slug": "2024-rs-yellow-the-bike-specialists-sheffield-202610217198169",
+   "title": "2024 RS - Yellow",
+   "location": "The Bike Specialists, Sheffield",
+   "price": "£8,799",
+   "status": "live",
+   "live_page": "bikes/2024-rs-yellow-the-bike-specialists-sheffield-202610217198169.html"
+  },
+  {
+   "slug": "2024-rs-yellow-trident-motors-bushey-202605312846950",
+   "title": "2024 RS - Yellow",
+   "location": "Trident Motors, Bushey",
+   "price": "£9,295",
+   "status": "live",
+   "live_page": "bikes/2024-rs-yellow-trident-motors-bushey-202605312846950.html"
+  },
+  {
+   "slug": "2025-765-black-youles-motorcycles-blackburn-202610177086165",
+   "title": "2025 765 - Black",
+   "location": "Youles Motorcycles Blackburn",
+   "price": "£7,599",
+   "status": "live",
+   "live_page": "bikes/2025-765-black-youles-motorcycles-blackburn-202610177086165.html"
+  },
+  {
+   "slug": "2025-765-red-webbs-of-peterborough-202608215313923",
+   "title": "2025 765 - Red",
+   "location": "Webbs of Peterborough",
+   "price": "£9,799",
+   "status": "live",
+   "live_page": "bikes/2025-765-red-webbs-of-peterborough-202608215313923.html"
+  },
+  {
+   "slug": "2025-765-red-youles-manchester-triumph-202610086810393",
+   "title": "2025 765 - Red",
+   "location": "Youles Manchester Triumph",
+   "price": "£9,099",
+   "status": "live",
+   "live_page": "bikes/2025-765-red-youles-manchester-triumph-202610086810393.html"
+  },
+  {
+   "slug": "2025-r-black-west-coast-triumph-glasgow-202610016570515",
+   "title": "2025 R - Black",
+   "location": "West Coast Triumph Glasgow",
+   "price": "£8,594",
+   "status": "live",
+   "live_page": "bikes/2025-r-black-west-coast-triumph-glasgow-202610016570515.html"
+  },
+  {
+   "slug": "2025-r-orange-batley-west-yorkshire-1800760684",
+   "title": "2025 R - Orange",
+   "location": "Batley, West Yorkshire",
+   "price": "£7,995",
+   "status": "live",
+   "live_page": "bikes/2025-r-orange-batley-west-yorkshire-1800760684.html"
+  },
+  {
+   "slug": "2025-r-orange-private-seller-solihull-202610046664245",
+   "title": "2025 R - Orange",
+   "location": "Private seller, Solihull",
+   "price": "£7,650",
+   "status": "live",
+   "live_page": "bikes/2025-r-orange-private-seller-solihull-202610046664245.html"
+  },
+  {
+   "slug": "2025-r-robert-bevan-u0026-sons-motorcycles-limited-c-202610157024475",
+   "title": "2025 R",
+   "location": "Robert Bevan \\u0026 Sons (Motorcycles) Limited, Cardiff",
+   "price": "£8,495",
+   "status": "live",
+   "live_page": "bikes/2025-r-robert-bevan-u0026-sons-motorcycles-limited-c-202610157024475.html"
+  },
+  {
+   "slug": "2025-r-silver-edinburgh-sk25gyx",
+   "title": "2025 R - Silver",
+   "location": "Edinburgh",
+   "price": "£8,495",
+   "status": "live",
+   "live_page": "bikes/2025-r-silver-edinburgh-sk25gyx.html"
+  },
+  {
+   "slug": "2025-r-white-lind-triumph-london-ld75nsf",
+   "title": "2025 R - White",
+   "location": "Lind Triumph London",
+   "price": "£7,749",
+   "status": "live",
+   "live_page": "bikes/2025-r-white-lind-triumph-london-ld75nsf.html"
+  },
+  {
+   "slug": "2025-r-white-private-seller-nantwich-202610207177070",
+   "title": "2025 R - White",
+   "location": "Private seller, Nantwich",
+   "price": "£8,575",
+   "status": "live",
+   "live_page": "bikes/2025-r-white-private-seller-nantwich-202610207177070.html"
+  },
+  {
+   "slug": "2025-r-white-team-roberts-conisbrough-202606022922591",
+   "title": "2025 R - White",
+   "location": "Team Roberts, Conisbrough",
+   "price": "£7,495",
+   "status": "live",
+   "live_page": "bikes/2025-r-white-team-roberts-conisbrough-202606022922591.html"
+  },
+  {
+   "slug": "2025-rs-black-private-seller-corby-202610177079152",
+   "title": "2025 RS - Black",
+   "location": "Private seller, Corby",
+   "price": "£9,750",
+   "status": "live",
+   "live_page": "bikes/2025-rs-black-private-seller-corby-202610177079152.html"
+  },
+  {
+   "slug": "2025-rs-cherry-red-wheels-peterborough-202610157029034",
+   "title": "2025 RS - Cherry Red",
+   "location": "Wheels, Peterborough",
+   "price": "£9,295",
+   "status": "live",
+   "live_page": "bikes/2025-rs-cherry-red-wheels-peterborough-202610157029034.html"
+  },
+  {
+   "slug": "2025-rs-cosmic-yellow-lings-triumph-essex-great-dunm-lings11128",
+   "title": "2025 RS - Cosmic Yellow",
+   "location": "Lings Triumph Essex, Great Dunmow",
+   "price": "£9,595",
+   "status": "live",
+   "live_page": "bikes/2025-rs-cosmic-yellow-lings-triumph-essex-great-dunm-lings11128.html"
+  },
+  {
+   "slug": "2025-rs-cosmic-yellow-total-triumph-taunton",
+   "title": "2025 RS - Cosmic Yellow",
+   "location": "Total Triumph, Taunton",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2025-rs-cosmic-yellow-total-triumph-taunton.html"
+  },
+  {
+   "slug": "2025-rs-silver-blade-triumph-cheltenham-gloucester-202605082223825",
+   "title": "2025 RS - Silver",
+   "location": "Blade Triumph Cheltenham, Gloucester",
+   "price": "£8,445",
+   "status": "live",
+   "live_page": "bikes/2025-rs-silver-blade-triumph-cheltenham-gloucester-202605082223825.html"
+  },
+  {
+   "slug": "2025-rs-silver-blade-triumph-cheltenham-gloucester-202606093132782",
+   "title": "2025 RS - Silver",
+   "location": "Blade Triumph Cheltenham, Gloucester",
+   "price": "£9,289",
+   "status": "live",
+   "live_page": "bikes/2025-rs-silver-blade-triumph-cheltenham-gloucester-202606093132782.html"
+  },
+  {
+   "slug": "2025-rs-silver-shirlaws-motorcycles-aberdeen-202609115950183",
+   "title": "2025 RS - Silver",
+   "location": "Shirlaws Motorcycles, Aberdeen",
+   "price": "£8,995",
+   "status": "live",
+   "live_page": "bikes/2025-rs-silver-shirlaws-motorcycles-aberdeen-202609115950183.html"
+  },
+  {
+   "slug": "2025-rs-yellow-cmc-motorcycles-south-wales-newport-ck25sku",
+   "title": "2025 RS - Yellow",
+   "location": "CMC Motorcycles South Wales, Newport",
+   "price": "£9,999",
+   "status": "live",
+   "live_page": "bikes/2025-rs-yellow-cmc-motorcycles-south-wales-newport-ck25sku.html"
+  },
+  {
+   "slug": "2025-rs-yellow-cradley-kawasaki-cradley-heath-202610177083076",
+   "title": "2025 RS - Yellow",
+   "location": "Cradley Kawasaki, Cradley Heath",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2025-rs-yellow-cradley-kawasaki-cradley-heath-202610177083076.html"
+  },
+  {
+   "slug": "2025-rs-yellow-private-seller-kettering-202610036634639",
+   "title": "2025 RS - Yellow",
+   "location": "Private seller, Kettering",
+   "price": "£9,450",
+   "status": "live",
+   "live_page": "bikes/2025-rs-yellow-private-seller-kettering-202610036634639.html"
+  },
+  {
+   "slug": "2025-rs-yellow-webbs-of-lincoln-202610146994185",
+   "title": "2025 RS - Yellow",
+   "location": "Webbs Of Lincoln",
+   "price": "£9,999",
+   "status": "live",
+   "live_page": "bikes/2025-rs-yellow-webbs-of-lincoln-202610146994185.html"
+  },
+  {
+   "slug": "2025-rs-yellow-wokingham-cosmic-yellow-other-watch-rk25ubg",
+   "title": "2025 RS - Yellow",
+   "location": "Wokingham (Cosmic Yellow - other watch)",
+   "price": "£9,695",
+   "status": "live",
+   "live_page": "bikes/2025-rs-yellow-wokingham-cosmic-yellow-other-watch-rk25ubg.html"
+  },
+  {
+   "slug": "2026-765-robert-bevan-u0026-sons-motorcycles-limited-202610036638280",
+   "title": "2026 765",
+   "location": "Robert Bevan \\u0026 Sons (Motorcycles) Limited, Cardiff",
+   "price": "£11,395",
+   "status": "live",
+   "live_page": "bikes/2026-765-robert-bevan-u0026-sons-motorcycles-limited-202610036638280.html"
+  },
+  {
+   "slug": "2026-765-silver-blade-triumph-cheltenham-gloucester-202609226281603",
+   "title": "2026 765 - Silver",
+   "location": "Blade Triumph Cheltenham, Gloucester",
+   "price": "£10,995",
+   "status": "live",
+   "live_page": "bikes/2026-765-silver-blade-triumph-cheltenham-gloucester-202609226281603.html"
+  },
+  {
+   "slug": "2026-moto2-carl-rosner-croydon",
+   "title": "2026 Moto2",
+   "location": "Carl Rosner, Croydon",
+   "price": "£13,995",
+   "status": "live",
+   "live_page": "bikes/2026-moto2-carl-rosner-croydon.html"
+  },
+  {
+   "slug": "2026-moto2-edition-grey-and-white-the-potteries-moto-cx26oym",
+   "title": "2026 Moto2 Edition - Grey And White",
+   "location": "The Potteries Motorcycles & Scooters, Stoke on Trent",
+   "price": "£12,999",
+   "status": "live",
+   "live_page": "bikes/2026-moto2-edition-grey-and-white-the-potteries-moto-cx26oym.html"
+  },
+  {
+   "slug": "2026-moto2-edition-grey-ashford-triumph-202610016572677",
+   "title": "2026 Moto2 Edition - Grey",
+   "location": "Ashford Triumph",
+   "price": "£13,295",
+   "status": "live",
+   "live_page": "bikes/2026-moto2-edition-grey-ashford-triumph-202610016572677.html"
+  },
+  {
+   "slug": "2026-moto2-edition-sutton-motorcycles-limited-tamwor-202609176118544",
+   "title": "2026 Moto2 Edition",
+   "location": "Sutton Motorcycles Limited, Tamworth",
+   "price": "£14,495",
+   "status": "live",
+   "live_page": "bikes/2026-moto2-edition-sutton-motorcycles-limited-tamwor-202609176118544.html"
+  },
+  {
+   "slug": "2026-moto2-edition-white-dave-death-motorcycles-iw-l-202608285515634",
+   "title": "2026 Moto2 Edition - White",
+   "location": "DAVE DEATH MOTORCYCLES (IW) LIMITED, Newport",
+   "price": "£13,795",
+   "status": "live",
+   "live_page": "bikes/2026-moto2-edition-white-dave-death-motorcycles-iw-l-202608285515634.html"
+  },
+  {
+   "slug": "2026-r-white-ocean-triumph-plymouth-202610106858760",
+   "title": "2026 R - White",
+   "location": "Ocean Triumph Plymouth",
+   "price": "£7,990",
+   "status": "live",
+   "live_page": "bikes/2026-r-white-ocean-triumph-plymouth-202610106858760.html"
+  },
+  {
+   "slug": "2026-rs-black-blade-triumph-cheltenham-gloucester-202610177080991",
+   "title": "2026 RS - Black",
+   "location": "Blade Triumph Cheltenham, Gloucester",
+   "price": "£9,989",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-blade-triumph-cheltenham-gloucester-202610177080991.html"
+  },
+  {
+   "slug": "2026-rs-black-jordan-bikes-ltd-gildersome-202608285506311",
+   "title": "2026 RS - Black",
+   "location": "Jordan Bikes Ltd, Gildersome",
+   "price": "£10,290",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-jordan-bikes-ltd-gildersome-202608285506311.html"
+  },
+  {
+   "slug": "2026-rs-black-lings-suffolk-triumph-ipswich-202605112305819",
+   "title": "2026 RS - Black",
+   "location": "Lings Suffolk Triumph, Ipswich",
+   "price": "£10,099",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-lings-suffolk-triumph-ipswich-202605112305819.html"
+  },
+  {
+   "slug": "2026-rs-black-lings-suffolk-triumph-ipswich-ao26vca",
+   "title": "2026 RS - Black",
+   "location": "Lings Suffolk Triumph, Ipswich",
+   "price": "£10,099",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-lings-suffolk-triumph-ipswich-ao26vca.html"
+  },
+  {
+   "slug": "2026-rs-black-lings-triumph-essex-great-dunmow-ea26jho",
+   "title": "2026 RS - Black",
+   "location": "Lings Triumph Essex, Great Dunmow",
+   "price": "£10,099",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-lings-triumph-essex-great-dunmow-ea26jho.html"
+  },
+  {
+   "slug": "2026-rs-black-lings-triumph-essex-great-dunmow-ea26jku",
+   "title": "2026 RS - Black",
+   "location": "Lings Triumph Essex, Great Dunmow",
+   "price": "£10,099",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-lings-triumph-essex-great-dunmow-ea26jku.html"
+  },
+  {
+   "slug": "2026-rs-black-lings-triumph-essex-great-dunmow-ea75bwv",
+   "title": "2026 RS - Black",
+   "location": "Lings Triumph Essex, Great Dunmow",
+   "price": "£9,799",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-lings-triumph-essex-great-dunmow-ea75bwv.html"
+  },
+  {
+   "slug": "2026-rs-black-lings-triumph-norfolk-thetford-au26mvd",
+   "title": "2026 RS - Black",
+   "location": "Lings Triumph Norfolk, Thetford",
+   "price": "£9,799",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-lings-triumph-norfolk-thetford-au26mvd.html"
+  },
+  {
+   "slug": "2026-rs-black-ocean-triumph-plymouth-202607033868607",
+   "title": "2026 RS - Black",
+   "location": "Ocean Triumph Plymouth",
+   "price": "£9,990",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-ocean-triumph-plymouth-202607033868607.html"
+  },
+  {
+   "slug": "2026-rs-black-pure-triumph-woburn-milton-keynes-kr26ghv",
+   "title": "2026 RS - Black",
+   "location": "Pure Triumph Woburn, Milton Keynes",
+   "price": "£9,999",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-pure-triumph-woburn-milton-keynes-kr26ghv.html"
+  },
+  {
+   "slug": "2026-rs-black-pure-triumph-woburn-milton-keynes-ky26fld",
+   "title": "2026 RS - Black",
+   "location": "Pure Triumph Woburn, Milton Keynes",
+   "price": "£10,000",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-pure-triumph-woburn-milton-keynes-ky26fld.html"
+  },
+  {
+   "slug": "2026-rs-black-robert-bevan-u0026-sons-motorcycles-li-202609055750765",
+   "title": "2026 RS - Black",
+   "location": "Robert Bevan \\u0026 Sons (Motorcycles) Limited, Cardiff",
+   "price": "£9,995",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-robert-bevan-u0026-sons-motorcycles-li-202609055750765.html"
+  },
+  {
+   "slug": "2026-rs-exdemo-a1-moto-york",
+   "title": "2026 RS - ex-demo",
+   "location": "A1 Moto, York",
+   "price": "£9,999",
+   "status": "live",
+   "live_page": "bikes/2026-rs-exdemo-a1-moto-york.html"
+  },
+  {
+   "slug": "2026-rs-granite-lings-triumph-essex-great-dunmow-ey76uzv",
+   "title": "2026 RS - Granite",
+   "location": "Lings Triumph Essex, Great Dunmow",
+   "price": "£10,299",
+   "status": "live",
+   "live_page": "bikes/2026-rs-granite-lings-triumph-essex-great-dunmow-ey76uzv.html"
+  },
+  {
+   "slug": "2026-rs-grey-blade-triumph-cheltenham-gloucester-202609146025582",
+   "title": "2026 RS - Grey",
+   "location": "Blade Triumph Cheltenham, Gloucester",
+   "price": "£9,995",
+   "status": "live",
+   "live_page": "bikes/2026-rs-grey-blade-triumph-cheltenham-gloucester-202609146025582.html"
+  },
+  {
+   "slug": "2026-rs-grey-lind-triumph-west-london-byfleet-lc76oea",
+   "title": "2026 RS - Grey",
+   "location": "Lind Triumph West London, Byfleet",
+   "price": "£9,995",
+   "status": "live",
+   "live_page": "bikes/2026-rs-grey-lind-triumph-west-london-byfleet-lc76oea.html"
+  },
+  {
+   "slug": "2026-rs-grey-lings-triumph-essex-dunmow-202609186165610",
+   "title": "2026 RS - Grey",
+   "location": "Lings Triumph Essex, Dunmow",
+   "price": "£10,299",
+   "status": "live",
+   "live_page": "bikes/2026-rs-grey-lings-triumph-essex-dunmow-202609186165610.html"
+  },
+  {
+   "slug": "2026-rs-grey-pure-triumph-woburn-milton-keynes-ky26fle",
+   "title": "2026 RS - Grey",
+   "location": "Pure Triumph Woburn, Milton Keynes",
+   "price": "£9,989",
+   "status": "live",
+   "live_page": "bikes/2026-rs-grey-pure-triumph-woburn-milton-keynes-ky26fle.html"
+  },
+  {
+   "slug": "2026-rs-grey-triumph-east-london-romford-202609216236779",
+   "title": "2026 RS - Grey",
+   "location": "Triumph East London, Romford",
+   "price": "£10,749",
+   "status": "live",
+   "live_page": "bikes/2026-rs-grey-triumph-east-london-romford-202609216236779.html"
+  },
+  {
+   "slug": "2026-rs-grey-webbs-of-lincoln-202609015622954",
+   "title": "2026 RS - Grey",
+   "location": "Webbs Of Lincoln",
+   "price": "£10,495",
+   "status": "live",
+   "live_page": "bikes/2026-rs-grey-webbs-of-lincoln-202609015622954.html"
+  },
+  {
+   "slug": "2026-rs-phantom-black-destination-triumph-christchurch",
+   "title": "2026 RS - Phantom Black",
+   "location": "Destination Triumph, Christchurch",
+   "price": "£10,795",
+   "status": "live",
+   "live_page": "bikes/2026-rs-phantom-black-destination-triumph-christchurch.html"
+  },
+  {
+   "slug": "2026-rs-pre-reg-carl-rosner-croydon",
+   "title": "2026 RS - pre-reg",
+   "location": "Carl Rosner, Croydon",
+   "price": "£10,495",
+   "status": "live",
+   "live_page": "bikes/2026-rs-pre-reg-carl-rosner-croydon.html"
+  },
+  {
+   "slug": "2026-rs-red-private-seller-eastbourne-202609206211840",
+   "title": "2026 RS - Red",
+   "location": "Private seller, Eastbourne",
+   "price": "£10,300",
+   "status": "live",
+   "live_page": "bikes/2026-rs-red-private-seller-eastbourne-202609206211840.html"
+  },
+  {
+   "slug": "2026-rs-robert-bevan-u0026-sons-motorcycles-limited-202609105910065",
+   "title": "2026 RS",
+   "location": "Robert Bevan \\u0026 Sons (Motorcycles) Limited, Cardiff",
+   "price": "£10,295",
+   "status": "live",
+   "live_page": "bikes/2026-rs-robert-bevan-u0026-sons-motorcycles-limited-202609105910065.html"
+  },
+  {
+   "slug": "2026-rs-silver-ice-lings-suffolk-triumph-ipswich-au76mww",
+   "title": "2026 RS - Silver Ice",
+   "location": "Lings Suffolk Triumph, Ipswich",
+   "price": "£10,299",
+   "status": "live",
+   "live_page": "bikes/2026-rs-silver-ice-lings-suffolk-triumph-ipswich-au76mww.html"
+  },
+  {
+   "slug": "2026-rs-silver-tamworth-staffordshire-1803626062",
+   "title": "2026 RS - Silver",
+   "location": "Tamworth, Staffordshire",
+   "price": "£9,895",
+   "status": "live",
+   "live_page": "bikes/2026-rs-silver-tamworth-staffordshire-1803626062.html"
+  },
+  {
+   "slug": "2026-rs-silver-triumph-west-london-west-byfleet-202610157014352",
+   "title": "2026 RS - Silver",
+   "location": "Triumph West London, West Byfleet",
+   "price": "£9,195",
+   "status": "live",
+   "live_page": "bikes/2026-rs-silver-triumph-west-london-west-byfleet-202610157014352.html"
+  },
+  {
+   "slug": "2026-rs-silver-triumph-world-chesterfield-202604021243488",
+   "title": "2026 RS - Silver",
+   "location": "Triumph World, Chesterfield",
+   "price": "£10,199",
+   "status": "live",
+   "live_page": "bikes/2026-rs-silver-triumph-world-chesterfield-202604021243488.html"
+  },
+  {
+   "slug": "2026-rs-silver-youles-manchester-triumph-202609055745063",
+   "title": "2026 RS - Silver",
+   "location": "Youles Manchester Triumph",
+   "price": "£8,999",
+   "status": "live",
+   "live_page": "bikes/2026-rs-silver-youles-manchester-triumph-202609055745063.html"
+  },
+  {
+   "slug": "2026-rs-wellingborough-northamptonshire-1803575207",
+   "title": "2026 RS",
+   "location": "Wellingborough, Northamptonshire",
+   "price": "£10,999",
+   "status": "live",
+   "live_page": "bikes/2026-rs-wellingborough-northamptonshire-1803575207.html"
+  },
+  {
+   "slug": "2026-rx-destination-triumph-christchurch",
+   "title": "2026 RX",
+   "location": "Destination Triumph, Christchurch",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2026-rx-destination-triumph-christchurch.html"
+  },
+  {
+   "slug": "2026-rx-matt-alum-silver-shirlaws-limited-aberdeen-sv26jgx",
+   "title": "2026 RX - Matt Alum Silver",
+   "location": "Shirlaws Limited, Aberdeen",
+   "price": "£10,995",
+   "status": "live",
+   "live_page": "bikes/2026-rx-matt-alum-silver-shirlaws-limited-aberdeen-sv26jgx.html"
+  },
+  {
+   "slug": "2026-rx-matt-aluminium-kc-superbikes-carlisle-cumbri-kc305086",
+   "title": "2026 RX - Matt Aluminium",
+   "location": "KC Superbikes, Carlisle, Cumbria",
+   "price": "£10,995",
+   "status": "live",
+   "live_page": "bikes/2026-rx-matt-aluminium-kc-superbikes-carlisle-cumbri-kc305086.html"
+  },
+  {
+   "slug": "2026-rx-matt-aluminium-silve-lings-suffolk-triumph-i-au76mwv",
+   "title": "2026 RX - Matt Aluminium Silve",
+   "location": "Lings Suffolk Triumph, Ipswich",
+   "price": "£11,595",
+   "status": "live",
+   "live_page": "bikes/2026-rx-matt-aluminium-silve-lings-suffolk-triumph-i-au76mwv.html"
+  },
+  {
+   "slug": "2026-rx-matt-aluminium-west-coast-triumph-glasgow-202610026608871",
+   "title": "2026 RX - Matt Aluminium",
+   "location": "West Coast Triumph Glasgow",
+   "price": "£11,994",
+   "status": "live",
+   "live_page": "bikes/2026-rx-matt-aluminium-west-coast-triumph-glasgow-202610026608871.html"
+  },
+  {
+   "slug": "2026-rx-silver-big-moto-west-midlands-dudley-ky26fmf",
+   "title": "2026 RX - Silver",
+   "location": "Big Moto West Midlands, Dudley",
+   "price": "£10,589",
+   "status": "live",
+   "live_page": "bikes/2026-rx-silver-big-moto-west-midlands-dudley-ky26fmf.html"
+  },
+  {
+   "slug": "2026-rx-silver-bulldog-triumph-wokingham-rk76okv",
+   "title": "2026 RX - Silver",
+   "location": "Bulldog Triumph, WOKINGHAM",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2026-rx-silver-bulldog-triumph-wokingham-rk76okv.html"
+  },
+  {
+   "slug": "2026-rx-silver-carl-rosner-motorcycles-south-croydon-3897418415",
+   "title": "2026 RX - Silver",
+   "location": "Carl Rosner Motorcycles, South Croydon",
+   "price": "SOLD",
+   "status": "sold",
+   "live_page": "bikes/2026-rx-silver-carl-rosner-motorcycles-south-croydon-3897418415.html"
+  },
+  {
+   "slug": "2026-rx-silver-lings-triumph-essex-great-dunmow-ey76uzx",
+   "title": "2026 RX - Silver",
+   "location": "Lings Triumph Essex, Great Dunmow",
+   "price": "£11,595",
+   "status": "live",
+   "live_page": "bikes/2026-rx-silver-lings-triumph-essex-great-dunmow-ey76uzx.html"
+  },
+  {
+   "slug": "2026-rx-silver-premier-bikes-didcot-ltd-abingdon-ov26doa",
+   "title": "2026 RX - Silver",
+   "location": "Premier Bikes (Didcot) Ltd, ABINGDON",
+   "price": "£10,450",
+   "status": "live",
+   "live_page": "bikes/2026-rx-silver-premier-bikes-didcot-ltd-abingdon-ov26doa.html"
+  },
+  {
+   "slug": "2026-rx-silver-pure-triumph-wellingborough-ky76gcx",
+   "title": "2026 RX - Silver",
+   "location": "Pure Triumph Wellingborough",
+   "price": "£10,999",
+   "status": "live",
+   "live_page": "bikes/2026-rx-silver-pure-triumph-wellingborough-ky76gcx.html"
+  },
+  {
+   "slug": "2026-rx-silver-romford-ea26kco",
+   "title": "2026 RX - Silver",
+   "location": "Romford",
+   "price": "£10,495",
+   "status": "live",
+   "live_page": "bikes/2026-rx-silver-romford-ea26kco.html"
+  },
+  {
+   "slug": "2026-rx-silver-shipley-west-yorkshire-1803831065",
+   "title": "2026 RX - Silver",
+   "location": "Shipley, West Yorkshire",
+   "price": "£10,295",
+   "status": "live",
+   "live_page": "bikes/2026-rx-silver-shipley-west-yorkshire-1803831065.html"
+  },
+  {
+   "slug": "2026-rx-silver-triumph-east-london-romford-ey76vcj",
+   "title": "2026 RX - Silver",
+   "location": "Triumph East London, Romford",
+   "price": "£10,995",
+   "status": "live",
+   "live_page": "bikes/2026-rx-silver-triumph-east-london-romford-ey76vcj.html"
+  },
+  {
+   "slug": "2026-rx-silver-triumph-east-london-romford-ey76vck",
+   "title": "2026 RX - Silver",
+   "location": "Triumph East London, Romford",
+   "price": "£11,270",
+   "status": "live",
+   "live_page": "bikes/2026-rx-silver-triumph-east-london-romford-ey76vck.html"
+  },
+  {
+   "slug": "2026-rx-triumph-world-chesterfield",
+   "title": "2026 RX",
+   "location": "Triumph World, Chesterfield",
+   "price": "£10,495",
+   "status": "live",
+   "live_page": "bikes/2026-rx-triumph-world-chesterfield.html"
+  }
+ ]
+}
