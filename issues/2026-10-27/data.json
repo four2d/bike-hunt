@@ -3,11 +3,11 @@
  "issue": 15,
  "source": "build",
  "top_pick": {
-  "slug": "2020-765-silver-dynomite-motorcycles-verwood-202610267330880",
-  "name": "2020 765 RS",
-  "detail": "4,241 miles · £7,294"
+  "slug": "2026-r-white-ocean-triumph-plymouth-202610106858760",
+  "name": "2026 765 R",
+  "detail": "668 miles · £7,990"
  },
- "cover_img": null,
+ "cover_img": "2026-r-white-ocean-triumph-plymouth-202610106858760-1",
  "bike_count": 334,
  "new_bikes": [
   {
@@ -2342,7 +2342,7 @@
   {
    "slug": "2026-r-white-ocean-triumph-plymouth-202610106858760",
    "title": "2026 R - White",
-   "location": "Ocean Triumph Plymouth",
+   "location": "Ocean Triumph, Plymouth",
    "price": "£7,990",
    "status": "live",
    "live_page": "bikes/2026-r-white-ocean-triumph-plymouth-202610106858760.html"
