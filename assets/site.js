@@ -34,7 +34,7 @@ function show(scroll){let h=decodeURIComponent(location.hash.slice(1))||'top',el
  if(!ids.includes(id)){const s=el&&el.closest('main>section');id=s?s.id:'top';if(id==='new-today')id='top'}
  secs.forEach(s=>s.classList.toggle('on',s.id===id||(id==='top'&&s.id==='new-today')));
  H.classList.toggle('notcover',id!=='top');
- T.querySelectorAll('.tab').forEach(a=>{const o=a.dataset.t===id;a.classList.toggle('on',o);if(o)a.scrollIntoView({block:'nearest',inline:'center'})});
+ const tin=T.querySelector('.tabs-in');T.querySelectorAll('.tab').forEach(a=>{const o=a.dataset.t===id;a.classList.toggle('on',o);if(o&&tin){const left=a.offsetLeft-(tin.clientWidth-a.offsetWidth)/2;tin.scrollTo({left:Math.max(0,left),behavior:scroll?'smooth':'auto'})}});
  document.querySelectorAll('main>section.on .rv').forEach(e=>e.classList.add('in'));
  if(scroll){const t=(el&&!ids.includes(h))?el:(id==='top'?document.body:T);window.scrollTo(0,id==='top'&&t===document.body?0:t.getBoundingClientRect().top+window.scrollY-(t===T?0:60))}}
 window.addEventListener('hashchange',()=>show(true));show(location.hash!=='');})();
