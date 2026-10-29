@@ -26,15 +26,3 @@ $('fopen').addEventListener('click',function(){open(true)});$('fclose').addEvent
 document.addEventListener('click',function(e){if(document.body.classList.contains('sheet')&&!sh.contains(e.target)&&e.target!=$('fopen'))open(false)});
 [].forEach.call(document.querySelectorAll('.vt button'),function(b){b.addEventListener('click',function(){[].forEach.call(document.querySelectorAll('.vt button'),function(x){x.classList.toggle('on',x==b)});g.classList.toggle('list',b.dataset.view=='list')})});
 (function(){var q=new URLSearchParams(location.search);if(q.get('d')){var i=DS.indexOf(+q.get('d'));if(i>=0)fd.value=i}if(q.get('sort'))$('fs').value=q.get('sort');run();if(q.get('filters')=='open')open(true);if(q.get('d')||q.get('sort'))setTimeout(function(){document.getElementById('all').scrollIntoView()},50)})()})();
-
-/* tabs: one section per tab, linkable by hash (#rx etc.). Without JS the page stays one long page. */
-(function(){const T=document.getElementById('tabs');if(!T)return;const H=document.documentElement;H.classList.add('tabbed');
-const secs=[...document.querySelectorAll('main>section')],ids=[...T.querySelectorAll('.tab')].map(a=>a.dataset.t);
-function show(scroll){let h=decodeURIComponent(location.hash.slice(1))||'top',el=document.getElementById(h),id=h;
- if(!ids.includes(id)){const s=el&&el.closest('main>section');id=s?s.id:'top';if(id==='new-today')id='top'}
- secs.forEach(s=>s.classList.toggle('on',s.id===id||(id==='top'&&s.id==='new-today')));
- H.classList.toggle('notcover',id!=='top');
- const tin=T.querySelector('.tabs-in');T.querySelectorAll('.tab').forEach(a=>{const o=a.dataset.t===id;a.classList.toggle('on',o);if(o&&tin){const left=a.offsetLeft-(tin.clientWidth-a.offsetWidth)/2;tin.scrollTo({left:Math.max(0,left),behavior:scroll?'smooth':'auto'})}});
- document.querySelectorAll('main>section.on .rv').forEach(e=>e.classList.add('in'));
- if(scroll){const t=(el&&!ids.includes(h))?el:(id==='top'?document.body:T);window.scrollTo(0,id==='top'&&t===document.body?0:t.getBoundingClientRect().top+window.scrollY-(t===T?0:60))}}
-window.addEventListener('hashchange',()=>show(true));show(location.hash!=='');})();
