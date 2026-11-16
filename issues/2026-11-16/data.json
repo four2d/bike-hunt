@@ -8,9 +8,37 @@
   "detail": "8,700 miles · £6,488 · was £6,588"
  },
  "cover_img": "2020-rs-ringwood-1",
- "bike_count": 412,
- "new_bikes": [],
- "price_drops": [],
+ "bike_count": 416,
+ "new_bikes": [
+  {
+   "slug": "2018-r-white-ncw-bikes-neath-202611157933603",
+   "title": "2018 R - White",
+   "price": "£4,275"
+  },
+  {
+   "slug": "2019-r-silver-kjm-superbike-ltd-wigan-202611137897317",
+   "title": "2019 R - Silver",
+   "price": "£4,995"
+  },
+  {
+   "slug": "2026-rs-black-fowlers-of-bristol-limited-202611167942295",
+   "title": "2026 RS - Black",
+   "price": "£9,494"
+  },
+  {
+   "slug": "2024-r-white-shirlaws-limited-aberdeen-256c1480-078",
+   "title": "2024 R - White",
+   "price": "£8,495"
+  }
+ ],
+ "price_drops": [
+  {
+   "slug": "2022-rs-black-vertu-honda-stockton-bikes-stockton-on-202609256397735",
+   "title": "2022 RS - Black",
+   "old": 7889,
+   "new": 7799
+  }
+ ],
  "newly_sold": [
   {
    "slug": "2023-moto2-edition-yellow-stoke-ao23xhv",
@@ -339,6 +367,14 @@
    "live_page": "bikes/2018-r-white-billy-s-motorcycles-ltd-pulborough-202610066722633.html"
   },
   {
+   "slug": "2018-r-white-ncw-bikes-neath-202611157933603",
+   "title": "2018 R - White",
+   "location": "NCW Bikes, Neath",
+   "price": "£4,275",
+   "status": "live",
+   "live_page": "bikes/2018-r-white-ncw-bikes-neath-202611157933603.html"
+  },
+  {
    "slug": "2018-r-white-private-seller-coventry-202610287392568",
    "title": "2018 R - White",
    "location": "Private seller, Coventry",
@@ -571,6 +607,14 @@
    "live_page": "bikes/2019-r-silver-ducati-cambridge-huntingdon-202608114985111.html"
   },
   {
+   "slug": "2019-r-silver-kjm-superbike-ltd-wigan-202611137897317",
+   "title": "2019 R - Silver",
+   "location": "KJM Superbike Ltd, Wigan",
+   "price": "£4,995",
+   "status": "live",
+   "live_page": "bikes/2019-r-silver-kjm-superbike-ltd-wigan-202611137897317.html"
+  },
+  {
    "slug": "2019-r-white-wheels-peterborough-202610167049611",
    "title": "2019 R - White",
    "location": "Wheels, Peterborough",
@@ -638,7 +682,7 @@
    "slug": "2019-rs-grey-bromley-moto-202610126894794",
    "title": "2019 RS - Grey",
    "location": "Bromley Moto",
-   "price": "£4,895",
+   "price": "£5,195",
    "status": "live",
    "live_page": "bikes/2019-rs-grey-bromley-moto-202610126894794.html"
   },
@@ -1310,7 +1354,7 @@
    "slug": "2022-rs-black-vertu-honda-stockton-bikes-stockton-on-202609256397735",
    "title": "2022 RS - Black",
    "location": "Vertu Honda Stockton Bikes, Stockton-on-tees",
-   "price": "£7,889",
+   "price": "£7,799",
    "status": "live",
    "live_page": "bikes/2022-rs-black-vertu-honda-stockton-bikes-stockton-on-202609256397735.html"
   },
@@ -2235,6 +2279,14 @@
    "live_page": "bikes/2024-r-white-private-seller-aberdeen-202611077707462.html"
   },
   {
+   "slug": "2024-r-white-shirlaws-limited-aberdeen-256c1480-078",
+   "title": "2024 R - White",
+   "location": "Shirlaws Limited, Aberdeen",
+   "price": "£8,495",
+   "status": "live",
+   "live_page": "bikes/2024-r-white-shirlaws-limited-aberdeen-256c1480-078.html"
+  },
+  {
    "slug": "2024-r-white-webbs-of-lincoln-202607013792594",
    "title": "2024 R - White",
    "location": "Webbs Of Lincoln",
@@ -2849,6 +2901,14 @@
    "price": "£9,989",
    "status": "live",
    "live_page": "bikes/2026-rs-black-blade-triumph-cheltenham-gloucester-202610177080991.html"
+  },
+  {
+   "slug": "2026-rs-black-fowlers-of-bristol-limited-202611167942295",
+   "title": "2026 RS - Black",
+   "location": "Fowlers Of Bristol Limited",
+   "price": "£9,494",
+   "status": "live",
+   "live_page": "bikes/2026-rs-black-fowlers-of-bristol-limited-202611167942295.html"
   },
   {
    "slug": "2026-rs-black-jordan-bikes-ltd-gildersome-202608285506311",
