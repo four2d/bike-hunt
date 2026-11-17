@@ -8,7 +8,7 @@
   "detail": "67 miles · £10,495"
  },
  "cover_img": "2026-rx-triumph-world-chesterfield-1",
- "bike_count": 418,
+ "bike_count": 421,
  "new_bikes": [
   {
    "slug": "2018-r-white-bulldog-triumph-winnersh-202611167958163",
@@ -19,9 +19,30 @@
    "slug": "2025-r-silver-ice-triumph-approved-exeter-338053",
    "title": "2025 R - Silver Ice",
    "price": "£8,499"
+  },
+  {
+   "slug": "2026-rx-silver-webbs-of-peterborough-9c767b20-8d2",
+   "title": "2026 RX - Silver",
+   "price": "£10,995"
+  },
+  {
+   "slug": "2019-s-black-cmc-motorcycles-chesterfield-b2415e83-aa3",
+   "title": "2019 S - Black",
+   "price": "£6,299"
+  },
+  {
+   "slug": "2022-rs-black-east-midlands-superbikes-derby-1804423923",
+   "title": "2022 RS - Black",
+   "price": "£7,494"
   }
  ],
  "price_drops": [
+  {
+   "slug": "2024-r-silver-preston-superbikes-kw24ubk",
+   "title": "2024 R - Silver",
+   "old": 7995,
+   "new": 7499
+  },
   {
    "slug": "2024-rs-silver-vines-of-guildford-motorrad-202609186151621",
    "title": "2024 RS - Silver",
@@ -35,7 +56,24 @@
    "new": 8295
   }
  ],
- "newly_sold": [],
+ "newly_sold": [
+  {
+   "slug": "2022-rs-black-plymouth-wf22hfn",
+   "title": "2022 RS - Black"
+  },
+  {
+   "slug": "2019-rs-grey-thirsk-north-yorkshire-1803674032",
+   "title": "2019 RS - Grey"
+  },
+  {
+   "slug": "2019-rs-white-shipley-west-yorkshire-1803813476",
+   "title": "2019 RS - White"
+  },
+  {
+   "slug": "2018-rs-black-warwick-warwickshire-1803901484",
+   "title": "2018 RS - Black"
+  }
+ ],
  "bikes": [
   {
    "slug": "2017-r-black-ap-motorcycles-farnborough-202610056674152",
@@ -441,8 +479,8 @@
    "slug": "2018-rs-black-warwick-warwickshire-1803901484",
    "title": "2018 RS - Black",
    "location": "Warwick, Warwickshire",
-   "price": "£5,750",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2018-rs-black-warwick-warwickshire-1803901484.html"
   },
   {
@@ -705,8 +743,8 @@
    "slug": "2019-rs-grey-thirsk-north-yorkshire-1803674032",
    "title": "2019 RS - Grey",
    "location": "Thirsk, North Yorkshire",
-   "price": "£7,695",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2019-rs-grey-thirsk-north-yorkshire-1803674032.html"
   },
   {
@@ -761,8 +799,8 @@
    "slug": "2019-rs-white-shipley-west-yorkshire-1803813476",
    "title": "2019 RS - White",
    "location": "Shipley, West Yorkshire",
-   "price": "£5,249",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2019-rs-white-shipley-west-yorkshire-1803813476.html"
   },
   {
@@ -772,6 +810,14 @@
    "price": "£6,750",
    "status": "live",
    "live_page": "bikes/2019-rs-white-shipley-west-yorkshire-1804182904.html"
+  },
+  {
+   "slug": "2019-s-black-cmc-motorcycles-chesterfield-b2415e83-aa3",
+   "title": "2019 S - Black",
+   "location": "CMC Motorcycles, Chesterfield",
+   "price": "£6,299",
+   "status": "live",
+   "live_page": "bikes/2019-s-black-cmc-motorcycles-chesterfield-b2415e83-aa3.html"
   },
   {
    "slug": "2019-s-red-break-away-motorcycles-tunbridge-wells-202509306756583",
@@ -1286,6 +1332,14 @@
    "live_page": "bikes/2022-rs-black-dudley-west-midlands-1801945741.html"
   },
   {
+   "slug": "2022-rs-black-east-midlands-superbikes-derby-1804423923",
+   "title": "2022 RS - Black",
+   "location": "East Midlands Superbikes, Derby",
+   "price": "£7,494",
+   "status": "live",
+   "live_page": "bikes/2022-rs-black-east-midlands-superbikes-derby-1804423923.html"
+  },
+  {
    "slug": "2022-rs-black-exeter-202611137881680",
    "title": "2022 RS - Black",
    "location": "Exeter",
@@ -1313,8 +1367,8 @@
    "slug": "2022-rs-black-plymouth-wf22hfn",
    "title": "2022 RS - Black",
    "location": "Plymouth",
-   "price": "£7,995",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2022-rs-black-plymouth-wf22hfn.html"
   },
   {
@@ -2193,7 +2247,7 @@
    "slug": "2024-r-silver-preston-superbikes-kw24ubk",
    "title": "2024 R - Silver",
    "location": "Preston Superbikes",
-   "price": "£7,995",
+   "price": "£7,499",
    "status": "live",
    "live_page": "bikes/2024-r-silver-preston-superbikes-kw24ubk.html"
   },
@@ -2710,12 +2764,12 @@
    "live_page": "bikes/2025-rs-black-private-seller-gloucester-202611037568480.html"
   },
   {
-   "slug": "2025-rs-black-private-seller-thirsk-202610237265767",
+   "slug": "2025-rs-black-teasdale-motorcycles-thirsk-202610237265767",
    "title": "2025 RS - Black",
-   "location": "Private seller, Thirsk",
+   "location": "Teasdale Motorcycles, Thirsk",
    "price": "£9,295",
    "status": "live",
-   "live_page": "bikes/2025-rs-black-private-seller-thirsk-202610237265767.html"
+   "live_page": "bikes/2025-rs-black-teasdale-motorcycles-thirsk-202610237265767.html"
   },
   {
    "slug": "2025-rs-cherry-red-wheels-peterborough-202610157029034",
@@ -3364,6 +3418,14 @@
    "price": "£10,749",
    "status": "live",
    "live_page": "bikes/2026-rx-silver-triumph-east-london-romford-ey76vck.html"
+  },
+  {
+   "slug": "2026-rx-silver-webbs-of-peterborough-9c767b20-8d2",
+   "title": "2026 RX - Silver",
+   "location": "Webbs of Peterborough",
+   "price": "£10,995",
+   "status": "live",
+   "live_page": "bikes/2026-rx-silver-webbs-of-peterborough-9c767b20-8d2.html"
   },
   {
    "slug": "2026-rx-silver-youles-manchester-triumph-manchester-202610217192594",
