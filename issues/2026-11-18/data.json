@@ -8,7 +8,7 @@
   "detail": "3 miles · £9,689"
  },
  "cover_img": "2026-rs-granite-lings-triumph-essex-great-dunmow-ey76uzv-1",
- "bike_count": 424,
+ "bike_count": 425,
  "new_bikes": [
   {
    "slug": "2023-rs-red-jordan-bikes-ltd-gildersome-1805089703",
@@ -19,6 +19,11 @@
    "slug": "2023-rs-cosmic-yellow-greenham-kawasaki-thatcham-202611177980584",
    "title": "2023 RS - Cosmic Yellow",
    "price": "£7,895"
+  },
+  {
+   "slug": "2017-s-black-corby-northamptonshire-1805098901",
+   "title": "2017 S - Black",
+   "price": "£3,595"
   }
  ],
  "price_drops": [
@@ -259,6 +264,14 @@
    "price": "£4,999",
    "status": "live",
    "live_page": "bikes/2017-rs-silver-private-seller-york-202611057648306.html"
+  },
+  {
+   "slug": "2017-s-black-corby-northamptonshire-1805098901",
+   "title": "2017 S - Black",
+   "location": "Corby, Northamptonshire",
+   "price": "£3,595",
+   "status": "live",
+   "live_page": "bikes/2017-s-black-corby-northamptonshire-1805098901.html"
   },
   {
    "slug": "2017-s-red-jap-motorcycles-milton-keynes-202610247297973",
