@@ -8,8 +8,14 @@
   "detail": "668 miles · £7,990"
  },
  "cover_img": "2026-r-white-ocean-triumph-plymouth-202610106858760-1",
- "bike_count": 427,
- "new_bikes": [],
+ "bike_count": 428,
+ "new_bikes": [
+  {
+   "slug": "2022-rs-black-east-midland-superbike-derby-202611198044488",
+   "title": "2022 RS - Black",
+   "price": "£7,794"
+  }
+ ],
  "price_drops": [
   {
    "slug": "2025-rs-black-private-seller-corby-202610177079152",
@@ -19,6 +25,18 @@
   }
  ],
  "newly_sold": [
+  {
+   "slug": "2026-rx-silver-triumph-east-london-romford-ey76vck",
+   "title": "2026 RX - Silver"
+  },
+  {
+   "slug": "2026-rs-grey-triumph-east-london-romford-202609216236779",
+   "title": "2026 RS - Grey"
+  },
+  {
+   "slug": "2025-rs-cosmic-yellow-lings-triumph-essex-great-dunm-lings11128",
+   "title": "2025 RS - Cosmic Yellow"
+  },
   {
    "slug": "2020-rs-silver-private-seller-chelmsford-202610217189190",
    "title": "2020 RS - Silver"
@@ -1300,6 +1318,14 @@
    "price": "SOLD",
    "status": "sold",
    "live_page": "bikes/2022-rs-black-dudley-west-midlands-1801945741.html"
+  },
+  {
+   "slug": "2022-rs-black-east-midland-superbike-derby-202611198044488",
+   "title": "2022 RS - Black",
+   "location": "East Midland Superbike, Derby",
+   "price": "£7,794",
+   "status": "live",
+   "live_page": "bikes/2022-rs-black-east-midland-superbike-derby-202611198044488.html"
   },
   {
    "slug": "2022-rs-black-east-midlands-superbikes-derby-1804423923",
@@ -2785,8 +2811,8 @@
    "slug": "2025-rs-cosmic-yellow-lings-triumph-essex-great-dunm-lings11128",
    "title": "2025 RS - Cosmic Yellow",
    "location": "Lings Triumph Essex, Great Dunmow",
-   "price": "£9,595",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2025-rs-cosmic-yellow-lings-triumph-essex-great-dunm-lings11128.html"
   },
   {
@@ -3129,8 +3155,8 @@
    "slug": "2026-rs-grey-triumph-east-london-romford-202609216236779",
    "title": "2026 RS - Grey",
    "location": "Triumph East London, Romford",
-   "price": "£10,749",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2026-rs-grey-triumph-east-london-romford-202609216236779.html"
   },
   {
@@ -3417,8 +3443,8 @@
    "slug": "2026-rx-silver-triumph-east-london-romford-ey76vck",
    "title": "2026 RX - Silver",
    "location": "Triumph East London, Romford",
-   "price": "£10,749",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2026-rx-silver-triumph-east-london-romford-ey76vck.html"
   },
   {
