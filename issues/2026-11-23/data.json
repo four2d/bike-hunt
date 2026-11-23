@@ -8,9 +8,62 @@
   "detail": "3,237 miles · £7,750"
  },
  "cover_img": "2024-rs-yellow-ams-motorcycles-tewkesbury-202609226267411-1",
- "bike_count": 428,
- "new_bikes": [],
+ "bike_count": 436,
+ "new_bikes": [
+  {
+   "slug": "2017-r-white-sheldon-motorcycles-birmingham-202611238142000",
+   "title": "2017 R - White",
+   "price": "£4,195"
+  },
+  {
+   "slug": "2018-r-silver-laguna-triumph-maidstone-aylesford-202611198052694",
+   "title": "2018 R - Silver",
+   "price": "£5,500"
+  },
+  {
+   "slug": "2024-rs-yellow-triumph-newcastle-gateshead-202611198053161",
+   "title": "2024 RS - Yellow",
+   "price": "£8,400"
+  },
+  {
+   "slug": "2017-rs-silver-gibson-motorcycles-welwyn-garden-city-202611218105249",
+   "title": "2017 RS - Silver",
+   "price": "£6,190"
+  },
+  {
+   "slug": "2023-moto2-edition-white-lings-motorcycles-harleston-202611218109266",
+   "title": "2023 Moto2 Edition - White",
+   "price": "£11,495"
+  },
+  {
+   "slug": "2018-r-black-private-seller-basildon-202611218111886",
+   "title": "2018 R - Black",
+   "price": "£5,699"
+  },
+  {
+   "slug": "2018-r-silver-macclesfield-cheshire-1805158559",
+   "title": "2018 R - Silver",
+   "price": "£5,289"
+  },
+  {
+   "slug": "2023-rs-red-bournemouth-dorset-1805193781",
+   "title": "2023 RS - Red",
+   "price": "£8,795"
+  }
+ ],
  "price_drops": [
+  {
+   "slug": "2017-rs-black-newent-gloucestershire-1801107724",
+   "title": "2017 RS - Black",
+   "old": 6190,
+   "new": 5990
+  },
+  {
+   "slug": "2024-rs-black-shipley-west-yorkshire-1801849040",
+   "title": "2024 RS - Black",
+   "old": 9495,
+   "new": 8995
+  },
   {
    "slug": "2023-rs-red-worcester-worcestershire-1801692943",
    "title": "2023 RS - Red",
@@ -30,6 +83,10 @@
    "title": "2023 RS - Yellow"
   },
   {
+   "slug": "2023-r-white-private-seller-west-norwood-202610086803461",
+   "title": "2023 R - White"
+  },
+  {
    "slug": "2022-rs-silver-private-seller-coventry-202610026621911",
    "title": "2022 RS - Silver"
   },
@@ -46,12 +103,28 @@
    "title": "2025 RS - Silver"
   },
   {
+   "slug": "2025-765-red-youles-manchester-triumph-202610086810393",
+   "title": "2025 765 - Red"
+  },
+  {
+   "slug": "2019-765-black-whitby-north-yorkshire-1802844623",
+   "title": "2019 765 - Black"
+  },
+  {
+   "slug": "2023-rs-red-billy-s-motorcycles-ltd-pulborough-202610146969585",
+   "title": "2023 RS - Red"
+  },
+  {
    "slug": "2025-r-robert-bevan-u0026-sons-motorcycles-limited-c-202610157024475",
    "title": "2025 R"
   },
   {
    "slug": "2025-765-black-youles-motorcycles-blackburn-202610177086165",
    "title": "2025 765 - Black"
+  },
+  {
+   "slug": "2026-rs-black-blade-triumph-cheltenham-gloucester-202610177080991",
+   "title": "2026 RS - Black"
   },
   {
    "slug": "2024-rs-yellow-carl-rosner-ltd-croydon-202610217190085",
@@ -70,12 +143,20 @@
    "title": "2025 RS - Red"
   },
   {
+   "slug": "2024-rs-silver-private-seller-taunton-202610307451957",
+   "title": "2024 RS - Silver"
+  },
+  {
    "slug": "2026-rs-black-private-seller-milton-keynes-202607144161950",
    "title": "2026 RS - Black"
   },
   {
    "slug": "2025-rs-black-private-seller-doncaster-202611077707560",
    "title": "2025 RS - Black"
+  },
+  {
+   "slug": "2023-rs-red-jordan-bikes-ltd-gildersome-1805089703",
+   "title": "2023 RS - Red"
   }
  ],
  "bikes": [
@@ -128,6 +209,14 @@
    "live_page": "bikes/2017-r-white-private-seller-birmingham-202610297444726.html"
   },
   {
+   "slug": "2017-r-white-sheldon-motorcycles-birmingham-202611238142000",
+   "title": "2017 R - White",
+   "location": "Sheldon Motorcycles, Birmingham",
+   "price": "£4,195",
+   "status": "live",
+   "live_page": "bikes/2017-r-white-sheldon-motorcycles-birmingham-202611238142000.html"
+  },
+  {
    "slug": "2017-rs-black-hythe-hill-motorcycles-colchester-202610177075776",
    "title": "2017 RS - Black",
    "location": "Hythe Hill Motorcycles, Colchester",
@@ -163,7 +252,7 @@
    "slug": "2017-rs-black-newent-gloucestershire-1801107724",
    "title": "2017 RS - Black",
    "location": "Newent, Gloucestershire",
-   "price": "£6,190",
+   "price": "£5,990",
    "status": "live",
    "live_page": "bikes/2017-rs-black-newent-gloucestershire-1801107724.html"
   },
@@ -246,6 +335,14 @@
    "price": "£5,499",
    "status": "live",
    "live_page": "bikes/2017-rs-silver-circuit-78-motorcycles-newark-202608115008683.html"
+  },
+  {
+   "slug": "2017-rs-silver-gibson-motorcycles-welwyn-garden-city-202611218105249",
+   "title": "2017 RS - Silver",
+   "location": "Gibson Motorcycles, Welwyn Garden City",
+   "price": "£6,190",
+   "status": "live",
+   "live_page": "bikes/2017-rs-silver-gibson-motorcycles-welwyn-garden-city-202611218105249.html"
   },
   {
    "slug": "2017-rs-silver-peterborough-cambridgeshire-1803054759",
@@ -344,6 +441,14 @@
    "live_page": "bikes/2018-r-black-ian-bell-motorcycles-ltd-bedlington-nd18uje.html"
   },
   {
+   "slug": "2018-r-black-private-seller-basildon-202611218111886",
+   "title": "2018 R - Black",
+   "location": "Private seller, Basildon",
+   "price": "£5,699",
+   "status": "live",
+   "live_page": "bikes/2018-r-black-private-seller-basildon-202611218111886.html"
+  },
+  {
    "slug": "2018-r-black-private-seller-manchester-202610066733445",
    "title": "2018 R - Black",
    "location": "Private seller, Manchester",
@@ -374,6 +479,22 @@
    "price": "£5,290",
    "status": "live",
    "live_page": "bikes/2018-r-silver-john-banks-honda-cambridge-cambridge-aca9a59b-afd.html"
+  },
+  {
+   "slug": "2018-r-silver-laguna-triumph-maidstone-aylesford-202611198052694",
+   "title": "2018 R - Silver",
+   "location": "Laguna Triumph Maidstone, Aylesford",
+   "price": "£5,500",
+   "status": "live",
+   "live_page": "bikes/2018-r-silver-laguna-triumph-maidstone-aylesford-202611198052694.html"
+  },
+  {
+   "slug": "2018-r-silver-macclesfield-cheshire-1805158559",
+   "title": "2018 R - Silver",
+   "location": "Macclesfield, Cheshire",
+   "price": "£5,289",
+   "status": "live",
+   "live_page": "bikes/2018-r-silver-macclesfield-cheshire-1805158559.html"
   },
   {
    "slug": "2018-r-silver-new-city-motorcycles-ltd-rayleigh-202609035678139",
@@ -595,8 +716,8 @@
    "slug": "2019-765-black-whitby-north-yorkshire-1802844623",
    "title": "2019 765 - Black",
    "location": "Whitby, North Yorkshire",
-   "price": "£5,200",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2019-765-black-whitby-north-yorkshire-1802844623.html"
   },
   {
@@ -1528,6 +1649,14 @@
    "live_page": "bikes/2023-moto2-ebay.html"
   },
   {
+   "slug": "2023-moto2-edition-white-lings-motorcycles-harleston-202611218109266",
+   "title": "2023 Moto2 Edition - White",
+   "location": "Lings Motorcycles Harleston",
+   "price": "£11,495",
+   "status": "live",
+   "live_page": "bikes/2023-moto2-edition-white-lings-motorcycles-harleston-202611218109266.html"
+  },
+  {
    "slug": "2023-moto2-edition-white-private-seller-lincoln-202611037588551",
    "title": "2023 Moto2 Edition - White",
    "location": "Private seller, Lincoln",
@@ -1867,8 +1996,8 @@
    "slug": "2023-r-white-private-seller-west-norwood-202610086803461",
    "title": "2023 R - White",
    "location": "Private seller, West Norwood",
-   "price": "£6,990",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2023-r-white-private-seller-west-norwood-202610086803461.html"
   },
   {
@@ -1987,9 +2116,17 @@
    "slug": "2023-rs-red-billy-s-motorcycles-ltd-pulborough-202610146969585",
    "title": "2023 RS - Red",
    "location": "Billy's Motorcycles Ltd, Pulborough",
-   "price": "£8,499",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2023-rs-red-billy-s-motorcycles-ltd-pulborough-202610146969585.html"
+  },
+  {
+   "slug": "2023-rs-red-bournemouth-dorset-1805193781",
+   "title": "2023 RS - Red",
+   "location": "Bournemouth, Dorset",
+   "price": "£8,795",
+   "status": "live",
+   "live_page": "bikes/2023-rs-red-bournemouth-dorset-1805193781.html"
   },
   {
    "slug": "2023-rs-red-ca-motorcycles-scotland-ltd-clydebank-202609146034556",
@@ -2043,8 +2180,8 @@
    "slug": "2023-rs-red-jordan-bikes-ltd-gildersome-1805089703",
    "title": "2023 RS - Red",
    "location": "Jordan Bikes Ltd, Gildersome",
-   "price": "£7,790",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2023-rs-red-jordan-bikes-ltd-gildersome-1805089703.html"
   },
   {
@@ -2411,7 +2548,7 @@
    "slug": "2024-rs-black-shipley-west-yorkshire-1801849040",
    "title": "2024 RS - Black",
    "location": "Shipley, West Yorkshire",
-   "price": "£9,495",
+   "price": "£8,995",
    "status": "live",
    "live_page": "bikes/2024-rs-black-shipley-west-yorkshire-1801849040.html"
   },
@@ -2571,8 +2708,8 @@
    "slug": "2024-rs-silver-private-seller-taunton-202610307451957",
    "title": "2024 RS - Silver",
    "location": "Private seller, Taunton",
-   "price": "£7,250",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2024-rs-silver-private-seller-taunton-202610307451957.html"
   },
   {
@@ -2696,6 +2833,14 @@
    "live_page": "bikes/2024-rs-yellow-trident-motors-bushey-202605312846950.html"
   },
   {
+   "slug": "2024-rs-yellow-triumph-newcastle-gateshead-202611198053161",
+   "title": "2024 RS - Yellow",
+   "location": "Triumph Newcastle, Gateshead",
+   "price": "£8,400",
+   "status": "live",
+   "live_page": "bikes/2024-rs-yellow-triumph-newcastle-gateshead-202611198053161.html"
+  },
+  {
    "slug": "2025-765-black-youles-motorcycles-blackburn-202610177086165",
    "title": "2025 765 - Black",
    "location": "Youles Motorcycles Blackburn",
@@ -2715,8 +2860,8 @@
    "slug": "2025-765-red-youles-manchester-triumph-202610086810393",
    "title": "2025 765 - Red",
    "location": "Youles Manchester Triumph",
-   "price": "£9,099",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2025-765-red-youles-manchester-triumph-202610086810393.html"
   },
   {
@@ -3011,8 +3156,8 @@
    "slug": "2026-rs-black-blade-triumph-cheltenham-gloucester-202610177080991",
    "title": "2026 RS - Black",
    "location": "Blade Triumph Cheltenham, Gloucester",
-   "price": "£9,989",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2026-rs-black-blade-triumph-cheltenham-gloucester-202610177080991.html"
   },
   {
