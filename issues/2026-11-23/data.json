@@ -8,7 +8,7 @@
   "detail": "3,237 miles · £7,750"
  },
  "cover_img": "2024-rs-yellow-ams-motorcycles-tewkesbury-202609226267411-1",
- "bike_count": 436,
+ "bike_count": 441,
  "new_bikes": [
   {
    "slug": "2017-r-white-sheldon-motorcycles-birmingham-202611238142000",
@@ -33,7 +33,7 @@
   {
    "slug": "2023-moto2-edition-white-lings-motorcycles-harleston-202611218109266",
    "title": "2023 Moto2 Edition - White",
-   "price": "£11,495"
+   "price": "SOLD"
   },
   {
    "slug": "2018-r-black-private-seller-basildon-202611218111886",
@@ -49,9 +49,47 @@
    "slug": "2023-rs-red-bournemouth-dorset-1805193781",
    "title": "2023 RS - Red",
    "price": "£8,795"
+  },
+  {
+   "slug": "2021-rs-black-new-city-motorcycles-ltd-rayleigh-202611238152800",
+   "title": "2021 RS - Black",
+   "price": "£7,000"
+  },
+  {
+   "slug": "2018-rs-white-private-seller-rainham-202611238154459",
+   "title": "2018 RS - White",
+   "price": "£4,600"
+  },
+  {
+   "slug": "2024-rs-red-preston-motorcycles-ashton-on-ribble-1805278069",
+   "title": "2024 RS - Red",
+   "price": "£8,995"
+  },
+  {
+   "slug": "2018-s-red-destination-triumph-dorset-christchurch-9cc7af32-d18",
+   "title": "2018 S - Red",
+   "price": "£4,495"
   }
  ],
  "price_drops": [
+  {
+   "slug": "2023-r-silver-big-moto-west-midlands-dudley-wf23ojw",
+   "title": "2023 R - Silver",
+   "old": 6689,
+   "new": 6589
+  },
+  {
+   "slug": "2018-rs-black-great-yarmouth-norfolk-1802489213",
+   "title": "2018 RS - Black",
+   "old": 5489,
+   "new": 5389
+  },
+  {
+   "slug": "2021-r-black-dudley-west-midlands-1800451549",
+   "title": "2021 R - Black",
+   "old": 6289,
+   "new": 6189
+  },
   {
    "slug": "2017-rs-black-newent-gloucestershire-1801107724",
    "title": "2017 RS - Black",
@@ -63,6 +101,18 @@
    "title": "2024 RS - Black",
    "old": 9495,
    "new": 8995
+  },
+  {
+   "slug": "2024-rs-silver-vines-of-guildford-motorrad-202609186151621",
+   "title": "2024 RS - Silver",
+   "old": 7790,
+   "new": 7740
+  },
+  {
+   "slug": "2024-rs-silver-crescent-motorcycle-co-ltd-bournemout-202609085843947",
+   "title": "2024 RS - Silver",
+   "old": 8495,
+   "new": 7999
   },
   {
    "slug": "2023-rs-red-worcester-worcestershire-1801692943",
@@ -97,14 +147,6 @@
   {
    "slug": "2026-r-white-ocean-triumph-plymouth-202610106858760",
    "title": "2026 R - White"
-  },
-  {
-   "slug": "2025-rs-silver-shirlaws-motorcycles-aberdeen-202609115950183",
-   "title": "2025 RS - Silver"
-  },
-  {
-   "slug": "2025-765-red-youles-manchester-triumph-202610086810393",
-   "title": "2025 765 - Red"
   },
   {
    "slug": "2019-765-black-whitby-north-yorkshire-1802844623",
@@ -157,6 +199,10 @@
   {
    "slug": "2023-rs-red-jordan-bikes-ltd-gildersome-1805089703",
    "title": "2023 RS - Red"
+  },
+  {
+   "slug": "2023-moto2-edition-white-lings-motorcycles-harleston-202611218109266",
+   "title": "2023 Moto2 Edition - White"
   }
  ],
  "bikes": [
@@ -580,7 +626,7 @@
    "slug": "2018-rs-black-great-yarmouth-norfolk-1802489213",
    "title": "2018 RS - Black",
    "location": "Great Yarmouth, Norfolk",
-   "price": "£5,489",
+   "price": "£5,389",
    "status": "live",
    "live_page": "bikes/2018-rs-black-great-yarmouth-norfolk-1802489213.html"
   },
@@ -641,6 +687,14 @@
    "live_page": "bikes/2018-rs-silver-preston-motorcycles-202609246364948.html"
   },
   {
+   "slug": "2018-rs-white-private-seller-rainham-202611238154459",
+   "title": "2018 RS - White",
+   "location": "Private seller, Rainham",
+   "price": "£4,600",
+   "status": "live",
+   "live_page": "bikes/2018-rs-white-private-seller-rainham-202611238154459.html"
+  },
+  {
    "slug": "2018-s-black-grimsby-lincolnshire-1801971069",
    "title": "2018 S - Black",
    "location": "Grimsby, Lincolnshire",
@@ -679,6 +733,14 @@
    "price": "£5,995",
    "status": "live",
    "live_page": "bikes/2018-s-black-wigan-202611137897318.html"
+  },
+  {
+   "slug": "2018-s-red-destination-triumph-dorset-christchurch-9cc7af32-d18",
+   "title": "2018 S - Red",
+   "location": "Destination Triumph Dorset, Christchurch",
+   "price": "£4,495",
+   "status": "live",
+   "live_page": "bikes/2018-s-red-destination-triumph-dorset-christchurch-9cc7af32-d18.html"
   },
   {
    "slug": "2018-s-red-private-seller-southampton-202610247283690",
@@ -1268,7 +1330,7 @@
    "slug": "2021-r-black-dudley-west-midlands-1800451549",
    "title": "2021 R - Black",
    "location": "Dudley, West Midlands",
-   "price": "£6,289",
+   "price": "£6,189",
    "status": "live",
    "live_page": "bikes/2021-r-black-dudley-west-midlands-1800451549.html"
   },
@@ -1319,6 +1381,14 @@
    "price": "£6,490",
    "status": "live",
    "live_page": "bikes/2021-r-tewkesbury.html"
+  },
+  {
+   "slug": "2021-rs-black-new-city-motorcycles-ltd-rayleigh-202611238152800",
+   "title": "2021 RS - Black",
+   "location": "New City Motorcycles Ltd, Rayleigh",
+   "price": "£7,000",
+   "status": "live",
+   "live_page": "bikes/2021-rs-black-new-city-motorcycles-ltd-rayleigh-202611238152800.html"
   },
   {
    "slug": "2021-rs-black-private-seller-bordon-202610146979710",
@@ -1593,6 +1663,14 @@
    "live_page": "bikes/2022-rs-silver-private-seller-coventry-202610026621911.html"
   },
   {
+   "slug": "2022-rs-silver-putney-london-1803823327",
+   "title": "2022 RS - Silver",
+   "location": "Putney, London",
+   "price": "£6,700",
+   "status": "live",
+   "live_page": "bikes/2022-rs-silver-putney-london-1803823327.html"
+  },
+  {
    "slug": "2022-rs-silver-triumph-newcastle-gateshead-202609306537521",
    "title": "2022 RS - Silver",
    "location": "Triumph Newcastle, Gateshead",
@@ -1652,8 +1730,8 @@
    "slug": "2023-moto2-edition-white-lings-motorcycles-harleston-202611218109266",
    "title": "2023 Moto2 Edition - White",
    "location": "Lings Motorcycles Harleston",
-   "price": "£11,495",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2023-moto2-edition-white-lings-motorcycles-harleston-202611218109266.html"
   },
   {
@@ -1804,7 +1882,7 @@
    "slug": "2023-r-silver-big-moto-west-midlands-dudley-wf23ojw",
    "title": "2023 R - Silver",
    "location": "Big Moto West Midlands, Dudley",
-   "price": "£6,689",
+   "price": "£6,589",
    "status": "live",
    "live_page": "bikes/2023-r-silver-big-moto-west-midlands-dudley-wf23ojw.html"
   },
@@ -2633,6 +2711,14 @@
    "live_page": "bikes/2024-rs-red-newport-hw24lvy.html"
   },
   {
+   "slug": "2024-rs-red-preston-motorcycles-ashton-on-ribble-1805278069",
+   "title": "2024 RS - Red",
+   "location": "Preston Motorcycles, Ashton-on-Ribble",
+   "price": "£8,995",
+   "status": "live",
+   "live_page": "bikes/2024-rs-red-preston-motorcycles-ashton-on-ribble-1805278069.html"
+  },
+  {
    "slug": "2024-rs-red-private-seller-bishop-s-stortford-202610187093807",
    "title": "2024 RS - Red",
    "location": "Private seller, Bishop's Stortford",
@@ -2684,7 +2770,7 @@
    "slug": "2024-rs-silver-crescent-motorcycle-co-ltd-bournemout-202609085843947",
    "title": "2024 RS - Silver",
    "location": "Crescent Motorcycle Co Ltd Bournemouth, Bournemouth,",
-   "price": "£8,495",
+   "price": "£7,999",
    "status": "live",
    "live_page": "bikes/2024-rs-silver-crescent-motorcycle-co-ltd-bournemout-202609085843947.html"
   },
@@ -2724,7 +2810,7 @@
    "slug": "2024-rs-silver-vines-of-guildford-motorrad-202609186151621",
    "title": "2024 RS - Silver",
    "location": "Vines of Guildford Motorrad",
-   "price": "£7,790",
+   "price": "£7,740",
    "status": "live",
    "live_page": "bikes/2024-rs-silver-vines-of-guildford-motorrad-202609186151621.html"
   },
@@ -2860,8 +2946,8 @@
    "slug": "2025-765-red-youles-manchester-triumph-202610086810393",
    "title": "2025 765 - Red",
    "location": "Youles Manchester Triumph",
-   "price": "SOLD",
-   "status": "sold",
+   "price": "£9,099",
+   "status": "live",
    "live_page": "bikes/2025-765-red-youles-manchester-triumph-202610086810393.html"
   },
   {
@@ -3036,8 +3122,8 @@
    "slug": "2025-rs-silver-shirlaws-motorcycles-aberdeen-202609115950183",
    "title": "2025 RS - Silver",
    "location": "Shirlaws Motorcycles, Aberdeen",
-   "price": "SOLD",
-   "status": "sold",
+   "price": "£8,995",
+   "status": "live",
    "live_page": "bikes/2025-rs-silver-shirlaws-motorcycles-aberdeen-202609115950183.html"
   },
   {
