@@ -16,11 +16,18 @@
    "price": "£5,695"
   }
  ],
- "price_drops": [],
+ "price_drops": [
+  {
+   "slug": "2022-rs-silver-putney-london-1803823327",
+   "title": "2022 RS - Silver",
+   "old": 6700,
+   "new": 6300
+  }
+ ],
  "newly_sold": [
   {
-   "slug": "2018-r-black-wigan-manchester-1803173665",
-   "title": "2018 R - Black"
+   "slug": "2018-s-black-grimsby-lincolnshire-1801971069",
+   "title": "2018 S - Black"
   },
   {
    "slug": "2026-rs-granite-triumph-approved-triumph-east-london-337100",
@@ -328,8 +335,8 @@
    "slug": "2018-r-black-wigan-manchester-1803173665",
    "title": "2018 R - Black",
    "location": "Wigan, Manchester",
-   "price": "SOLD",
-   "status": "sold",
+   "price": "£5,249",
+   "status": "live",
    "live_page": "bikes/2018-r-black-wigan-manchester-1803173665.html"
   },
   {
@@ -520,8 +527,8 @@
    "slug": "2018-s-black-grimsby-lincolnshire-1801971069",
    "title": "2018 S - Black",
    "location": "Grimsby, Lincolnshire",
-   "price": "£5,499",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2018-s-black-grimsby-lincolnshire-1801971069.html"
   },
   {
@@ -1496,7 +1503,7 @@
    "slug": "2022-rs-silver-putney-london-1803823327",
    "title": "2022 RS - Silver",
    "location": "Putney, London",
-   "price": "£6,700",
+   "price": "£6,300",
    "status": "live",
    "live_page": "bikes/2022-rs-silver-putney-london-1803823327.html"
   },
