@@ -8,10 +8,20 @@
   "detail": "8,700 miles · £6,488 · was £6,588"
  },
  "cover_img": "2020-rs-ringwood-1",
- "bike_count": 441,
- "new_bikes": [],
+ "bike_count": 442,
+ "new_bikes": [
+  {
+   "slug": "2019-rs-grey-revu-moto-ltd-basingstoke-202611248176887",
+   "title": "2019 RS - Grey",
+   "price": "£5,695"
+  }
+ ],
  "price_drops": [],
  "newly_sold": [
+  {
+   "slug": "2018-r-black-wigan-manchester-1803173665",
+   "title": "2018 R - Black"
+  },
   {
    "slug": "2026-rs-granite-triumph-approved-triumph-east-london-337100",
    "title": "2026 RS - Granite"
@@ -318,8 +328,8 @@
    "slug": "2018-r-black-wigan-manchester-1803173665",
    "title": "2018 R - Black",
    "location": "Wigan, Manchester",
-   "price": "£5,249",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2018-r-black-wigan-manchester-1803173665.html"
   },
   {
@@ -745,6 +755,14 @@
    "price": "£6,795",
    "status": "live",
    "live_page": "bikes/2019-rs-grey-private-seller-perth-202610287413066.html"
+  },
+  {
+   "slug": "2019-rs-grey-revu-moto-ltd-basingstoke-202611248176887",
+   "title": "2019 RS - Grey",
+   "location": "Revu Moto Ltd, Basingstoke",
+   "price": "£5,695",
+   "status": "live",
+   "live_page": "bikes/2019-rs-grey-revu-moto-ltd-basingstoke-202611248176887.html"
   },
   {
    "slug": "2019-rs-grey-thirsk-north-yorkshire-1803674032",
