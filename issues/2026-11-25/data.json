@@ -22,9 +22,26 @@
    "title": "2025 RS - Silver",
    "old": 9289,
    "new": 8989
+  },
+  {
+   "slug": "2026-rs-black-jordan-bikes-ltd-gildersome-202608285506311",
+   "title": "2026 RS - Black",
+   "old": 10290,
+   "new": 9790
+  },
+  {
+   "slug": "2021-rs-black-private-seller-bordon-202610146979710",
+   "title": "2021 RS - Black",
+   "old": 6999,
+   "new": 6799
   }
  ],
- "newly_sold": [],
+ "newly_sold": [
+  {
+   "slug": "2026-rx-triumph-world-chesterfield",
+   "title": "2026 RX"
+  }
+ ],
  "bikes": [
   {
    "slug": "2017-r-black-ap-motorcycles-farnborough-202610056674152",
@@ -1230,7 +1247,7 @@
    "slug": "2021-rs-black-private-seller-bordon-202610146979710",
    "title": "2021 RS - Black",
    "location": "Private seller, Bordon",
-   "price": "£6,999",
+   "price": "£6,799",
    "status": "live",
    "live_page": "bikes/2021-rs-black-private-seller-bordon-202610146979710.html"
   },
@@ -3094,7 +3111,7 @@
    "slug": "2026-rs-black-jordan-bikes-ltd-gildersome-202608285506311",
    "title": "2026 RS - Black",
    "location": "Jordan Bikes Ltd, Gildersome",
-   "price": "£10,290",
+   "price": "£9,790",
    "status": "live",
    "live_page": "bikes/2026-rs-black-jordan-bikes-ltd-gildersome-202608285506311.html"
   },
@@ -3566,8 +3583,8 @@
    "slug": "2026-rx-triumph-world-chesterfield",
    "title": "2026 RX",
    "location": "Triumph World, Chesterfield",
-   "price": "£10,495",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2026-rx-triumph-world-chesterfield.html"
   }
  ]
