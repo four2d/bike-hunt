@@ -8,9 +8,22 @@
   "detail": "7,168 miles · £10,495 · was £10,999"
  },
  "cover_img": "2023-moto2-blade-triumph-stratford-1",
- "bike_count": 442,
- "new_bikes": [],
- "price_drops": [],
+ "bike_count": 443,
+ "new_bikes": [
+  {
+   "slug": "2021-r-bill-smith-motors-limited-chester-202611258209236",
+   "title": "2021 R",
+   "price": "£5,995"
+  }
+ ],
+ "price_drops": [
+  {
+   "slug": "2025-rs-silver-blade-triumph-cheltenham-gloucester-202606093132782",
+   "title": "2025 RS - Silver",
+   "old": 9289,
+   "new": 8989
+  }
+ ],
  "newly_sold": [],
  "bikes": [
   {
@@ -1124,6 +1137,14 @@
    "price": "£6,995",
    "status": "live",
    "live_page": "bikes/2020-rs-silver-sheldon-motorcycles-birmingham-202609035685598.html"
+  },
+  {
+   "slug": "2021-r-bill-smith-motors-limited-chester-202611258209236",
+   "title": "2021 R",
+   "location": "Bill Smith Motors Limited, Chester",
+   "price": "£5,995",
+   "status": "live",
+   "live_page": "bikes/2021-r-bill-smith-motors-limited-chester-202611258209236.html"
   },
   {
    "slug": "2021-r-black-big-moto-cheshire-macclesfield-sa21xym",
@@ -2929,7 +2950,7 @@
    "slug": "2025-rs-silver-blade-triumph-cheltenham-gloucester-202606093132782",
    "title": "2025 RS - Silver",
    "location": "Blade Triumph Cheltenham, Gloucester",
-   "price": "£9,289",
+   "price": "£8,989",
    "status": "live",
    "live_page": "bikes/2025-rs-silver-blade-triumph-cheltenham-gloucester-202606093132782.html"
   },
