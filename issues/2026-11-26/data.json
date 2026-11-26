@@ -8,9 +8,27 @@
   "detail": "1,509 miles · £10,299"
  },
  "cover_img": "2026-rx-silver-youles-manchester-triumph-manchester-202610217192594-1",
- "bike_count": 445,
- "new_bikes": [],
+ "bike_count": 446,
+ "new_bikes": [
+  {
+   "slug": "2023-rs-silver-tom-oliver-motorcycles-halstead-1805375013",
+   "title": "2023 RS - Silver",
+   "price": "£7,895"
+  }
+ ],
  "price_drops": [
+  {
+   "slug": "2020-r-black-wallington-london-1802613209",
+   "title": "2020 R - Black",
+   "old": 6699,
+   "new": 6399
+  },
+  {
+   "slug": "2026-rs-black-wellingborough-northamptonshire-1803575207",
+   "title": "2026 RS - Black",
+   "old": 10999,
+   "new": 10495
+  },
   {
    "slug": "2023-r-white-bikers-nottingham-202605022074780",
    "title": "2023 R - White",
@@ -22,6 +40,12 @@
    "title": "2018 R - Black",
    "old": 5699,
    "new": 5500
+  },
+  {
+   "slug": "2022-rs-silver-putney-london-1803823327",
+   "title": "2022 RS - Silver",
+   "old": 6300,
+   "new": 6200
   }
  ],
  "newly_sold": [
@@ -915,7 +939,7 @@
    "slug": "2020-r-black-wallington-london-1802613209",
    "title": "2020 R - Black",
    "location": "Wallington, London",
-   "price": "£6,699",
+   "price": "£6,399",
    "status": "live",
    "live_page": "bikes/2020-r-black-wallington-london-1802613209.html"
   },
@@ -1515,7 +1539,7 @@
    "slug": "2022-rs-silver-putney-london-1803823327",
    "title": "2022 RS - Silver",
    "location": "Putney, London",
-   "price": "£6,300",
+   "price": "£6,200",
    "status": "live",
    "live_page": "bikes/2022-rs-silver-putney-london-1803823327.html"
   },
@@ -2222,6 +2246,14 @@
    "price": "£8,299",
    "status": "live",
    "live_page": "bikes/2023-rs-silver-private-seller-penrith-202610036644149.html"
+  },
+  {
+   "slug": "2023-rs-silver-tom-oliver-motorcycles-halstead-1805375013",
+   "title": "2023 RS - Silver",
+   "location": "Tom Oliver Motorcycles, Halstead",
+   "price": "£7,895",
+   "status": "live",
+   "live_page": "bikes/2023-rs-silver-tom-oliver-motorcycles-halstead-1805375013.html"
   },
   {
    "slug": "2023-rs-silver-v-duo-motorcycles-lincoln-202607154208369",
@@ -3203,7 +3235,7 @@
    "slug": "2026-rs-black-wellingborough-northamptonshire-1803575207",
    "title": "2026 RS - Black",
    "location": "Wellingborough, Northamptonshire",
-   "price": "£10,999",
+   "price": "£10,495",
    "status": "live",
    "live_page": "bikes/2026-rs-black-wellingborough-northamptonshire-1803575207.html"
   },
