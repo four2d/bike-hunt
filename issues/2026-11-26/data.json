@@ -8,12 +8,17 @@
   "detail": "1,509 miles · £10,299"
  },
  "cover_img": "2026-rx-silver-youles-manchester-triumph-manchester-202610217192594-1",
- "bike_count": 446,
+ "bike_count": 447,
  "new_bikes": [
   {
    "slug": "2023-rs-silver-tom-oliver-motorcycles-halstead-1805375013",
    "title": "2023 RS - Silver",
    "price": "£7,895"
+  },
+  {
+   "slug": "2022-rs-black-optimum-bikes-ltd-york-202611258210138",
+   "title": "2022 RS - Black",
+   "price": "£7,490"
   }
  ],
  "price_drops": [
@@ -34,6 +39,12 @@
    "title": "2023 R - White",
    "old": 6599,
    "new": 6499
+  },
+  {
+   "slug": "2023-rs-silver-ducati-worcester-202610086803085",
+   "title": "2023 RS - Silver",
+   "old": 7995,
+   "new": 7695
   },
   {
    "slug": "2018-r-black-private-seller-basildon-202611218111886",
@@ -1448,6 +1459,14 @@
    "live_page": "bikes/2022-rs-black-moore-motorcycles-bury-202610076772302.html"
   },
   {
+   "slug": "2022-rs-black-optimum-bikes-ltd-york-202611258210138",
+   "title": "2022 RS - Black",
+   "location": "Optimum Bikes Ltd, York",
+   "price": "£7,490",
+   "status": "live",
+   "live_page": "bikes/2022-rs-black-optimum-bikes-ltd-york-202611258210138.html"
+  },
+  {
    "slug": "2022-rs-black-peterborough-cambridgeshire-1800680195",
    "title": "2022 RS - Black",
    "location": "Peterborough, Cambridgeshire",
@@ -2203,7 +2222,7 @@
    "slug": "2023-rs-silver-ducati-worcester-202610086803085",
    "title": "2023 RS - Silver",
    "location": "Ducati Worcester",
-   "price": "£7,995",
+   "price": "£7,695",
    "status": "live",
    "live_page": "bikes/2023-rs-silver-ducati-worcester-202610086803085.html"
   },
