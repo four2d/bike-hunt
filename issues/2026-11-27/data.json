@@ -8,7 +8,7 @@
   "detail": "165 miles · £8,000"
  },
  "cover_img": "2025-r-white-private-seller-nantwich-202610207177070-1",
- "bike_count": 449,
+ "bike_count": 450,
  "new_bikes": [
   {
    "slug": "2024-r-white-preston-motorcycles-202611268263959",
@@ -19,6 +19,11 @@
    "slug": "2025-r-white-preston-motorcycles-202611268263962",
    "title": "2025 R - White",
    "price": "£7,795"
+  },
+  {
+   "slug": "2024-r-silver-chris-hall-motorcycles-doncaster-1805417030",
+   "title": "2024 R - Silver",
+   "price": "£7,450"
   }
  ],
  "price_drops": [],
@@ -2359,6 +2364,14 @@
    "price": "£7,589",
    "status": "live",
    "live_page": "bikes/2024-r-silver-big-moto-west-midlands-dudley-wg74hae.html"
+  },
+  {
+   "slug": "2024-r-silver-chris-hall-motorcycles-doncaster-1805417030",
+   "title": "2024 R - Silver",
+   "location": "Chris Hall Motorcycles, Doncaster",
+   "price": "£7,450",
+   "status": "live",
+   "live_page": "bikes/2024-r-silver-chris-hall-motorcycles-doncaster-1805417030.html"
   },
   {
    "slug": "2024-r-silver-lings-triumph-essex-great-dunmow-ek74dyt",
