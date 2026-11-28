@@ -23,13 +23,24 @@
  ],
  "price_drops": [
   {
+   "slug": "2023-moto2-ebay",
+   "title": "2023 Moto2",
+   "old": 11995,
+   "new": 11495
+  },
+  {
    "slug": "2023-r-silver-bikespeeduk-ltd-livingston-202608285528486",
    "title": "2023 R - Silver",
    "old": 6595,
    "new": 6295
   }
  ],
- "newly_sold": [],
+ "newly_sold": [
+  {
+   "slug": "2023-rs-red-worcester-worcestershire-1801692943",
+   "title": "2023 RS - Red"
+  }
+ ],
  "bikes": [
   {
    "slug": "2017-r-black-ap-motorcycles-farnborough-202610056674152",
@@ -1595,7 +1606,7 @@
    "slug": "2023-moto2-ebay",
    "title": "2023 Moto2",
    "location": "eBay",
-   "price": "£11,995",
+   "price": "£11,495",
    "status": "live",
    "live_page": "bikes/2023-moto2-ebay.html"
   },
@@ -2171,8 +2182,8 @@
    "slug": "2023-rs-red-worcester-worcestershire-1801692943",
    "title": "2023 RS - Red",
    "location": "Worcester, Worcestershire",
-   "price": "£6,999",
-   "status": "live",
+   "price": "SOLD",
+   "status": "sold",
    "live_page": "bikes/2023-rs-red-worcester-worcestershire-1801692943.html"
   },
   {
